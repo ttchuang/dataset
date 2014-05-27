@@ -5,3 +5,5 @@ project1
 This is a practice repo
 
 ## Second level heading
+* First point
+* Second point
