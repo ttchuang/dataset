@@ -1,0 +1,469 @@
+﻿OrderDate,Units,Unit Price,Item,Rep,Region,Country
+12/29/2010,1,2024.994,"Mountain-100 Black, 42",Reiter,Southeast,United States
+12/29/2010,1,809.76,"HL Mountain Frame - Black, 48",Saraiva,Canada,Canada
+12/29/2010,1,419.4589,"Road-650 Red, 60",Mitchell,Southwest,United States
+12/29/2010,1,2039.994,"Mountain-100 Silver, 42",Ansman-Wolfe,Northwest,United States
+12/29/2010,2,20.1865,"Sport-100 Helmet, Blue",Campbell,Northwest,United States
+12/29/2010,3,5.7,"Mountain Bike Socks, L",Carson,Central,United States
+12/29/2010,1,5.7,"Mountain Bike Socks, L",Blythe,Central,United States
+12/29/2010,3,28.8404,"Long-Sleeve Logo Jersey, L",Vargas,Canada,Canada
+12/29/2010,1,419.4589,"Road-650 Red, 60",Ito,Southwest,United States
+1/29/2011,2,2039.994,"Mountain-100 Silver, 48",Blythe,Central,United States
+1/29/2011,4,2024.994,"Mountain-100 Black, 38",Saraiva,Canada,Canada
+1/29/2011,1,183.9382,"LL Road Frame - Red, 44",Reiter,Southeast,United States
+1/29/2011,3,183.9382,"LL Road Frame - Red, 60",Vargas,Canada,Canada
+1/29/2011,1,2039.994,"Mountain-100 Silver, 44",Campbell,Northwest,United States
+1/29/2011,2,2024.994,"Mountain-100 Black, 42",Jiang,Northwest,United States
+1/29/2011,1,28.8404,"Long-Sleeve Logo Jersey, L",Mitchell,Southwest,United States
+1/29/2011,2,419.4589,"Road-650 Red, 62",Ansman-Wolfe,Northwest,United States
+1/29/2011,1,874.794,"Road-450 Red, 52",Carson,Southwest,United States
+1/29/2011,1,5.1865,AWC Logo Cap,Ito,Central,United States
+3/1/2011,1,419.4589,"Road-650 Red, 44",Blythe,Northeast,United States
+3/1/2011,1,2039.994,"Mountain-100 Silver, 44",Campbell,Northwest,United States
+3/1/2011,1,2039.994,"Mountain-100 Silver, 38",Carson,Central,United States
+3/1/2011,1,874.794,"Road-450 Red, 52",Saraiva,Canada,Canada
+3/1/2011,2,5.7,"Mountain Bike Socks, M",Mitchell,Southwest,United States
+3/1/2011,1,2039.994,"Mountain-100 Silver, 42",Jiang,Canada,Canada
+3/1/2011,1,874.794,"Road-450 Red, 52",Vargas,Canada,Canada
+3/1/2011,1,419.4589,"Road-650 Red, 52",Ito,Southwest,United States
+3/1/2011,2,2039.994,"Mountain-100 Silver, 44",Reiter,Southeast,United States
+3/1/2011,2,419.4589,"Road-650 Black, 58",Ansman-Wolfe,Northwest,United States
+3/31/2011,2,28.8404,"Long-Sleeve Logo Jersey, M",Blythe,Northeast,United States
+3/31/2011,1,419.4589,"Road-650 Black, 52",Mitchell,Southwest,United States
+3/31/2011,4,2039.994,"Mountain-100 Silver, 44",Saraiva,Canada,Canada
+3/31/2011,3,20.1865,"Sport-100 Helmet, Red",Campbell,Northwest,United States
+3/31/2011,12,5.51,"Mountain Bike Socks, M",Ansman-Wolfe,Northwest,United States
+3/31/2011,2,2039.994,"Mountain-100 Silver, 44",Carson,Central,United States
+3/31/2011,2,874.794,"Road-450 Red, 52",Ito,Southwest,United States
+3/31/2011,4,28.8404,"Long-Sleeve Logo Jersey, XL",Vargas,Canada,Canada
+3/31/2011,1,2146.962,"Road-150 Red, 52",Reiter,Southeast,United States
+5/1/2011,3,2024.994,"Mountain-100 Black, 38",Mitchell,Southwest,United States
+5/1/2011,1,419.4589,"Road-650 Red, 62",Carson,Central,United States
+5/1/2011,1,419.4589,"Road-650 Red, 60",Ansman-Wolfe,Northwest,United States
+5/1/2011,2,2039.994,"Mountain-100 Silver, 48",Saraiva,Canada,Canada
+5/1/2011,2,2024.994,"Mountain-100 Black, 42",Vargas,Canada,Canada
+5/1/2011,6,2024.994,"Mountain-100 Black, 38",Blythe,Central,United States
+5/1/2011,1,419.4589,"Road-650 Black, 48",Reiter,Southeast,United States
+5/1/2011,1,2039.994,"Mountain-100 Silver, 48",Campbell,Northwest,United States
+5/1/2011,1,419.4589,"Road-650 Red, 62",Jiang,Southwest,United States
+5/1/2011,2,874.794,"Road-450 Red, 52",Ito,Northwest,United States
+5/31/2011,2,28.8404,"Long-Sleeve Logo Jersey, L",Blythe,Northeast,United States
+5/31/2011,1,2039.994,"Mountain-100 Silver, 44",Campbell,Northwest,United States
+5/31/2011,1,183.9382,"LL Road Frame - Red, 62",Carson,Central,United States
+5/31/2011,2,2146.962,"Road-150 Red, 62",Saraiva,Canada,Canada
+5/31/2011,1,419.4589,"Road-650 Red, 62",Vargas,Canada,Canada
+5/31/2011,4,28.8404,"Long-Sleeve Logo Jersey, M",Ito,Southwest,United States
+5/31/2011,2,419.4589,"Road-650 Red, 60",Mitchell,Southwest,United States
+5/31/2011,8,2039.994,"Mountain-100 Silver, 42",Reiter,Southeast,United States
+5/31/2011,2,419.4589,"Road-650 Black, 52",Ansman-Wolfe,Northwest,United States
+7/1/2011,2,5.7,"Mountain Bike Socks, M",Saraiva,Canada,Canada
+7/1/2011,1,419.4589,"Road-650 Black, 52",Mitchell,Southwest,United States
+7/1/2011,1,419.4589,"Road-650 Black, 58",Ansman-Wolfe,Northwest,United States
+7/1/2011,4,2024.994,"Mountain-100 Black, 42",Campbell,Northwest,United States
+7/1/2011,2,5.7,"Mountain Bike Socks, M",Carson,Central,United States
+7/1/2011,1,419.4589,"Road-650 Black, 52",Ito,Southwest,United States
+7/1/2011,1,2039.994,"Mountain-100 Silver, 42",Blythe,Central,United States
+7/1/2011,1,419.4589,"Road-650 Red, 44",Vargas,Canada,Canada
+7/1/2011,3,2024.994,"Mountain-100 Black, 38",Reiter,Southeast,United States
+8/1/2011,2,2024.994,"Mountain-100 Black, 44",Blythe,Central,United States
+8/1/2011,1,419.4589,"Road-650 Red, 44",Ansman-Wolfe,Northwest,United States
+8/1/2011,1,419.4589,"Road-650 Black, 60",Vargas,Canada,Canada
+8/1/2011,1,2024.994,"Mountain-100 Black, 38",Saraiva,Canada,Canada
+8/1/2011,2,419.4589,"Road-650 Black, 60",Reiter,Southeast,United States
+8/1/2011,3,2024.994,"Mountain-100 Black, 42",Campbell,Northwest,United States
+8/1/2011,5,2024.994,"Mountain-100 Black, 44",Mitchell,Northwest,United States
+8/1/2011,1,419.4589,"Road-650 Black, 58",Carson,Southwest,United States
+8/1/2011,1,28.8404,"Long-Sleeve Logo Jersey, XL",Ito,Northwest,United States
+8/1/2011,2,419.4589,"Road-650 Black, 58",Jiang,Southwest,United States
+8/29/2011,4,419.4589,"Road-650 Black, 52",Carson,Southwest,United States
+8/29/2011,1,419.4589,"Road-650 Black, 58",Blythe,Northeast,United States
+8/29/2011,1,2024.994,"Mountain-100 Black, 48",Campbell,Northwest,United States
+8/29/2011,1,28.8404,"Long-Sleeve Logo Jersey, L",Saraiva,Canada,Canada
+8/29/2011,2,714.7043,"HL Mountain Frame - Black, 38",Mitchell,Southwest,United States
+8/29/2011,3,419.4589,"Road-650 Black, 58",Vargas,Canada,Canada
+8/29/2011,1,2024.994,"Mountain-100 Black, 38",Jiang,Canada,Canada
+8/29/2011,1,20.1865,"Sport-100 Helmet, Blue",Ito,Southwest,United States
+8/29/2011,3,2024.994,"Mountain-100 Black, 38",Reiter,Southeast,United States
+8/29/2011,2,419.4589,"Road-650 Black, 44",Ansman-Wolfe,Northwest,United States
+9/29/2011,2,2024.994,"Mountain-100 Black, 38",Reiter,Southeast,United States
+9/29/2011,2,2024.994,"Mountain-100 Black, 42",Saraiva,Canada,Canada
+9/29/2011,2,714.7043,"HL Mountain Frame - Black, 42",Campbell,Northwest,United States
+9/29/2011,2,2039.994,"Mountain-100 Silver, 38",Ansman-Wolfe,Northwest,United States
+9/29/2011,1,2146.962,"Road-150 Red, 62",Mitchell,Southwest,United States
+9/29/2011,2,28.8404,"Long-Sleeve Logo Jersey, L",Carson,Central,United States
+9/29/2011,2,2039.994,"Mountain-100 Silver, 42",Blythe,Central,United States
+9/29/2011,1,419.4589,"Road-650 Red, 60",Ito,Southwest,United States
+9/29/2011,1,178.5808,"LL Road Frame - Black, 58",Vargas,Canada,Canada
+9/29/2011,1,2024.994,"Mountain-100 Black, 44",Jiang,Southeast,United States
+10/29/2011,3,2024.994,"Mountain-100 Black, 38",Vargas,Canada,Canada
+10/29/2011,1,2039.994,"Mountain-100 Silver, 44",Saraiva,Canada,Canada
+10/29/2011,2,28.8404,"Long-Sleeve Logo Jersey, L",Ansman-Wolfe,Northwest,United States
+10/29/2011,4,2039.994,"Mountain-100 Silver, 44",Blythe,Central,United States
+10/29/2011,1,356.898,"ML Road Frame - Red, 48",Reiter,Southeast,United States
+10/29/2011,2,2039.994,"Mountain-100 Silver, 44",Campbell,Northwest,United States
+10/29/2011,1,722.5949,"HL Mountain Frame - Silver, 38",Mitchell,Northwest,United States
+10/29/2011,1,874.794,"Road-450 Red, 58",Carson,Southwest,United States
+10/29/2011,3,2146.962,"Road-150 Red, 52",Ito,Central,United States
+11/29/2011,1,178.5808,"LL Road Frame - Black, 58",Campbell,Northwest,United States
+11/29/2011,1,874.794,"Road-450 Red, 58",Blythe,Northeast,United States
+11/29/2011,2,356.898,"ML Road Frame - Red, 52",Carson,Central,United States
+11/29/2011,3,874.794,"Road-450 Red, 58",Saraiva,Canada,Canada
+11/29/2011,1,722.5949,"HL Mountain Frame - Silver, 42",Reiter,Southeast,United States
+11/29/2011,1,419.4589,"Road-650 Black, 58",Vargas,Canada,Canada
+11/29/2011,2,809.76,"HL Mountain Frame - Black, 48",Jiang,Canada,Canada
+11/29/2011,1,419.4589,"Road-650 Black, 48",Mitchell,Southwest,United States
+11/29/2011,3,178.5808,"LL Road Frame - Black, 58",Ito,Southwest,United States
+11/29/2011,2,419.4589,"Road-650 Black, 62",Ansman-Wolfe,Northwest,United States
+12/29/2011,3,647.994,"Mountain-300 Black, 40",Reiter,Southeast,United States
+12/29/2011,1,28.8404,"Long-Sleeve Logo Jersey, XL",Carson,Central,United States
+12/29/2011,2,28.8404,"Long-Sleeve Logo Jersey, M",Mitchell,Southwest,United States
+12/29/2011,4,1466.01,"Road-250 Red, 48",Pak,Canada,Canada
+12/29/2011,2,780.8182,"HL Road Frame - Red, 44",Ansman-Wolfe,Northwest,United States
+12/29/2011,11,22.0342,"Full-Finger Gloves, M",Blythe,Northeast,United States
+12/29/2011,2,141.615,ML Mountain Rear Wheel,Campbell,Northwest,United States
+12/29/2011,1,1242.8518,"Mountain-200 Silver, 38",Jiang,Northwest,United States
+12/29/2011,2,780.8182,"HL Road Frame - Red, 44",Saraiva,United Kingdom,United Kingdom
+12/29/2011,1,202.332,"LL Road Frame - Red, 44",Ito,Southwest,United States
+12/29/2011,1,647.994,"Mountain-300 Black, 38",Varkey Chudukatil,France,France
+12/29/2011,1,24.2945,LL Mountain Handlebars,Vargas,Canada,Canada
+1/29/2012,1,24.2945,LL Mountain Handlebars,Vargas,Canada,Canada
+1/29/2012,3,5.1865,AWC Logo Cap,Pak,Canada,Canada
+1/29/2012,3,744.2727,"HL Mountain Frame - Silver, 42",Blythe,Central,United States
+1/29/2012,1,469.794,"Road-650 Black, 52",Reiter,Southeast,United States
+1/29/2012,1,324.4527,"ML Road Frame-W - Yellow, 38",Saraiva,United Kingdom,United Kingdom
+1/29/2012,1,196.329,HL Mountain Rear Wheel,Varkey Chudukatil,France,France
+1/29/2012,3,53.994,"Men's Bib-Shorts, M",Mitchell,Southwest,United States
+1/29/2012,4,744.2727,"HL Mountain Frame - Silver, 42",Campbell,Northwest,United States
+1/29/2012,2,1229.4589,"Mountain-200 Black, 46",Jiang,Northwest,United States
+1/29/2012,1,469.794,"Road-650 Black, 58",Carson,Southwest,United States
+1/29/2012,1,28.8404,"Long-Sleeve Logo Jersey, M",Ito,Southwest,United States
+1/29/2012,16,41.2445,"Women's Tights, S",Ansman-Wolfe,Northwest,United States
+1/29/2012,1,65.6018,HL Mountain Handlebars,Alberts,France,France
+2/29/2012,1,780.8182,"HL Road Frame - Red, 44",Campbell,Northwest,United States
+2/29/2012,5,469.794,"Road-650 Black, 52",Mitchell,Southwest,United States
+2/29/2012,4,202.332,"LL Road Frame - Red, 60",Blythe,Northeast,United States
+2/29/2012,3,1229.4589,"Mountain-200 Black, 38",Ito,Central,United States
+2/29/2012,6,1242.8518,"Mountain-200 Silver, 46",Saraiva,United Kingdom,United Kingdom
+2/29/2012,1,469.794,"Road-650 Red, 48",Pak,Canada,Canada
+2/29/2012,1,469.794,"Road-650 Red, 58",Varkey Chudukatil,France,France
+2/29/2012,1,1229.4589,"Mountain-200 Black, 42",Vargas,Canada,Canada
+2/29/2012,1,214.236,HL Road Rear Wheel,Carson,Southwest,United States
+2/29/2012,2,469.794,"Road-650 Black, 44",Ansman-Wolfe,Northwest,United States
+2/29/2012,1,53.994,"Men's Bib-Shorts, M",Jiang,Canada,Canada
+2/29/2012,1,324.4527,"ML Road Frame-W - Yellow, 38",Reiter,Southeast,United States
+3/30/2012,4,469.794,"Road-650 Black, 44",Carson,Southwest,United States
+3/30/2012,1,469.794,"Road-650 Black, 58",Reiter,Southeast,United States
+3/30/2012,1,469.794,"Road-650 Red, 44",Mitchell,Southwest,United States
+3/30/2012,6,53.994,"Men's Bib-Shorts, M",Pak,Canada,Canada
+3/30/2012,2,647.994,"Mountain-300 Black, 48",Blythe,Northeast,United States
+3/30/2012,2,20.1865,"Sport-100 Helmet, Blue",Campbell,Northwest,United States
+3/30/2012,4,324.4527,"ML Road Frame-W - Yellow, 44",Saraiva,United Kingdom,United Kingdom
+3/30/2012,2,20.1865,"Sport-100 Helmet, Blue",Jiang,Northwest,United States
+3/30/2012,4,22.794,"Full-Finger Gloves, M",Varkey Chudukatil,France,France
+3/30/2012,1,65.6018,HL Road Handlebars,Vargas,Canada,Canada
+3/30/2012,2,149.031,ML Road Front Wheel,Ito,Southwest,United States
+3/30/2012,5,22.794,"Full-Finger Gloves, S",Ansman-Wolfe,Northwest,United States
+4/30/2012,2,44.994,"Women's Tights, L",Pak,Canada,Canada
+4/30/2012,1,647.994,"Mountain-300 Black, 44",Vargas,Canada,Canada
+4/30/2012,2,647.994,"Mountain-300 Black, 48",Blythe,Central,United States
+4/30/2012,2,469.794,"Road-650 Red, 62",Reiter,Southeast,United States
+4/30/2012,2,1229.4589,"Mountain-200 Black, 42",Alberts,France,France
+4/30/2012,3,65.6018,HL Mountain Handlebars,Mitchell,Northwest,United States
+4/30/2012,1,22.794,"Full-Finger Gloves, S",Jiang,Canada,Canada
+4/30/2012,2,33.7745,ML Mountain Handlebars,Mensa-Annan,Northwest,United States
+4/30/2012,5,53.994,"Men's Bib-Shorts, L",Campbell,Northwest,United States
+4/30/2012,5,28.8404,"Long-Sleeve Logo Jersey, L",Ito,Southwest,United States
+4/30/2012,3,44.994,"Women's Tights, L",Carson,Southwest,United States
+4/30/2012,5,11.994,Minipump,Varkey Chudukatil,France,France
+4/30/2012,6,141.615,ML Mountain Rear Wheel,Saraiva,United Kingdom,United Kingdom
+5/30/2012,5,469.794,"Road-650 Black, 52",Mitchell,Southwest,United States
+5/30/2012,1,198.036,HL Road Front Wheel,Pak,Canada,Canada
+5/30/2012,1,22.794,"Full-Finger Gloves, S",Blythe,Central,United States
+5/30/2012,1,202.332,"LL Road Frame - Red, 48",Campbell,Northwest,United States
+5/30/2012,2,1242.8518,"Mountain-200 Silver, 38",Ito,Central,United States
+5/30/2012,1,647.994,"Mountain-300 Black, 38",Saraiva,United Kingdom,United Kingdom
+5/30/2012,6,5.1865,AWC Logo Cap,Vargas,Canada,Canada
+5/30/2012,1,183.9382,"LL Road Frame - Black, 52",Varkey Chudukatil,France,France
+5/30/2012,2,67.539,LL Road Rear Wheel,Mensa-Annan,Northwest,United States
+5/30/2012,1,469.794,"Road-650 Red, 62",Carson,Southwest,United States
+5/30/2012,1,780.8182,"HL Road Frame - Black, 44",Reiter,Southeast,United States
+5/30/2012,1,647.994,"Mountain-300 Black, 48",Ansman-Wolfe,Northwest,United States
+5/30/2012,8,469.794,"Road-650 Red, 62",Jiang,Southeast,United States
+6/30/2012,3,647.994,"Mountain-300 Black, 38",Reiter,Southeast,United States
+6/30/2012,3,469.794,"Road-650 Red, 48",Blythe,Central,United States
+6/30/2012,1,35.994,"Men's Sports Shorts, M",Campbell,Northwest,United States
+6/30/2012,3,22.794,"Full-Finger Gloves, M",Varkey Chudukatil,France,France
+6/30/2012,1,33.7745,ML Mountain Handlebars,Vargas,Canada,Canada
+6/30/2012,1,600.2625,"Road-550-W Yellow, 44",Ito,Southwest,United States
+6/30/2012,2,209.256,"ML Mountain Frame - Black, 38",Carson,Northeast,United States
+6/30/2012,2,22.794,"Full-Finger Gloves, L",Mensa-Annan,Northwest,United States
+6/30/2012,3,209.256,"ML Mountain Frame - Black, 38",Mitchell,Northwest,United States
+6/30/2012,7,33.7745,ML Mountain Handlebars,Pak,Canada,Canada
+6/30/2012,9,647.994,"Mountain-300 Black, 48",Ansman-Wolfe,Northwest,United States
+6/30/2012,2,53.994,"Men's Bib-Shorts, L",Saraiva,United Kingdom,United Kingdom
+7/31/2012,2,22.794,"Full-Finger Gloves, M",Pak,Canada,Canada
+7/31/2012,2,24.2945,LL Mountain Handlebars,Carson,Central,United States
+7/31/2012,1,209.256,"ML Mountain Frame - Black, 38",Campbell,Northwest,United States
+7/31/2012,4,469.794,"Road-650 Red, 48",Vargas,Canada,Canada
+7/31/2012,1,22.794,"Full-Finger Gloves, S",Mitchell,Southwest,United States
+7/31/2012,1,1242.8518,"Mountain-200 Silver, 42",Mensa-Annan,Northwest,United States
+7/31/2012,1,647.994,"Mountain-300 Black, 44",Varkey Chudukatil,France,France
+7/31/2012,4,5.1865,AWC Logo Cap,Saraiva,United Kingdom,United Kingdom
+7/31/2012,1,647.994,"Mountain-300 Black, 44",Reiter,Southeast,United States
+7/31/2012,1,1242.8518,"Mountain-200 Silver, 38",Blythe,Central,United States
+7/31/2012,4,469.794,"Road-650 Black, 44",Ito,Southwest,United States
+7/31/2012,1,647.994,"Mountain-300 Black, 38",Alberts,France,France
+7/31/2012,2,53.994,"Men's Bib-Shorts, M",Jiang,Southwest,United States
+8/28/2012,1,67.539,LL Road Rear Wheel,Reiter,Southeast,United States
+8/28/2012,4,1308.9375,"Road-250 Black, 48",Blythe,Southwest,United States
+8/28/2012,1,469.794,"Road-650 Black, 52",Mitchell,Southwest,United States
+8/28/2012,7,469.794,"Road-650 Red, 62",Carson,Northeast,United States
+8/28/2012,2,22.794,"Full-Finger Gloves, L",Campbell,Northwest,United States
+8/28/2012,3,141.615,ML Mountain Rear Wheel,Saraiva,United Kingdom,United Kingdom
+8/28/2012,2,1229.4589,"Mountain-200 Black, 42",Vargas,Canada,Canada
+8/28/2012,1,1308.9375,"Road-250 Black, 48",Alberts,France,France
+8/28/2012,1,1242.8518,"Mountain-200 Silver, 38",Pak,Canada,Canada
+8/28/2012,1,469.794,"Road-650 Black, 52",Ito,Southwest,United States
+8/28/2012,1,647.994,"Mountain-300 Black, 44",Ansman-Wolfe,Northwest,United States
+8/28/2012,4,1229.4589,"Mountain-200 Black, 38",Varkey Chudukatil,France,France
+8/28/2012,2,469.794,"Road-650 Black, 52",Mensa-Annan,Northwest,United States
+9/28/2012,4,469.794,"Road-650 Red, 62",Blythe,Southwest,United States
+9/28/2012,2,1242.8518,"Mountain-200 Silver, 38",Reiter,Southeast,United States
+9/28/2012,1,44.994,"Women's Tights, S",Mitchell,Southwest,United States
+9/28/2012,7,1229.4589,"Mountain-200 Black, 46",Carson,Northeast,United States
+9/28/2012,6,28.8404,"Long-Sleeve Logo Jersey, M",Campbell,Northwest,United States
+9/28/2012,1,183.9382,"LL Road Frame - Black, 58",Pak,Canada,Canada
+9/28/2012,5,44.994,"Women's Tights, S",Mensa-Annan,Northwest,United States
+9/28/2012,3,28.8404,"Long-Sleeve Logo Jersey, XL",Varkey Chudukatil,France,France
+9/28/2012,3,1229.4589,"Mountain-200 Black, 46",Ito,Southwest,United States
+9/28/2012,5,28.8404,"Long-Sleeve Logo Jersey, L",Vargas,Canada,Canada
+9/28/2012,2,1229.4589,"Mountain-200 Black, 46",Ansman-Wolfe,Northwest,United States
+9/28/2012,2,469.794,"Road-650 Black, 58",Saraiva,United Kingdom,United Kingdom
+9/28/2012,1,600.2625,"Road-550-W Yellow, 38",Jiang,Southeast,United States
+9/28/2012,1,28.8404,"Long-Sleeve Logo Jersey, XL",Alberts,United Kingdom,United Kingdom
+10/28/2012,1,33.7745,ML Mountain Handlebars,Carson,Central,United States
+10/28/2012,3,28.8404,"Long-Sleeve Logo Jersey, M",Pak,Canada,Canada
+10/28/2012,2,469.794,"Road-650 Black, 44",Reiter,Southeast,United States
+10/28/2012,2,20.1865,"Sport-100 Helmet, Blue",Vargas,Canada,Canada
+10/28/2012,4,22.794,"Full-Finger Gloves, S",Varkey Chudukatil,France,France
+10/28/2012,3,469.794,"Road-650 Red, 60",Saraiva,United Kingdom,United Kingdom
+10/28/2012,1,1242.8518,"Mountain-200 Silver, 38",Mitchell,Southwest,United States
+10/28/2012,1,324.4527,"ML Road Frame-W - Yellow, 44",Jiang,Southwest,United States
+10/28/2012,5,744.2727,"HL Mountain Frame - Silver, 46",Campbell,Northwest,United States
+10/28/2012,3,469.794,"Road-650 Red, 52",Blythe,Southwest,United States
+10/28/2012,1,74.838,HL Headset,Mensa-Annan,Northwest,United States
+10/28/2012,4,202.332,"LL Road Frame - Red, 62",Ito,Central,United States
+10/28/2012,3,67.539,LL Road Rear Wheel,Alberts,United Kingdom,United Kingdom
+11/28/2012,3,469.794,"Road-650 Black, 52",Mitchell,Southwest,United States
+11/28/2012,3,22.794,"Full-Finger Gloves, L",Blythe,Central,United States
+11/28/2012,1,22.794,"Full-Finger Gloves, S",Pak,Canada,Canada
+11/28/2012,5,1242.8518,"Mountain-200 Silver, 42",Ito,Central,United States
+11/28/2012,6,1242.8518,"Mountain-200 Silver, 46",Saraiva,United Kingdom,United Kingdom
+11/28/2012,1,149.031,ML Road Front Wheel,Varkey Chudukatil,France,France
+11/28/2012,2,20.1865,"Sport-100 Helmet, Blue",Vargas,Canada,Canada
+11/28/2012,5,44.994,"Women's Tights, L",Mensa-Annan,Northwest,United States
+11/28/2012,6,209.256,"ML Mountain Frame - Black, 48",Carson,Central,United States
+11/28/2012,4,22.794,"Full-Finger Gloves, M",Alberts,United Kingdom,United Kingdom
+11/28/2012,1,183.9382,"LL Road Frame - Black, 58",Reiter,Southeast,United States
+11/28/2012,5,88.932,LL Fork,Ansman-Wolfe,Northwest,United States
+11/28/2012,1,1466.01,"Road-250 Red, 52",Jiang,Southwest,United States
+11/28/2012,2,5.1865,AWC Logo Cap,Campbell,Northwest,United States
+12/28/2012,4,29.994,"Long-Sleeve Logo Jersey, XL",Reiter,Southeast,United States
+12/28/2012,1,818.7,"HL Mountain Frame - Silver, 42",Mitchell,Southwest,United States
+12/28/2012,5,15.7455,"Sport-100 Helmet, Blue",Saraiva,United Kingdom,United Kingdom
+12/28/2012,2,24.294,LL Road Pedal,Blythe,Central,United States
+12/28/2012,3,953.628,"Touring-1000 Yellow, 46",Tsoflias,Australia,Australia
+12/28/2012,1,323.994,"Mountain-500 Black, 40",Carson,Northeast,United States
+12/28/2012,4,809.76,"HL Mountain Frame - Black, 42",Campbell,Northwest,United States
+12/28/2012,8,72,Hitch Rack - 4-Bike,Pak,Canada,Canada
+12/28/2012,2,48.594,HL Road Pedal,Ito,Southwest,United States
+12/28/2012,2,672.294,"Road-550-W Yellow, 48",Valdez,Germany,Germany
+12/28/2012,3,818.7,"HL Mountain Frame - Silver, 42",Varkey Chudukatil,France,France
+12/28/2012,2,602.346,"HL Touring Frame - Blue, 54",Vargas,Canada,Canada
+12/28/2012,6,218.454,"ML Mountain Frame-W - Silver, 40",Ansman-Wolfe,Northwest,United States
+12/28/2012,2,323.994,"Road-750 Black, 52",Mensa-Annan,Northwest,United States
+12/28/2012,1,858.9,"HL Road Frame - Red, 62",Alberts,Germany,Germany
+1/28/2013,2,1376.994,"Mountain-200 Black, 42",Valdez,Germany,Germany
+1/28/2013,1,338.994,"Mountain-500 Silver, 42",Carson,Central,United States
+1/28/2013,1,672.294,"Road-550-W Yellow, 48",Pak,Canada,Canada
+1/28/2013,1,323.994,"Road-750 Black, 52",Reiter,Southeast,United States
+1/28/2013,3,41.994,"Women's Mountain Shorts, S",Varkey Chudukatil,France,France
+1/28/2013,6,32.394,"Short-Sleeve Classic Jersey, XL",Vargas,Canada,Canada
+1/28/2013,2,29.994,"Long-Sleeve Logo Jersey, M",Mitchell,Southwest,United States
+1/28/2013,3,334.0575,"Touring-3000 Blue, 50",Tsoflias,Australia,Australia
+1/28/2013,8,23.484,ML Mountain Seat/Saddle,Campbell,Northwest,United States
+1/28/2013,2,953.628,"Touring-1000 Yellow, 54",Mensa-Annan,Northwest,United States
+1/28/2013,1,323.994,"Road-750 Black, 52",Blythe,Southwest,United States
+1/28/2013,2,858.9,"HL Road Frame - Red, 44",Ito,Central,United States
+1/28/2013,4,5.394,"Racing Socks, M",Alberts,France,France
+1/28/2013,1,200.052,"LL Touring Frame - Blue, 44",Saraiva,United Kingdom,United Kingdom
+1/28/2013,3,334.0575,"Touring-3000 Yellow, 62",Jiang,Canada,Canada
+1/28/2013,6,20.994,"Sport-100 Helmet, Blue",Ansman-Wolfe,Northwest,United States
+2/28/2013,4,5.394,"Racing Socks, L",Saraiva,United Kingdom,United Kingdom
+2/28/2013,1,334.0575,"Touring-3000 Yellow, 62",Mensa-Annan,Northwest,United States
+2/28/2013,4,1430.442,"Touring-1000 Blue, 46",Ansman-Wolfe,Northwest,United States
+2/28/2013,6,20.994,"Sport-100 Helmet, Red",Ito,Central,United States
+2/28/2013,1,1466.01,"Road-250 Black, 48",Pak,Canada,Canada
+2/28/2013,4,1391.994,"Mountain-200 Silver, 42",Campbell,Northwest,United States
+2/28/2013,2,334.0575,"Touring-3000 Blue, 62",Mitchell,Southwest,United States
+2/28/2013,1,1466.01,"Road-250 Black, 44",Alberts,France,France
+2/28/2013,3,54.894,Front Derailleur,Valdez,Germany,Germany
+2/28/2013,7,72.876,Rear Derailleur,Jiang,Canada,Canada
+2/28/2013,1,323.994,"Road-750 Black, 44",Blythe,Southwest,United States
+2/28/2013,4,12.144,Chain,Tsoflias,Australia,Australia
+2/28/2013,2,858.9,"HL Road Frame - Red, 44",Carson,Central,United States
+2/28/2013,3,602.346,"HL Touring Frame - Yellow, 60",Reiter,Southeast,United States
+2/28/2013,1,24.294,LL Road Pedal,Varkey Chudukatil,France,France
+2/28/2013,1,953.628,"Touring-1000 Yellow, 46",Vargas,Canada,Canada
+2/28/2013,2,31.584,HL Touring Seat/Saddle,Abbas,Australia,Australia
+3/30/2013,4,323.994,"Road-750 Black, 48",Blythe,Southwest,United States
+3/30/2013,1,461.694,"Mountain-400-W Silver, 46",Reiter,Southeast,United States
+3/30/2013,1,158.43,"LL Mountain Frame - Silver, 52",Mitchell,Southwest,United States
+3/30/2013,1,445.41,"Touring-3000 Blue, 58",Saraiva,United Kingdom,United Kingdom
+3/30/2013,1,72.162,HL Road Handlebars,Valdez,Germany,Germany
+3/30/2013,3,1376.994,"Mountain-200 Black, 42",Carson,Northeast,United States
+3/30/2013,1,445.41,"Touring-3000 Yellow, 54",Tsoflias,Australia,Australia
+3/30/2013,3,218.454,"ML Mountain Frame-W - Silver, 42",Campbell,Northwest,United States
+3/30/2013,1,14.694,"Half-Finger Gloves, L",Pak,Canada,Canada
+3/30/2013,1,1430.442,"Touring-1000 Yellow, 60",Ito,Southwest,United States
+3/30/2013,2,1376.994,"Mountain-200 Black, 38",Varkey Chudukatil,France,France
+3/30/2013,1,356.898,"ML Road Frame-W - Yellow, 38",Vargas,Canada,Canada
+3/30/2013,6,41.994,"Women's Mountain Shorts, L",Mensa-Annan,Northwest,United States
+3/30/2013,1,323.994,"Road-750 Black, 52",Alberts,Germany,Germany
+3/30/2013,3,323.994,"Mountain-500 Black, 52",Ansman-Wolfe,Northwest,United States
+3/30/2013,1,54.942,HL Touring Handlebars,Jiang,Southwest,United States
+4/30/2013,4,1430.442,"Touring-1000 Blue, 60",Valdez,Germany,Germany
+4/30/2013,2,41.994,"Women's Mountain Shorts, M",Pak,Canada,Canada
+4/30/2013,1,48.594,Touring Pedal,Saraiva,United Kingdom,United Kingdom
+4/30/2013,1,105.294,LL Crankset,Carson,Central,United States
+4/30/2013,3,29.994,"Long-Sleeve Logo Jersey, L",Vargas,Canada,Canada
+4/30/2013,1,202.332,"LL Road Frame - Black, 52",Reiter,Southeast,United States
+4/30/2013,1,338.994,"Mountain-500 Silver, 48",Mitchell,Northwest,United States
+4/30/2013,2,14.694,"Half-Finger Gloves, M",Mensa-Annan,Northwest,United States
+4/30/2013,3,1376.994,"Mountain-200 Black, 38",Varkey Chudukatil,France,France
+4/30/2013,6,149.874,"LL Mountain Frame - Black, 42",Campbell,Northwest,United States
+4/30/2013,1,63.9,Front Brakes,Tsoflias,Australia,Australia
+4/30/2013,3,4.77,Bike Wash - Dissolver,Blythe,Southwest,United States
+4/30/2013,2,37.254,ML Road Pedal,Ito,Southwest,United States
+4/30/2013,3,72,Hitch Rack - 4-Bike,Alberts,France,France
+4/30/2013,1,1430.442,"Touring-1000 Yellow, 60",Abbas,Australia,Australia
+4/30/2013,11,31.8942,Hydration Pack - 70 oz.,Ansman-Wolfe,Northwest,United States
+4/30/2013,5,41.994,"Women's Mountain Shorts, M",Jiang,Northwest,United States
+5/30/2013,1,1430.442,"Touring-1000 Yellow, 46",Mensa-Annan,Northwest,United States
+5/30/2013,1,242.994,HL Crankset,Valdez,Germany,Germany
+5/30/2013,3,602.346,"HL Touring Frame - Yellow, 46",Carson,Northeast,United States
+5/30/2013,2,356.898,"ML Road Frame-W - Yellow, 38",Campbell,Northwest,United States
+5/30/2013,2,338.994,"Mountain-500 Silver, 42",Saraiva,United Kingdom,United Kingdom
+5/30/2013,1,323.994,"Mountain-500 Black, 52",Ito,Central,United States
+5/30/2013,1,242.994,HL Crankset,Mitchell,Southwest,United States
+5/30/2013,1,1430.442,"Touring-1000 Blue, 50",Alberts,United Kingdom,United Kingdom
+5/30/2013,1,1466.01,"Road-250 Black, 58",Pak,Canada,Canada
+5/30/2013,1,323.994,"Road-750 Black, 44",Varkey Chudukatil,France,France
+5/30/2013,10,20.994,"Sport-100 Helmet, Blue",Abbas,Australia,Australia
+5/30/2013,1,1430.442,"Touring-1000 Yellow, 46",Tsoflias,Australia,Australia
+5/30/2013,1,37.254,ML Road Pedal,Blythe,Southwest,United States
+5/30/2013,3,32.394,LL Bottom Bracket,Reiter,Southeast,United States
+5/30/2013,1,63.9,Front Brakes,Vargas,Canada,Canada
+5/30/2013,1,445.41,"Touring-3000 Blue, 50",Ansman-Wolfe,Northwest,United States
+6/30/2013,3,323.994,"Mountain-500 Black, 42",Reiter,Southeast,United States
+6/30/2013,3,38.1,"Classic Vest, S",Blythe,Central,United States
+6/30/2013,1,1430.442,"Touring-1000 Blue, 50",Saraiva,United Kingdom,United Kingdom
+6/30/2013,1,1466.01,"Road-250 Black, 48",Valdez,Germany,Germany
+6/30/2013,2,1391.994,"Mountain-200 Silver, 46",Pak,Canada,Canada
+6/30/2013,1,672.294,"Road-550-W Yellow, 38",Mitchell,Southwest,United States
+6/30/2013,2,728.91,"Touring-2000 Blue, 46",Abbas,Australia,Australia
+6/30/2013,2,1391.994,"Mountain-200 Silver, 42",Carson,Northeast,United States
+6/30/2013,1,338.994,"Mountain-500 Silver, 42",Campbell,Northwest,United States
+6/30/2013,5,32.394,"Short-Sleeve Classic Jersey, S",Ito,Southwest,United States
+6/30/2013,1,323.994,"Road-750 Black, 52",Alberts,Germany,Germany
+6/30/2013,3,461.694,"Mountain-400-W Silver, 46",Ansman-Wolfe,Northwest,United States
+6/30/2013,4,728.91,"Touring-2000 Blue, 54",Jiang,Southwest,United States
+6/30/2013,1,1430.442,"Touring-1000 Blue, 60",Tsoflias,Australia,Australia
+6/30/2013,6,323.994,"Road-750 Black, 52",Mensa-Annan,Northwest,United States
+6/30/2013,2,5.394,"Racing Socks, M",Vargas,Canada,Canada
+6/30/2013,2,338.994,"Mountain-500 Silver, 42",Varkey Chudukatil,France,France
+7/31/2013,1,218.454,"ML Mountain Frame-W - Silver, 40",Vargas,Canada,Canada
+7/31/2013,2,41.994,"Women's Mountain Shorts, S",Pak,Canada,Canada
+7/31/2013,1,54.894,Front Derailleur,Carson,Central,United States
+7/31/2013,4,1466.01,"Road-250 Red, 58",Reiter,Southeast,United States
+7/31/2013,2,1020.594,"Road-350-W Yellow, 40",Saraiva,United Kingdom,United Kingdom
+7/31/2013,1,41.994,"Women's Mountain Shorts, M",Varkey Chudukatil,France,France
+7/31/2013,2,338.994,"Mountain-500 Silver, 42",Mitchell,Northwest,United States
+7/31/2013,7,4.77,Bike Wash - Dissolver,Ansman-Wolfe,Northwest,United States
+7/31/2013,1,37.152,ML Mountain Handlebars,Mensa-Annan,Northwest,United States
+7/31/2013,2,728.91,"Touring-2000 Blue, 54",Tsoflias,Australia,Australia
+7/31/2013,1,23.484,ML Mountain Seat/Saddle,Campbell,Northwest,United States
+7/31/2013,6,445.41,"Touring-3000 Yellow, 44",Blythe,Central,United States
+7/31/2013,1,37.254,ML Road Pedal,Ito,Central,United States
+7/31/2013,1,41.994,"Women's Mountain Shorts, L",Alberts,France,France
+7/31/2013,1,54.894,Front Derailleur,Valdez,Germany,Germany
+7/31/2013,1,1376.994,"Mountain-200 Black, 46",Abbas,Australia,Australia
+8/28/2013,1,1466.01,"Road-250 Red, 58",Valdez,Germany,Germany
+8/29/2013,2,38.1,"Classic Vest, M",Saraiva,United Kingdom,United Kingdom
+8/29/2013,2,672.294,"Road-550-W Yellow, 48",Carson,Northeast,United States
+8/29/2013,1,338.994,"Mountain-500 Silver, 42",Ito,Central,United States
+8/29/2013,4,5.394,"Racing Socks, L",Pak,Canada,Canada
+8/29/2013,1,1430.442,"Touring-1000 Blue, 46",Mitchell,Southwest,United States
+8/29/2013,3,23.484,ML Mountain Seat/Saddle,Campbell,Northwest,United States
+8/29/2013,4,41.994,"Women's Mountain Shorts, S",Vargas,Canada,Canada
+8/29/2013,1,445.41,"Touring-3000 Yellow, 50",Reiter,Southeast,United States
+8/29/2013,3,1020.594,"Road-350-W Yellow, 40",Mensa-Annan,Northwest,United States
+8/29/2013,1,1430.442,"Touring-1000 Yellow, 46",Tsoflias,Australia,Australia
+8/29/2013,1,20.994,"Sport-100 Helmet, Red",Varkey Chudukatil,France,France
+8/29/2013,2,445.41,"Touring-3000 Yellow, 50",Ansman-Wolfe,Northwest,United States
+8/29/2013,5,445.41,"Touring-3000 Blue, 58",Alberts,Germany,Germany
+8/29/2013,2,202.332,"LL Road Frame - Black, 58",Valdez,Germany,Germany
+8/29/2013,5,2.994,Water Bottle - 30 oz.,Blythe,Central,United States
+8/29/2013,1,1376.994,"Mountain-200 Black, 42",Jiang,Southwest,United States
+9/28/2013,4,356.898,"ML Road Frame-W - Yellow, 38",Alberts,Germany,Germany
+9/28/2013,1,356.898,"ML Road Frame-W - Yellow, 44",Valdez,Germany,Germany
+9/29/2013,1,323.994,"Mountain-500 Black, 42",Reiter,Southeast,United States
+9/29/2013,2,32.394,LL Bottom Bracket,Saraiva,United Kingdom,United Kingdom
+9/29/2013,1,323.994,"Road-750 Black, 52",Blythe,Central,United States
+9/29/2013,7,1391.994,"Mountain-200 Silver, 46",Carson,Northeast,United States
+9/29/2013,2,445.41,"Touring-3000 Blue, 58",Tsoflias,Australia,Australia
+9/29/2013,1,20.994,"Sport-100 Helmet, Blue",Campbell,Northwest,United States
+9/29/2013,14,36.83,"Classic Vest, S",Pak,Canada,Canada
+9/29/2013,8,14.694,"Half-Finger Gloves, M",Mitchell,Southwest,United States
+9/29/2013,2,323.994,"Mountain-500 Black, 52",Ito,Southwest,United States
+9/29/2013,1,218.454,"ML Mountain Frame-W - Silver, 46",Varkey Chudukatil,France,France
+9/29/2013,1,48.594,HL Mountain Pedal,Jiang,Southeast,United States
+9/29/2013,4,445.41,"Touring-3000 Blue, 50",Valdez,Germany,Germany
+9/29/2013,1,356.898,"ML Road Frame-W - Yellow, 38",Vargas,Canada,Canada
+9/29/2013,4,149.874,"LL Mountain Frame - Black, 44",Ansman-Wolfe,Northwest,United States
+9/29/2013,6,323.994,"Road-750 Black, 52",Mensa-Annan,Northwest,United States
+10/28/2013,2,29.994,"Long-Sleeve Logo Jersey, L",Valdez,Germany,Germany
+10/29/2013,1,112.998,"Mountain-500 Silver, 42",Valdez,Germany,Germany
+10/29/2013,1,72,Hitch Rack - 4-Bike,Pak,Canada,Canada
+10/29/2013,1,26.724,LL Mountain Handlebars,Vargas,Canada,Canada
+10/29/2013,2,54.942,HL Touring Handlebars,Saraiva,United Kingdom,United Kingdom
+10/29/2013,3,41.994,"Women's Mountain Shorts, M",Carson,Central,United States
+10/29/2013,1,1466.01,"Road-250 Black, 58",Reiter,Southeast,United States
+10/29/2013,4,41.994,"Women's Mountain Shorts, M",Varkey Chudukatil,France,France
+10/29/2013,2,20.994,"Sport-100 Helmet, Black",Mensa-Annan,Northwest,United States
+10/29/2013,1,112.998,"Mountain-500 Silver, 40",Mitchell,Northwest,United States
+10/29/2013,5,218.454,"ML Mountain Frame-W - Silver, 42",Campbell,Northwest,United States
+10/29/2013,4,728.91,"Touring-2000 Blue, 60",Tsoflias,Australia,Australia
+10/29/2013,1,48.594,HL Road Pedal,Ito,Southwest,United States
+10/29/2013,5,1466.01,"Road-250 Black, 52",Blythe,Southwest,United States
+10/29/2013,1,445.41,"Touring-3000 Blue, 54",Ansman-Wolfe,Northwest,United States
+10/29/2013,2,41.994,"Women's Mountain Shorts, M",Jiang,Southwest,United States
+10/29/2013,1,672.294,"Road-550-W Yellow, 38",Alberts,United Kingdom,United Kingdom
+10/29/2013,2,41.994,"Women's Mountain Shorts, M",Abbas,Australia,Australia
+11/28/2013,2,356.898,"ML Road Frame-W - Yellow, 44",Valdez,Germany,Germany
+11/29/2013,1,356.898,"ML Road Frame-W - Yellow, 48",Mitchell,Southwest,United States
+11/29/2013,1,1430.442,"Touring-1000 Blue, 46",Mensa-Annan,Northwest,United States
+11/29/2013,1,63.9,Rear Brakes,Saraiva,United Kingdom,United Kingdom
+11/29/2013,3,72.162,HL Road Handlebars,Campbell,Northwest,United States
+11/29/2013,1,14.694,"Half-Finger Gloves, L",Carson,Northeast,United States
+11/29/2013,2,461.694,"Mountain-400-W Silver, 42",Jiang,Central,United States
+11/29/2013,3,323.994,"Road-750 Black, 44",Pak,Canada,Canada
+11/29/2013,1,1430.442,"Touring-1000 Yellow, 46",Ito,Southwest,United States
+11/29/2013,1,672.294,"Road-550-W Yellow, 48",Vargas,Canada,Canada
+11/29/2013,1,1466.01,"Road-250 Red, 58",Blythe,Southwest,United States
+11/29/2013,4,445.41,"Touring-3000 Yellow, 54",Tsoflias,Australia,Australia
+11/29/2013,2,809.76,"HL Mountain Frame - Black, 38",Varkey Chudukatil,France,France
+11/29/2013,4,445.41,"Touring-3000 Blue, 58",Reiter,Southeast,United States
+11/29/2013,2,54.942,HL Touring Handlebars,Valdez,Germany,Germany
+11/29/2013,1,602.346,"HL Touring Frame - Yellow, 54",Ansman-Wolfe,Northwest,United States
+11/29/2013,1,1430.442,"Touring-1000 Blue, 60",Abbas,Australia,Australia
