@@ -1,0 +1,77 @@
+﻿ProductKey,SalesOrderNumber,OrderQuantity,UnitPrice,ProductName,Subcategory,Category,Year,ExtendedAmount
+528,SO52010,1,4.99,Mountain Tire Tube,Tires and Tubes,Accessories,2007,4.99
+528,SO55843,1,4.99,Mountain Tire Tube,Tires and Tubes,Accessories,2007,4.99
+528,SO61804,1,4.99,Mountain Tire Tube,Tires and Tubes,Accessories,2008,4.99
+528,SO71698,1,4.99,Mountain Tire Tube,Tires and Tubes,Accessories,2008,4.99
+530,SO69962,1,4.99,Touring Tire Tube,Tires and Tubes,Accessories,2008,4.99
+530,SO52507,1,4.99,Touring Tire Tube,Tires and Tubes,Accessories,2007,4.99
+535,SO53168,1,24.99,LL Mountain Tire,Tires and Tubes,Accessories,2007,24.99
+539,SO70239,1,24.99,ML Road Tire,Tires and Tubes,Accessories,2008,24.99
+540,SO55570,1,32.6,HL Road Tire,Tires and Tubes,Accessories,2007,32.6
+540,SO68650,1,32.6,HL Road Tire,Tires and Tubes,Accessories,2008,32.6
+541,SO54853,1,28.99,Touring Tire,Tires and Tubes,Accessories,2007,28.99
+538,SO54871,1,21.49,LL Road Tire,Tires and Tubes,Accessories,2007,21.49
+536,SO70177,1,29.99,ML Mountain Tire,Tires and Tubes,Accessories,2008,29.99
+537,SO55012,1,35,HL Mountain Tire,Tires and Tubes,Accessories,2007,35
+537,SO65034,1,35,HL Mountain Tire,Tires and Tubes,Accessories,2008,35
+529,SO71579,1,3.99,Road Tire Tube,Tires and Tubes,Accessories,2008,3.99
+529,SO66467,1,3.99,Road Tire Tube,Tires and Tubes,Accessories,2008,3.99
+529,SO74165,1,3.99,Road Tire Tube,Tires and Tubes,Accessories,2008,3.99
+480,SO63705,1,2.29,Patch Kit/8 Patches,Tires and Tubes,Accessories,2008,2.29
+480,SO55207,1,2.29,Patch Kit/8 Patches,Tires and Tubes,Accessories,2007,2.29
+480,SO70064,1,2.29,Patch Kit/8 Patches,Tires and Tubes,Accessories,2008,2.29
+480,SO56339,1,2.29,Patch Kit/8 Patches,Tires and Tubes,Accessories,2007,2.29
+477,SO61532,1,4.99,Water Bottle - 30 oz.,Bottles and Cages,Accessories,2008,4.99
+477,SO67164,1,4.99,Water Bottle - 30 oz.,Bottles and Cages,Accessories,2008,4.99
+477,SO57315,1,4.99,Water Bottle - 30 oz.,Bottles and Cages,Accessories,2007,4.99
+477,SO55798,1,4.99,Water Bottle - 30 oz.,Bottles and Cages,Accessories,2007,4.99
+477,SO55596,1,4.99,Water Bottle - 30 oz.,Bottles and Cages,Accessories,2007,4.99
+478,SO52899,1,9.99,Mountain Bottle Cage,Bottles and Cages,Accessories,2007,9.99
+478,SO51554,1,9.99,Mountain Bottle Cage,Bottles and Cages,Accessories,2007,9.99
+478,SO71175,1,9.99,Mountain Bottle Cage,Bottles and Cages,Accessories,2008,9.99
+479,SO67000,1,8.99,Road Bottle Cage,Bottles and Cages,Accessories,2008,8.99
+479,SO51314,1,8.99,Road Bottle Cage,Bottles and Cages,Accessories,2007,8.99
+375,SO49896,1,2181.5625,"Road-250 Black, 48",Road Bikes,Bikes,2007,2181.5625
+383,SO49943,1,1000.4375,"Road-550-W Yellow, 40",Road Bikes,Bikes,2007,1000.4375
+372,SO68508,1,2443.35,"Road-250 Red, 58",Road Bikes,Bikes,2008,2443.35
+388,SO54309,1,1120.49,"Road-550-W Yellow, 44",Road Bikes,Bikes,2007,1120.49
+313,SO46425,1,3578.27,"Road-150 Red, 52",Road Bikes,Bikes,2006,3578.27
+312,SO45882,1,3578.27,"Road-150 Red, 48",Road Bikes,Bikes,2006,3578.27
+584,SO65737,1,539.99,"Road-750 Black, 58",Road Bikes,Bikes,2008,539.99
+370,SO48139,1,2443.35,"Road-250 Red, 52",Road Bikes,Bikes,2006,2443.35
+584,SO71425,1,539.99,"Road-750 Black, 58",Road Bikes,Bikes,2008,539.99
+373,SO50823,1,2181.5625,"Road-250 Black, 44",Road Bikes,Bikes,2007,2181.5625
+351,SO44407,1,3374.99,"Mountain-100 Black, 48",Mountain Bikes,Bikes,2005,3374.99
+354,SO50356,1,2071.4196,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,2007,2071.4196
+587,SO58331,1,769.49,"Mountain-400-W Silver, 38",Mountain Bikes,Bikes,2007,769.49
+355,SO67581,1,2319.99,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,2008,2319.99
+353,SO56378,1,2319.99,"Mountain-200 Silver, 38",Mountain Bikes,Bikes,2007,2319.99
+359,SO62768,1,2294.99,"Mountain-200 Black, 38",Mountain Bikes,Bikes,2008,2294.99
+573,SO61416,1,2384.07,"Touring-1000 Blue, 46",Touring Bikes,Bikes,2008,2384.07
+574,SO58129,1,2384.07,"Touring-1000 Blue, 50",Touring Bikes,Bikes,2007,2384.07
+567,SO55812,1,742.35,"Touring-3000 Blue, 62",Touring Bikes,Bikes,2007,742.35
+483,SO54493,1,120,Hitch Rack - 4-Bike,Bike Racks,Accessories,2007,120
+487,SO71043,1,54.99,Hydration Pack - 70 oz.,Hydration Packs,Accessories,2008,54.99
+484,SO53901,1,7.95,Bike Wash - Dissolver,Cleaners,Accessories,2007,7.95
+485,SO73141,1,21.98,Fender Set - Mountain,Fenders,Accessories,2008,21.98
+485,SO59436,1,21.98,Fender Set - Mountain,Fenders,Accessories,2007,21.98
+485,SO73225,1,21.98,Fender Set - Mountain,Fenders,Accessories,2008,21.98
+473,SO54363,1,63.5,"Classic Vest, L",Vests,Clothing,2007,63.5
+475,SO66847,1,69.99,"Women's Mountain Shorts, M",Shorts,Clothing,2008,69.99
+463,SO60407,1,24.49,"Half-Finger Gloves, S",Gloves,Clothing,2007,24.49
+465,SO68536,1,24.49,"Half-Finger Gloves, M",Gloves,Clothing,2008,24.49
+231,SO67499,1,49.99,"Long-Sleeve Logo Jersey, M",Jerseys,Clothing,2008,49.99
+237,SO60153,1,49.99,"Long-Sleeve Logo Jersey, XL",Jerseys,Clothing,2007,49.99
+491,SO54144,1,53.99,"Short-Sleeve Classic Jersey, XL",Jerseys,Clothing,2007,53.99
+488,SO74917,1,53.99,"Short-Sleeve Classic Jersey, S",Jerseys,Clothing,2008,53.99
+225,SO51495,1,8.99,AWC Logo Cap,Caps,Clothing,2007,8.99
+225,SO51411,1,8.99,AWC Logo Cap,Caps,Clothing,2007,8.99
+225,SO55181,1,8.99,AWC Logo Cap,Caps,Clothing,2007,8.99
+214,SO53285,1,34.99,"Sport-100 Helmet, Red",Helmets,Accessories,2007,34.99
+214,SO73276,1,34.99,"Sport-100 Helmet, Red",Helmets,Accessories,2008,34.99
+214,SO65808,1,34.99,"Sport-100 Helmet, Red",Helmets,Accessories,2008,34.99
+222,SO63609,1,34.99,"Sport-100 Helmet, Blue",Helmets,Accessories,2008,34.99
+222,SO73987,1,34.99,"Sport-100 Helmet, Blue",Helmets,Accessories,2008,34.99
+217,SO61999,1,34.99,"Sport-100 Helmet, Black",Helmets,Accessories,2008,34.99
+217,SO71123,1,34.99,"Sport-100 Helmet, Black",Helmets,Accessories,2008,34.99
+217,SO53144,1,34.99,"Sport-100 Helmet, Black",Helmets,Accessories,2007,34.99

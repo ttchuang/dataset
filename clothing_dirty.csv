@@ -1,0 +1,11 @@
+,product,size,price,in_stock
+0,red shirt,M,49.33,TRUE
+1,red shirt,M,49.33,TRUE
+2,red shirt,L,,TRUE
+3,blue shirt,L,45.99,
+4,white dress,S,199.99,FALSE
+5,blue pants,M,58.99,TRUE
+6,white tuxedo,M,,FALSE
+7,blue pants,N,58.99,TRUE
+8,black tuxedo,L,4775.5,TRUE
+9,blue shirt,S,45.99,TRUE
