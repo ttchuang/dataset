@@ -1,9 +1,3 @@
-project1
+Dataset
 ========
-#First level heading
-
-This is a practice repo
-
-## Second level heading
-* First point
-* Second point
+This is a practice repo, where datasets for teaching/training/practicing are saved. 
