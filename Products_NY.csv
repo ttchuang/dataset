@@ -1,0 +1,244 @@
+ProductKey,ProductName,ModelName,SubCategory,Category,StandardCost,Color
+215,"Sport-100 Helmet, Black",Sport-100,Helmets,Accessories,12.0278,Black
+216,"Sport-100 Helmet, Black",Sport-100,Helmets,Accessories,13.8782,Black
+217,"Sport-100 Helmet, Black",Sport-100,Helmets,Accessories,13.0863,Black
+220,"Sport-100 Helmet, Blue",Sport-100,Helmets,Accessories,12.0278,Blue
+221,"Sport-100 Helmet, Blue",Sport-100,Helmets,Accessories,13.8782,Blue
+222,"Sport-100 Helmet, Blue",Sport-100,Helmets,Accessories,13.0863,Blue
+218,"Mountain Bike Socks, M",Mountain Bike Socks,Socks,Clothing,3.3963,White
+219,"Mountain Bike Socks, L",Mountain Bike Socks,Socks,Clothing,3.3963,White
+1,Adjustable Race,,,,,NA
+2,Bearing Ball,,,,,NA
+3,BB Ball Bearing,,,,,NA
+4,Headset Ball Bearings,,,,,NA
+5,Blade,,,,,NA
+6,LL Crankarm,,,,,Black
+7,ML Crankarm,,,,,Black
+8,HL Crankarm,,,,,Black
+9,Chainring Bolts,,,,,Silver
+10,Chainring Nut,,,,,Silver
+11,Chainring,,,,,Black
+12,Crown Race,,,,,NA
+13,Chain Stays,,,,,NA
+14,Decal 1,,,,,NA
+15,Decal 2,,,,,NA
+16,Down Tube,,,,,NA
+17,Mountain End Caps,,,,,NA
+18,Road End Caps,,,,,NA
+19,Touring End Caps,,,,,NA
+20,Fork End,,,,,NA
+21,Freewheel,,,,,Silver
+22,Flat Washer 1,,,,,NA
+23,Flat Washer 6,,,,,NA
+24,Flat Washer 2,,,,,NA
+25,Flat Washer 9,,,,,NA
+26,Flat Washer 4,,,,,NA
+27,Flat Washer 3,,,,,NA
+28,Flat Washer 8,,,,,NA
+29,Flat Washer 5,,,,,NA
+30,Flat Washer 7,,,,,NA
+31,Fork Crown,,,,,NA
+32,Front Derailleur Cage,,,,,Silver
+33,Front Derailleur Linkage,,,,,Silver
+34,Guide Pulley,,,,,NA
+35,LL Grip Tape,,,,,NA
+36,ML Grip Tape,,,,,NA
+37,HL Grip Tape,,,,,NA
+38,Thin-Jam Hex Nut 9,,,,,NA
+39,Thin-Jam Hex Nut 10,,,,,NA
+40,Thin-Jam Hex Nut 1,,,,,NA
+41,Thin-Jam Hex Nut 2,,,,,NA
+42,Thin-Jam Hex Nut 15,,,,,NA
+43,Thin-Jam Hex Nut 16,,,,,NA
+44,Thin-Jam Hex Nut 5,,,,,NA
+45,Thin-Jam Hex Nut 6,,,,,NA
+46,Thin-Jam Hex Nut 3,,,,,NA
+47,Thin-Jam Hex Nut 4,,,,,NA
+48,Thin-Jam Hex Nut 13,,,,,NA
+49,Thin-Jam Hex Nut 14,,,,,NA
+50,Thin-Jam Hex Nut 7,,,,,NA
+51,Thin-Jam Hex Nut 8,,,,,NA
+52,Thin-Jam Hex Nut 12,,,,,NA
+53,Thin-Jam Hex Nut 11,,,,,NA
+54,Hex Nut 5,,,,,NA
+55,Hex Nut 6,,,,,NA
+56,Hex Nut 16,,,,,NA
+57,Hex Nut 17,,,,,NA
+58,Hex Nut 7,,,,,NA
+59,Hex Nut 8,,,,,NA
+60,Hex Nut 9,,,,,NA
+61,Hex Nut 22,,,,,NA
+62,Hex Nut 23,,,,,NA
+63,Hex Nut 12,,,,,NA
+64,Hex Nut 13,,,,,NA
+65,Hex Nut 1,,,,,NA
+66,Hex Nut 10,,,,,NA
+67,Hex Nut 11,,,,,NA
+68,Hex Nut 2,,,,,NA
+69,Hex Nut 20,,,,,NA
+70,Hex Nut 21,,,,,NA
+71,Hex Nut 3,,,,,NA
+72,Hex Nut 14,,,,,NA
+73,Hex Nut 15,,,,,NA
+74,Hex Nut 4,,,,,NA
+75,Hex Nut 18,,,,,NA
+76,Hex Nut 19,,,,,NA
+77,Handlebar Tube,,,,,NA
+78,Head Tube,,,,,NA
+79,LL Hub,,,,,NA
+80,HL Hub,,,,,NA
+81,Keyed Washer,,,,,NA
+82,External Lock Washer 3,,,,,NA
+83,External Lock Washer 4,,,,,NA
+84,External Lock Washer 9,,,,,NA
+85,External Lock Washer 5,,,,,NA
+86,External Lock Washer 7,,,,,NA
+87,External Lock Washer 6,,,,,NA
+88,External Lock Washer 1,,,,,NA
+89,External Lock Washer 8,,,,,NA
+90,External Lock Washer 2,,,,,NA
+91,Internal Lock Washer 3,,,,,NA
+92,Internal Lock Washer 4,,,,,NA
+93,Internal Lock Washer 9,,,,,NA
+94,Internal Lock Washer 5,,,,,NA
+95,Internal Lock Washer 7,,,,,NA
+96,Internal Lock Washer 6,,,,,NA
+97,Internal Lock Washer 10,,,,,NA
+98,Internal Lock Washer 1,,,,,NA
+99,Internal Lock Washer 8,,,,,NA
+100,Internal Lock Washer 2,,,,,NA
+101,Thin-Jam Lock Nut 9,,,,,NA
+102,Thin-Jam Lock Nut 10,,,,,NA
+103,Thin-Jam Lock Nut 1,,,,,NA
+104,Thin-Jam Lock Nut 2,,,,,NA
+105,Thin-Jam Lock Nut 15,,,,,NA
+106,Thin-Jam Lock Nut 16,,,,,NA
+107,Thin-Jam Lock Nut 5,,,,,NA
+108,Thin-Jam Lock Nut 6,,,,,NA
+109,Thin-Jam Lock Nut 3,,,,,NA
+110,Thin-Jam Lock Nut 4,,,,,NA
+111,Thin-Jam Lock Nut 13,,,,,NA
+112,Thin-Jam Lock Nut 14,,,,,NA
+113,Thin-Jam Lock Nut 7,,,,,NA
+114,Thin-Jam Lock Nut 8,,,,,NA
+115,Thin-Jam Lock Nut 12,,,,,NA
+116,Thin-Jam Lock Nut 11,,,,,NA
+117,Lock Nut 5,,,,,NA
+118,Lock Nut 6,,,,,NA
+119,Lock Nut 16,,,,,NA
+120,Lock Nut 17,,,,,NA
+121,Lock Nut 7,,,,,NA
+122,Lock Nut 8,,,,,NA
+123,Lock Nut 9,,,,,NA
+124,Lock Nut 22,,,,,NA
+125,Lock Nut 23,,,,,NA
+126,Lock Nut 12,,,,,NA
+127,Lock Nut 13,,,,,NA
+128,Lock Nut 1,,,,,NA
+129,Lock Nut 10,,,,,NA
+130,Lock Nut 11,,,,,NA
+131,Lock Nut 2,,,,,NA
+132,Lock Nut 20,,,,,NA
+133,Lock Nut 21,,,,,NA
+134,Lock Nut 3,,,,,NA
+135,Lock Nut 14,,,,,NA
+136,Lock Nut 15,,,,,NA
+137,Lock Nut 4,,,,,NA
+138,Lock Nut 19,,,,,NA
+139,Lock Nut 18,,,,,NA
+140,Lock Ring,,,,,Silver
+141,Lower Head Race,,,,,NA
+142,Lock Washer 4,,,,,NA
+143,Lock Washer 5,,,,,NA
+144,Lock Washer 10,,,,,NA
+145,Lock Washer 6,,,,,NA
+146,Lock Washer 13,,,,,NA
+147,Lock Washer 8,,,,,NA
+148,Lock Washer 1,,,,,NA
+149,Lock Washer 7,,,,,NA
+150,Lock Washer 12,,,,,NA
+151,Lock Washer 2,,,,,NA
+152,Lock Washer 9,,,,,NA
+153,Lock Washer 3,,,,,NA
+154,Lock Washer 11,,,,,NA
+155,Metal Angle,,,,,NA
+156,Metal Bar 1,,,,,NA
+157,Metal Bar 2,,,,,NA
+158,Metal Plate 2,,,,,NA
+159,Metal Plate 1,,,,,NA
+160,Metal Plate 3,,,,,NA
+161,Metal Sheet 2,,,,,NA
+162,Metal Sheet 3,,,,,NA
+163,Metal Sheet 7,,,,,NA
+164,Metal Sheet 4,,,,,NA
+165,Metal Sheet 5,,,,,NA
+166,Metal Sheet 6,,,,,NA
+167,Metal Sheet 1,,,,,NA
+168,Metal Tread Plate,,,,,NA
+169,LL Nipple,,,,,NA
+170,HL Nipple,,,,,NA
+171,Paint - Black,,,,,NA
+172,Paint - Red,,,,,NA
+173,Paint - Silver,,,,,NA
+174,Paint - Blue,,,,,NA
+175,Paint - Yellow,,,,,NA
+176,Pinch Bolt,,,,,NA
+177,Cup-Shaped Race,,,,,NA
+178,Cone-Shaped Race,,,,,NA
+179,Reflector,,,,,NA
+180,LL Mountain Rim,,,,,NA
+181,ML Mountain Rim,,,,,NA
+182,HL Mountain Rim,,,,,NA
+183,LL Road Rim,,,,,NA
+184,ML Road Rim,,,,,NA
+185,HL Road Rim,,,,,NA
+186,Touring Rim,,,,,NA
+187,LL Mountain Seat Assembly,,,,,NA
+188,ML Mountain Seat Assembly,,,,,NA
+189,HL Mountain Seat Assembly,,,,,NA
+190,LL Road Seat Assembly,,,,,NA
+191,ML Road Seat Assembly,,,,,NA
+192,HL Road Seat Assembly,,,,,NA
+193,LL Touring Seat Assembly,,,,,NA
+194,ML Touring Seat Assembly,,,,,NA
+195,HL Touring Seat Assembly,,,,,NA
+196,LL Spindle/Axle,,,,,NA
+197,HL Spindle/Axle,,,,,NA
+198,LL Shell,,,,,NA
+199,HL Shell,,,,,NA
+200,Spokes,,,,,NA
+201,Seat Lug,,,,,NA
+202,Stem,,,,,NA
+203,Seat Post,,,,,NA
+204,Steerer,,,,,NA
+205,Seat Stays,,,,,NA
+206,Seat Tube,,,,,NA
+207,Top Tube,,,,,NA
+208,Tension Pulley,,,,,NA
+209,Rear Derailleur Cage,,,,,Silver
+212,"Sport-100 Helmet, Red",Sport-100,Helmets,Accessories,12.0278,Red
+213,"Sport-100 Helmet, Red",Sport-100,Helmets,Accessories,13.8782,Red
+214,"Sport-100 Helmet, Red",Sport-100,Helmets,Accessories,13.0863,Red
+448,Minipump,Minipump,Pumps,Accessories,8.2459,NA
+449,Mountain Pump,Mountain Pump,Pumps,Accessories,10.3084,NA
+462,"Half-Finger Gloves, S",Half-Finger Gloves,Gloves,Clothing,9.7136,Black
+463,"Half-Finger Gloves, S",Half-Finger Gloves,Gloves,Clothing,9.1593,Black
+464,"Half-Finger Gloves, M",Half-Finger Gloves,Gloves,Clothing,9.7136,Black
+465,"Half-Finger Gloves, M",Half-Finger Gloves,Gloves,Clothing,9.1593,Black
+466,"Half-Finger Gloves, L",Half-Finger Gloves,Gloves,Clothing,9.7136,Black
+467,"Half-Finger Gloves, L",Half-Finger Gloves,Gloves,Clothing,9.1593,Black
+468,"Full-Finger Gloves, S",Full-Finger Gloves,Gloves,Clothing,15.6709,Black
+469,"Full-Finger Gloves, M",Full-Finger Gloves,Gloves,Clothing,15.6709,Black
+470,"Full-Finger Gloves, L",Full-Finger Gloves,Gloves,Clothing,15.6709,Black
+481,"Racing Socks, M",Racing Socks,Socks,Clothing,3.3623,White
+482,"Racing Socks, L",Racing Socks,Socks,Clothing,3.3623,White
+487,Hydration Pack - 70 oz.,Hydration Pack,Hydration Packs,Accessories,20.5663,Silver
+515,LL Mountain Seat/Saddle,LL Mountain Seat/Saddle 2,Saddles,Components,12.0413,NA
+516,ML Mountain Seat/Saddle,ML Mountain Seat/Saddle 2,Saddles,Components,17.3782,NA
+517,HL Mountain Seat/Saddle,HL Mountain Seat/Saddle 2,Saddles,Components,23.3722,NA
+518,LL Road Seat/Saddle,LL Road Seat/Saddle 1,Saddles,Components,12.0413,NA
+519,ML Road Seat/Saddle,ML Road Seat/Saddle 2,Saddles,Components,17.3782,NA
+520,HL Road Seat/Saddle,HL Road Seat/Saddle 2,Saddles,Components,23.3722,NA
+521,LL Touring Seat/Saddle,LL Touring Seat/Saddle,Saddles,Components,12.0413,NA
+522,ML Touring Seat/Saddle,ML Touring Seat/Saddle,Saddles,Components,17.3782,NA
+523,HL Touring Seat/Saddle,HL Touring Seat/Saddle,Saddles,Components,23.3722,NA

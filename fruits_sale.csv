@@ -1,0 +1,21 @@
+InvoiceNumber,SalesDate, ProductName, UnitsSold, UnitCost,ShippingCost,SalesPeople,ShipTo
+123,1/1/2022,Apples,10,0.45,10,"Chris","London,UK"
+124,1/7/2022,Oranges,20, 0.60,20,"Chris,Helen","Washington DC,USA"
+125,1/9/2022,Apples,20,0.90,20,"HELEN","Dublin,Ireland"
+126,1/11/2022,Oranges,100, 0.30,10,"Helen",Paris,
+Invoice127,1/12/2022,Pears,55,1.00,40,"Chris","Berlin,Germany"
+128,2/3/2022,Apples,30,1.20,30,"CHRIS,Natasha","Zurich,Switzerland"
+129,2/3/2022,Oranges,30,.90,30,"Chris,Mimi","Oslo,Norway"
+129,2/3/2022,Oranges,30,.90,30,"chris,mimi",Oslo,
+130,2/4/2022,Grapes,100,2.00,100,"Helen,Natasha",Oslo,
+131,2/4/2022,Apples,100,0.45,10,"Chris","London,UK"
+141,2/9/2022,Apples,100,0.45,10,"Chris","London,UK"
+142Invoice,2/10/2022,Oranges,250, 0.60,20,"Chris,Helen","Washington DC,USA"
+143,3/1/2022,Apples,255,0.90,20,"HELEN","Dublin,Ireland"
+144,3/3/2022,Oranges,150, 0.30,10,"Helen","Paris,France"
+145,3/11/2022,Apples,210,0.45,10,"Chris",London,
+146,3/12/2022,Oranges, 200, 0.60,20,"Chris,Helen","Washington DC,USA"
+147,3/12/2022,Apples,250,0.90,20,"HELEN","Dublin,Ireland"
+148,3/14/2022,Oranges,150, 0.30,10,"Helen","Paris,France"
+149,3/18/2022,Apples,220,0.90,20,"HELEN","Dublin,Ireland"
+150,3/22/2022,Oranges,150, 0.30,10,"Helen",Paris,
