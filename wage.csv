@@ -1,0 +1,297 @@
+﻿FirstName,LastName,MiddleName,Sex,Title,Department,BaseRate,Hours
+Guy,Gilbert,R,Male,Production Technician - WC60,Production,12.45,32
+JoLynn,Dobney,M,Female,Production Supervisor - WC60,Production,25,33
+Ruth,Ellerbrock,Ann,Male,Production Technician - WC10,Production,13.45,35
+Barry,Johnson,K,Male,Production Technician - WC10,Production,13.45,40
+Sidney,Higa,M,Male,Production Technician - WC10,Production,13.45,45
+Taylor,Maxwell,R,Male,Production Supervisor - WC50,Production,25,40
+Jeffrey,Ford,L,Male,Production Technician - WC10,Production,13.45,43
+Jo,Brown,A,Female,Production Supervisor - WC60,Production,25,30
+Doris,Hartwig,M,Male,Production Technician - WC10,Production,13.45,43
+John,Campbell,T,Male,Production Supervisor - WC60,Production,25,34
+Diane,Glimp,R,Male,Production Technician - WC10,Production,13.45,40
+Steven,Selikoff,T,Male,Production Technician - WC30,Production,9.5,37
+Stuart,Munson,V,Male,Production Technician - WC45,Production,10,34
+Greg,Alderson,F,Male,Production Technician - WC45,Production,10,38
+David,Johnson,N,Male,Production Technician - WC30,Production,9.5,44
+Zheng,Mu,W,Male,Production Supervisor - WC10,Production,25,41
+Ivo,Salmre,William,Male,Production Technician - WC20,Production,14,38
+Paul,Komosinski,B,Male,Production Technician - WC40,Production,15,34
+Kendall,Keil,C,Male,Production Technician - WC50,Production,11,41
+Alejandro,McGuel,E,Male,Production Technician - WC40,Production,15,33
+Garrett,Young,R,Male,Production Technician - WC30,Production,9.5,35
+Jian Shuo,Wang,,Female,Production Technician - WC30,Production,9.5,31
+Alice,Ciccu,O,Male,Production Technician - WC50,Production,11,33
+Simon,Rapier,D,Male,Production Technician - WC60,Production,12.45,43
+Jinghao,Liu,K,Female,Production Supervisor - WC50,Production,25,38
+Michael,Hines,T,Male,Production Technician - WC20,Production,14,36
+Yvonne,McKay,S,Female,Production Technician - WC45,Production,10,37
+Russell,Hunter,,Male,Production Technician - WC50,Production,11,34
+Fred,Northup,T,Male,Production Technician - WC40,Production,15,36
+Jun,Cao,T,Male,Production Technician - WC50,Production,11,39
+Susan,Metters,A,Male,Production Technician - WC30,Production,9.5,40
+Reuben,D'sa,H,Male,Production Supervisor - WC40,Production,25,35
+Kirk,Koenigsbauer,J,Male,Production Technician - WC45,Production,10,35
+David,Ortiz,J,Male,Production Technician - WC60,Production,12.45,31
+Hanying,Feng,P,Male,Production Technician - WC20,Production,14,40
+Kevin,Liu,H,Male,Production Technician - WC40,Production,15,30
+Annik,Stahl,O,Female,Production Technician - WC60,Production,12.45,30
+Suroor,Fatima,R,Female,Production Technician - WC50,Production,11,41
+Jim,Scardelis,H,Male,Production Technician - WC50,Production,11,36
+Carole,Poland,M,Female,Production Technician - WC30,Production,9.5,33
+George,Li,Z,Male,Production Technician - WC30,Production,9.5,43
+Gary,Yukish,W,Male,Production Technician - WC40,Production,15,41
+Cristian,Petculescu,K,Male,Production Supervisor - WC10,Production,25,33
+Raymond,Sam,K,Male,Production Technician - WC20,Production,14,31
+Bob,Hohman,N,Male,Production Technician - WC50,Production,11,44
+Shammi,Mohamed,G,Male,Production Technician - WC40,Production,15,43
+Linda,Moschell,K,Male,Production Technician - WC50,Production,11,42
+Sandra,Reátegui Alayo,,Male,Production Technician - WC30,Production,9.5,34
+Kok-Ho,Loh,T,Female,Production Supervisor - WC50,Production,25,39
+Douglas,Hite,B,Male,Production Technician - WC45,Production,10,31
+James,Kramer,D,Male,Production Technician - WC60,Production,12.45,33
+Nitin,Mirchandani,S,Male,Production Technician - WC20,Production,14,30
+Rebecca,Laszlo,A,Male,Production Technician - WC60,Production,12.45,41
+Rajesh,Patel,M,Male,Production Technician - WC40,Production,15,36
+John,Evans,P,Male,Production Technician - WC50,Production,11,45
+Nancy,Anderson,A,Male,Production Technician - WC60,Production,12.45,45
+David,Yalovsky,A,Male,Production Technician - WC30,Production,9.5,39
+David,Hamilton,P,Male,Production Supervisor - WC40,Production,25,44
+Laura,Steele,C,Male,Production Technician - WC45,Production,10,44
+Margie,Shoop,W,Female,Production Technician - WC60,Production,12.45,42
+Lorraine,Nay,O,Female,Production Technician - WC40,Production,15,37
+Fadi,Fakhouri,K,Male,Production Technician - WC20,Production,14,40
+Ryan,Cornelsen,L,Male,Production Technician - WC40,Production,15,30
+Nuan,Yu,,Female,Production Technician - WC50,Production,11,34
+Bjorn,Rettig,M,Male,Production Technician - WC30,Production,9.5,40
+Scott,Gode,R,Male,Production Technician - WC45,Production,10,33
+Michael,Rothkugel,L,Male,Production Technician - WC40,Production,15,43
+Lane,Sacksteder,M,Male,Production Technician - WC20,Production,14,32
+Pete,Male,C,Male,Production Technician - WC50,Production,11,41
+Lolan,Song,B,Male,Production Technician - WC50,Production,11,35
+Paula,Nartker,R,Female,Production Technician - WC40,Production,15,42
+Mindaugas,Krapauskas,J,Male,Production Technician - WC50,Production,11,34
+Eric,Gubbels,,Male,Production Supervisor - WC20,Production,25,32
+Jason,Watters,M,Male,Production Technician - WC30,Production,9.5,45
+Janeth,Esteves,M,Female,Production Technician - WC45,Production,10,36
+Marc,Ingle,J,Male,Production Technician - WC30,Production,9.5,31
+Paul,Singh,R,Male,Production Technician - WC20,Production,14,37
+Frank,Lee,T,Male,Production Technician - WC40,Production,15,41
+Diane,Tibbott,H,Male,Production Technician - WC50,Production,11,41
+Angela,Barbariol,W,Male,Production Technician - WC50,Production,11,41
+Bryan,Baker,,Male,Production Technician - WC60,Production,12.45,40
+Jeff,Hay,V,Male,Production Supervisor - WC45,Production,25,40
+Eugene,Zabokritski,R,Male,Production Technician - WC30,Production,9.5,35
+Barbara,Decker,S,Male,Production Technician - WC20,Production,14,39
+Chris,Preston,T,Male,Production Technician - WC45,Production,10,44
+Mark,McArthur,K,Male,Production Technician - WC60,Production,12.45,34
+Houman,Pournasseh,N,Male,Production Technician - WC50,Production,11,42
+Michiko,Osada,F,Female,Production Technician - WC30,Production,9.5,44
+Benjamin,Martin,R,Male,Production Technician - WC30,Production,9.5,44
+Cynthia,Randall,S,Male,Production Supervisor - WC30,Production,25,37
+Kathie,Flood,E,Female,Production Technician - WC45,Production,10,41
+Britta,Simon,L,Female,Production Technician - WC60,Production,12.45,42
+Brian,Lloyd,T,Male,Production Technician - WC40,Production,15,35
+Michael,Patten,W,Male,Production Technician - WC50,Production,11,31
+Andy,Ruth,M,Male,Production Technician - WC30,Production,9.5,42
+Yuhong,Li,L,Male,Production Supervisor - WC20,Production,25,39
+Robert,Rounthwaite,J,Male,Production Technician - WC45,Production,10,41
+Reed,Koch,T,Male,Production Technician - WC30,Production,9.5,43
+Linda,Randall,A,Male,Production Technician - WC20,Production,14,39
+James,Hamilton,R,Male,Vice President of Production,Production,84.135,40
+Samantha,Smith,H,Male,Production Technician - WC20,Production,14,34
+Tawana,Nusbaum,G,Female,Production Technician - WC40,Production,15,30
+Denise,Smith,H,Female,Production Technician - WC50,Production,11,36
+Alex,Nayberg,M,Male,Production Technician - WC45,Production,10,43
+Eugene,Kogan,O,Male,Production Technician - WC60,Production,12.45,36
+Brandon,Heidepriem,G,Male,Production Technician - WC60,Production,12.45,37
+Shane,Kim,S,Male,Production Supervisor - WC45,Production,25,42
+John,Chen,Y,Male,Production Technician - WC20,Production,14,32
+Jose,Lugo,R,Male,Production Technician - WC60,Production,12.45,33
+Mandar,Samant,H,Male,Production Technician - WC50,Production,11,38
+Sameer,Tejani,A,Male,Production Technician - WC50,Production,11,32
+Carol,Philips,M,Male,Production Technician - WC30,Production,9.5,32
+Rob,Caron,T,Male,Production Technician - WC40,Production,15,37
+Don,Hall,L,Male,Production Technician - WC50,Production,11,45
+David,Lawrence,Oliver,Male,Production Technician - WC30,Production,9.5,42
+Baris,Cetinok,F,Male,Production Technician - WC40,Production,15,36
+Michael,Ray,Sean,Male,Production Supervisor - WC30,Production,25,41
+Steve,Masters,F,Male,Production Technician - WC60,Production,12.45,40
+Suchitra,Mohan,O,Female,Production Technician - WC60,Production,12.45,34
+Terrence,Earls,W,Male,Production Technician - WC20,Production,14,36
+Chad,Niswonger,W,Male,Production Technician - WC50,Production,11,31
+Rostislav,Shabalin,E,Male,Production Technician - WC30,Production,9.5,31
+Belinda,Newman,M,Female,Production Technician - WC45,Production,10,31
+Katie,McAskill-White,L,Female,Production Supervisor - WC20,Production,25,41
+Russell,King,M,Male,Production Technician - WC30,Production,9.5,44
+Jack,Richins,S,Male,Production Supervisor - WC30,Production,25,39
+Andrew,Hill,R,Male,Production Supervisor - WC10,Production,25,36
+Nicole,Holliday,B,Male,Production Technician - WC40,Production,15,35
+Frank,Miller,T,Male,Production Technician - WC50,Production,11,34
+Anibal,Sousa,T,Male,Production Technician - WC20,Production,14,30
+Ken,Myer,L,Male,Production Technician - WC40,Production,15,32
+Michael,Entin,T,Male,Production Technician - WC50,Production,11,44
+Lionel,Penuchot,C,Male,Production Technician - WC45,Production,10,34
+Thomas,Michaels,R,Male,Production Technician - WC60,Production,12.45,39
+Michael,Vanderhyde,T,Male,Production Technician - WC30,Production,9.5,41
+Lori,Kane,A,Female,Production Supervisor - WC45,Production,25,31
+Stefen,Hesse,A,Male,Production Technician - WC20,Production,14,42
+Elizabeth,Keyser,I,Male,Production Technician - WC50,Production,11,40
+John,Frum,N,Male,Production Technician - WC30,Production,9.5,34
+Merav,Netz,A,Female,Production Technician - WC30,Production,9.5,45
+Kitti,Lertpiriyasuwat,H,Female,Production Technician - WC50,Production,11,43
+Jay,Adams,G,Male,Production Technician - WC60,Production,12.45,30
+Jan,Miksovsky,S,Male,Production Technician - WC30,Production,9.5,30
+Brenda,Diaz,M,Male,Production Supervisor - WC40,Production,25,42
+Andrew,Cencini,M,Male,Production Technician - WC45,Production,10,33
+Chris,Okelberry,O,Male,Production Technician - WC60,Production,12.45,42
+Shelley,Dyck,N,Male,Production Technician - WC20,Production,14,45
+Gabe,Mares,B,Male,Production Technician - WC40,Production,15,37
+Charles,Fitzgerald,B,Male,Production Technician - WC60,Production,12.45,39
+Ebru,Ersan,N,Female,Production Technician - WC10,Production,13.45,41
+Sylvester,Valdez,A,Male,Production Technician - WC20,Production,14,45
+Brian,Goldstein,Richard,Male,Production Technician - WC40,Production,15,44
+Betsy,Stadick,A,Female,Production Technician - WC10,Production,13.45,43
+Karan,Khanna,R,Female,Production Technician - WC60,Production,12.45,34
+Mary,Baker,R,Male,Production Technician - WC10,Production,13.45,31
+Kevin,Homer,M,Male,Production Technician - WC10,Production,13.45,30
+Mihail,Frintu,U,Male,Production Technician - WC40,Production,15,39
+Bonnie,Kearney,N,Male,Production Technician - WC10,Production,13.45,42
+Hung-Fu,Ting,T,Female,Production Technician - WC20,Production,14,45
+Kimberly,Zimmerman,B,Male,Production Technician - WC10,Production,13.45,42
+Kim,Abercrombie,B,Male,Production Technician - WC60,Production,12.45,45
+Sandeep,Kaliyath,P,Male,Production Technician - WC40,Production,15,39
+Prasanna,Samarawickrama,E,Male,Production Technician - WC20,Production,14,31
+Min,Su,G,Female,Production Technician - WC20,Production,14,36
+Eric,Brown,L,Male,Production Technician - WC40,Production,15,36
+Maciej,Dusza,W,Male,Production Technician - WC60,Production,12.45,40
+Patrick,Wedge,C,Male,Production Technician - WC10,Production,13.45,34
+Frank,Martinez,R,Male,Production Technician - WC40,Production,15,43
+Ed,Dudenhoefer,R,Male,Production Technician - WC60,Production,12.45,31
+Christopher,Hill,E,Male,Production Technician - WC10,Production,13.45,35
+Patrick,Cook,M,Male,Production Technician - WC40,Production,15,45
+Krishna,Sunkammurali,,Male,Production Technician - WC20,Production,14,43
+Danielle,Tiedt,C,Male,Production Technician - WC10,Production,13.45,32
+Michael,Zwilling,J,Male,Production Technician - WC60,Production,12.45,39
+Randy,Reeves,T,Male,Production Technician - WC60,Production,12.45,45
+John,Kane,T,Male,Production Technician - WC10,Production,13.45,43
+Jack,Creasey,T,Male,Production Technician - WC40,Production,15,38
+Olinda,Turner,C,Female,Production Technician - WC20,Production,14,40
+Tom,Vande Velde,M,Male,Production Technician - WC10,Production,13.45,37
+Kevin,Brown,F,Male,Marketing Assistant,Marketing,13.462,39
+Roberto,Tamburello,,Male,Engineering Manager,Engineering,43.269,43
+Rob,Walters,,Male,Senior Tool Designer,Tool Design,29.846,31
+Rob,Walters,,Male,Senior Tool Designer,Tool Design,29.846,43
+Thierry,D'Hers,B,Male,Tool Designer,Tool Design,25,39
+David,Bradley,M,Male,Marketing Manager,Marketing,37.5,32
+David,Bradley,M,Male,Marketing Manager,Marketing,37.5,34
+Gail,Erickson,A,Male,Design Engineer,Engineering,32.692,38
+Jossef,Goldberg,H,Male,Design Engineer,Engineering,32.692,41
+Terri,Duffy,Lee,Female,Vice President of Engineering,Engineering,63.462,39
+Peter,Krebs,J,Male,Production Control Manager,Production Control,24.519,38
+Ashvini,Sharma,R,Female,Network Administrator,Information Services,32.452,30
+Paula,Barreto de Mattos,M,Female,Human Resources Manager,Human Resources,27.139,32
+Susan,Eaton,W,Male,Stocker,Shipping and Receiving,9,38
+Vamsi,Kuppa,N,Male,Shipping and Receiving Clerk,Shipping and Receiving,9.5,35
+Peng,Wu,J,Male,Quality Assurance Supervisor,Quality Assurance,21.635,30
+Jean,Trenary,E,Male,Information Services Manager,Information Services,50.481,31
+A. Scott,Wright,,Male,Master Scheduler,Production Control,23.558,35
+Sariya,Harnpadoungsataya,E,Female,Marketing Specialist,Marketing,14.423,33
+Willis,Johnson,T,Male,Recruiter,Human Resources,18.269,33
+Christian,Kleinerman,E,Male,Maintenance Supervisor,Facilities and Maintenance,20.433,42
+Tengiz,Kharatishvili,N,Male,Control Specialist,Document Control,16.827,40
+Deborah,Poe,E,Male,Accounts Receivable Specialist,Finance,19,43
+Janaina,Bueno,Barreiro Gambaro,Female,Application Specialist,Information Services,27.404,32
+Mindy,Martin,C,Female,Benefits Specialist,Human Resources,16.587,30
+Wendy,Kahn,Beth,Female,Finance Manager,Finance,43.269,41
+Kim,Ralls,T,Male,Stocker,Shipping and Receiving,9,40
+Sean,Alexander,P,Male,Quality Assurance Technician,Quality Assurance,10.577,44
+Diane,Margheim,L,Male,Research and Development Engineer,Research and Development,40.865,40
+Vidur,Luthra,X,Male,Recruiter,Human Resources,18.269,45
+Pilar,Ackerman,G,Female,Shipping and Receiving Supervisor,Shipping and Receiving,19.231,36
+Zainal,Arifin,T,Male,Document Control Manager,Document Control,17.789,44
+Candy,Spoon,L,Female,Accounts Receivable Specialist,Finance,19,45
+William,Vong,S,Male,Scheduling Assistant,Production Control,16,45
+William,Vong,S,Male,Scheduling Assistant,Production Control,16,34
+Dan,Bacon,K,Male,Application Specialist,Information Services,27.404,31
+David,Barber,M,Male,Assistant to the Chief Financial Officer,Finance,13.462,40
+Mary,Gibson,E,Male,Marketing Specialist,Marketing,14.423,37
+Ken,Sánchez,J,Male,Chief Executive Officer,Executive,125.5,36
+Mark,Harrington,L,Male,Quality Assurance Technician,Quality Assurance,10.577,41
+Gigi,Matthew,N,Female,Research and Development Engineer,Research and Development,40.865,39
+François,Ajenstat,P,Male,Database Administrator,Information Services,38.462,35
+Jill,Williams,A,Female,Marketing Specialist,Marketing,14.423,33
+Matthias,Berndt,T,Male,Shipping and Receiving Clerk,Shipping and Receiving,9.5,32
+Sean,Chai,N,Male,Document Control Assistant,Document Control,10.25,43
+Dan,Wilson,B,Male,Database Administrator,Information Services,38.462,41
+Bryan,Walton,A,Male,Accounts Receivable Specialist,Finance,19,35
+Sairaj,Uddin,L,Male,Scheduling Assistant,Production Control,16,42
+David,Liu,J,Male,Accounts Manager,Finance,34.736,41
+Laura,Norman,F,Male,Chief Financial Officer,Executive,60.096,42
+Laura,Norman,F,Male,Chief Financial Officer,Executive,60.096,33
+Andreas,Berglund,T,Male,Quality Assurance Technician,Quality Assurance,10.577,45
+Ramesh,Meyyappan,V,Male,Application Specialist,Information Services,27.404,33
+Stephanie,Conroy,A,Male,Network Manager,Information Services,39.664,33
+Hao,Chen,O,Female,Human Resources Administrative Assistant,Human Resources,13.942,39
+Dylan,Miller,A,Male,Research and Development Manager,Research and Development,50.481,44
+Karen,Berge,R,Male,Document Control Assistant,Document Control,10.25,35
+Mikael,Sandberg,Q,Male,Buyer,Purchasing,18.269,40
+Dragan,Tomic,K,Male,Accounts Payable Specialist,Finance,19,30
+Alan,Brewer,J,Male,Scheduling Assistant,Production Control,16,44
+Karen,Berg,A,Male,Application Specialist,Information Services,27.404,31
+Barbara,Moreland,C,Male,Accountant,Finance,26.442,44
+Peter,Connelly,I,Male,Network Administrator,Information Services,32.452,35
+Grant,Culbertson,N,Male,Human Resources Administrative Assistant,Human Resources,13.942,37
+Jimmy,Bischoff,T,Male,Stocker,Shipping and Receiving,9,40
+Arvind,Rao,B,Male,Buyer,Purchasing,18.269,33
+Hazem,Abolrous,E,Male,Quality Assurance Manager,Quality Assurance,28.846,40
+Janet,Sheperdigian,L,Male,Accounts Payable Specialist,Finance,19,40
+Terry,Eminhizer,J,Male,Marketing Specialist,Marketing,14.423,33
+Brian,LaMee,P,Male,Scheduling Assistant,Production Control,16,34
+Chris,Norred,K,Male,Control Specialist,Document Control,16.827,42
+Mike,Seamans,K,Male,Accountant,Finance,26.442,34
+Michael,Raheem,,Male,Research and Development Manager,Research and Development,42.481,31
+Gary,Altman,E.,Male,Facilities Manager,Facilities and Maintenance,24.039,43
+Linda,Meisner,P,Male,Buyer,Purchasing,18.269,38
+Magnus,Hedlund,E,Male,Facilities Administrative Assistant,Facilities and Maintenance,9.75,39
+Fukiko,Ogisu,J,Female,Buyer,Purchasing,18.269,39
+Gordon,Hee,L,Male,Buyer,Purchasing,18.269,41
+Frank,Pellow,S,Male,Buyer,Purchasing,18.269,33
+Eric,Kurjan,S,Male,Buyer,Purchasing,18.269,34
+Pat,Coleman,H,Male,Janitor,Facilities and Maintenance,9.25,34
+Erin,Hagens,M,Male,Buyer,Purchasing,18.269,36
+Lori,Penor,K,Female,Janitor,Facilities and Maintenance,9.25,41
+Sootha,Charncherngkha,T,Female,Quality Assurance Technician,Quality Assurance,10.577,44
+Stuart,Macrae,J,Male,Janitor,Facilities and Maintenance,9.25,34
+Jo,Berry,L,Female,Janitor,Facilities and Maintenance,9.25,34
+Ben,Miller,T,Male,Buyer,Purchasing,18.269,34
+Ovidiu,Cracium,V,Male,Senior Tool Designer,Tool Design,28.846,38
+Annette,Hill,L,Female,Purchasing Assistant,Purchasing,12.75,38
+Janice,Galvin,M,Male,Tool Designer,Tool Design,25,41
+Reinout,Hillmann,N,Male,Purchasing Assistant,Purchasing,12.75,44
+Michael,Sullivan,I,Male,Senior Design Engineer,Engineering,36.058,33
+Stephen,Jiang,Y,Male,North American Sales Manager,Sales,48.101,35
+Wanida,Benshoof,M,Female,Marketing Assistant,Marketing,13.462,40
+Sharon,Salavaria,B,Male,Design Engineer,Engineering,32.692,35
+John,Wood,L,Male,Marketing Specialist,Marketing,14.423,30
+Mary,Dempsey,A,Male,Marketing Assistant,Marketing,13.462,37
+Brian,Welcker,S,Male,Vice President of Sales,Sales,72.115,38
+Sheela,Word,H,Female,Purchasing Manager,Purchasing,30,45
+Sheela,Word,H,Female,Purchasing Manager,Purchasing,30,32
+Sheela,Word,H,Female,Purchasing Manager,Purchasing,30,30
+Michael,Blythe,G,Male,Sales Representative,Sales,23.077,45
+Linda,Mitchell,C,Male,Sales Representative,Sales,23.077,43
+Jillian,Carson,,Female,Sales Representative,Sales,23.077,44
+Garrett,Vargas,R,Male,Sales Representative,Sales,23.077,35
+Tsvi,Reiter,Michael,Male,Sales Representative,Sales,23.077,31
+Pamela,Ansman-Wolfe,O,Male,Sales Representative,Sales,23.077,44
+Shu,Ito,K,Male,Sales Representative,Sales,23.077,30
+José,Saraiva,Edvaldo,Male,Sales Representative,Sales,23.077,36
+David,Campbell,R,Male,Sales Representative,Sales,23.077,34
+Amy,Alberts,E,Male,European Sales Manager,Sales,48.101,40
+Jae,Pak,B,Male,Sales Representative,Sales,23.077,37
+Ranjit,Varkey Chudukatil,R,Male,Sales Representative,Sales,23.077,37
+Tete,Mensa-Annan,A,Female,Sales Representative,Sales,23.077,35
+Syed,Abbas,E,Male,Pacific Sales Manager,Sales,48.101,35
+Rachel,Valdez,B,Male,Sales Representative,Sales,23.077,35
+Lynn,Tsoflias,N,Male,Sales Representative,Sales,23.077,44
