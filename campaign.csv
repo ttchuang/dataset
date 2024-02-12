@@ -1,0 +1,201 @@
+,CustomerID,Age,Gender,AnnualIncome,SpendingScore,PurchasedOnCampaign,CampaignType
+0,1,56,Male,97215,69,0,Direct Mail
+1,2,69,Female,99042,47,0,Direct Mail
+2,3,46,Male,43284,25,0,Social Media
+3,4,32,Female,91389,66,0,Social Media
+4,5,60,Male,39435,10,0,In-Store
+5,6,25,Male,84340,56,0,Social Media
+6,7,38,Male,74078,30,0,Email
+7,8,56,Male,81293,5,1,Email
+8,9,36,Female,90403,33,0,Direct Mail
+9,10,40,Male,59124,65,0,Email
+10,11,28,Male,73919,18,1,In-Store
+11,12,28,Male,65247,96,0,Email
+12,13,41,Male,92752,49,0,Email
+13,14,53,Female,86573,11,0,In-Store
+14,15,57,Female,89101,85,0,Social Media
+15,16,41,Male,56646,26,1,Social Media
+16,17,20,Female,53049,63,0,In-Store
+17,18,39,Male,98385,89,0,Direct Mail
+18,19,19,Female,70158,86,0,Email
+19,20,41,Male,95417,59,0,In-Store
+20,21,61,Male,53289,27,0,Email
+21,22,47,Male,39823,49,0,Direct Mail
+22,23,55,Female,90160,77,0,Email
+23,24,19,Female,71975,33,1,In-Store
+24,25,38,Female,39540,98,0,Email
+25,26,50,Male,46364,99,0,Social Media
+26,27,29,Female,34611,1,0,Direct Mail
+27,28,39,Female,57663,21,0,Direct Mail
+28,29,61,Male,81991,55,0,Direct Mail
+29,30,42,Male,87679,6,0,In-Store
+30,31,66,Male,60977,92,0,Direct Mail
+31,32,44,Female,79115,81,0,Social Media
+32,33,59,Male,90890,69,0,In-Store
+33,34,45,Female,96387,95,1,Social Media
+34,35,33,Male,48071,5,0,Email
+35,36,32,Female,89275,3,0,Email
+36,37,64,Female,41938,53,0,Email
+37,38,68,Male,65195,23,1,Email
+38,39,61,Male,34000,53,0,Social Media
+39,40,69,Female,68304,37,0,In-Store
+40,41,20,Female,99449,74,1,In-Store
+41,42,54,Male,50764,74,1,Direct Mail
+42,43,68,Male,68494,83,1,Social Media
+43,44,24,Female,33373,17,0,Email
+44,45,38,Female,42161,85,0,Social Media
+45,46,26,Male,57350,78,0,Direct Mail
+46,47,56,Male,55351,73,1,Direct Mail
+47,48,35,Female,45305,1,0,Social Media
+48,49,21,Male,95953,51,0,Social Media
+49,50,42,Female,87458,45,0,Social Media
+50,51,31,Female,50358,77,1,In-Store
+51,52,67,Female,33267,4,0,Email
+52,53,26,Female,68513,62,0,Social Media
+53,54,43,Male,56092,65,0,Social Media
+54,55,19,Female,41338,32,0,Social Media
+55,56,37,Female,30412,34,0,Direct Mail
+56,57,45,Male,37543,92,0,Direct Mail
+57,58,64,Male,63496,95,0,In-Store
+58,59,24,Female,90692,72,0,Email
+59,60,61,Female,74425,39,0,In-Store
+60,61,25,Male,68756,26,0,Email
+61,62,64,Female,48888,34,0,Direct Mail
+62,63,52,Female,65735,54,0,Direct Mail
+63,64,31,Female,77295,3,0,Direct Mail
+64,65,34,Female,47955,50,0,In-Store
+65,66,53,Male,67841,12,0,Social Media
+66,67,67,Male,95510,65,0,Social Media
+67,68,57,Female,64911,54,1,Direct Mail
+68,69,21,Female,89031,5,0,Social Media
+69,70,19,Female,37357,94,1,Social Media
+70,71,23,Male,62479,94,0,In-Store
+71,72,59,Female,91476,57,0,Email
+72,73,21,Female,74811,17,1,Direct Mail
+73,74,46,Female,66208,47,0,Direct Mail
+74,75,35,Female,50150,23,0,In-Store
+75,76,43,Female,73286,79,0,In-Store
+76,77,61,Female,98450,85,0,Social Media
+77,78,51,Male,51352,14,1,Direct Mail
+78,79,27,Female,85069,66,1,Email
+79,80,53,Female,44397,75,1,In-Store
+80,81,31,Male,71555,51,0,Email
+81,82,48,Male,76959,38,1,Email
+82,83,65,Male,30728,64,1,Direct Mail
+83,84,32,Male,80517,98,0,Direct Mail
+84,85,25,Female,96234,38,0,In-Store
+85,86,31,Male,69954,50,1,Direct Mail
+86,87,40,Male,77280,98,0,Direct Mail
+87,88,57,Male,46779,82,1,Direct Mail
+88,89,38,Male,93932,30,0,Email
+89,90,33,Male,54466,79,1,In-Store
+90,91,62,Female,66939,91,0,Social Media
+91,92,35,Female,99896,51,0,Email
+92,93,64,Male,65270,63,0,Direct Mail
+93,94,41,Female,89163,98,1,Email
+94,95,43,Male,81934,52,0,Direct Mail
+95,96,42,Female,94895,38,0,Direct Mail
+96,97,62,Male,62307,97,0,Email
+97,98,58,Female,84098,88,1,In-Store
+98,99,46,Female,90921,79,0,Direct Mail
+99,100,32,Male,35486,30,1,In-Store
+100,101,62,Female,38335,51,0,Social Media
+101,102,18,Male,41130,81,0,Direct Mail
+102,103,42,Male,90566,5,0,In-Store
+103,104,24,Female,96703,29,0,In-Store
+104,105,26,Female,57192,4,1,Social Media
+105,106,41,Female,31062,10,0,In-Store
+106,107,18,Male,51545,56,0,In-Store
+107,108,61,Male,51689,17,1,Social Media
+108,109,25,Female,41174,74,0,Direct Mail
+109,110,41,Female,39348,17,0,In-Store
+110,111,28,Male,53714,84,1,In-Store
+111,112,68,Female,68102,88,0,In-Store
+112,113,34,Male,36801,69,0,Email
+113,114,25,Male,78136,34,1,Social Media
+114,115,52,Female,53625,6,0,Email
+115,116,52,Female,74261,53,0,Social Media
+116,117,50,Female,31542,66,0,Direct Mail
+117,118,22,Male,51677,77,1,Direct Mail
+118,119,59,Female,76732,43,0,In-Store
+119,120,56,Female,80343,75,0,Social Media
+120,121,58,Female,69081,23,1,Direct Mail
+121,122,45,Male,92856,55,1,Social Media
+122,123,24,Male,49065,80,0,Direct Mail
+123,124,26,Male,84693,95,0,Email
+124,125,25,Male,56962,75,0,Direct Mail
+125,126,29,Male,58295,16,1,Email
+126,127,51,Male,43807,8,0,Direct Mail
+127,128,50,Male,72348,4,0,In-Store
+128,129,65,Female,56432,4,1,Email
+129,130,40,Female,87854,56,1,Direct Mail
+130,131,41,Male,70262,25,0,In-Store
+131,132,54,Male,67080,67,1,Email
+132,133,52,Female,31324,96,0,In-Store
+133,134,61,Male,65909,67,1,Social Media
+134,135,57,Male,49870,27,0,Social Media
+135,136,39,Male,64578,93,0,Email
+136,137,44,Male,56790,32,1,Direct Mail
+137,138,52,Female,55289,50,0,Email
+138,139,18,Male,85129,61,0,In-Store
+139,140,52,Female,45485,51,1,Direct Mail
+140,141,54,Female,74482,19,1,Social Media
+141,142,64,Male,34748,21,0,Direct Mail
+142,143,31,Male,39435,5,0,Social Media
+143,144,20,Male,33709,82,0,Direct Mail
+144,145,18,Female,60355,92,0,Direct Mail
+145,146,22,Male,85771,42,0,Direct Mail
+146,147,43,Male,87799,61,0,In-Store
+147,148,31,Female,43116,22,1,In-Store
+148,149,56,Male,55470,21,0,Email
+149,150,44,Male,72344,70,0,Email
+150,151,26,Male,72918,1,0,Social Media
+151,152,32,Male,82224,5,1,In-Store
+152,153,32,Female,69298,12,0,Social Media
+153,154,43,Male,91629,90,0,Email
+154,155,59,Female,96040,46,0,Social Media
+155,156,30,Male,58016,34,0,Email
+156,157,68,Female,53960,49,0,In-Store
+157,158,49,Male,63591,78,1,Direct Mail
+158,159,56,Male,97641,90,1,In-Store
+159,160,66,Female,66395,45,0,Social Media
+160,161,69,Female,52700,27,0,Social Media
+161,162,49,Female,64620,73,1,In-Store
+162,163,21,Male,50559,26,1,In-Store
+163,164,47,Male,91642,47,0,Email
+164,165,54,Male,51732,86,0,Social Media
+165,166,40,Female,60354,56,0,Social Media
+166,167,56,Male,43843,94,0,In-Store
+167,168,62,Female,47640,63,1,Direct Mail
+168,169,32,Male,82528,48,1,Social Media
+169,170,60,Female,68413,61,1,Direct Mail
+170,171,46,Male,82638,81,0,In-Store
+171,172,53,Female,82736,26,0,In-Store
+172,173,30,Male,98866,36,1,Email
+173,174,49,Male,49087,1,1,Social Media
+174,175,24,Female,71430,8,0,Direct Mail
+175,176,68,Male,54504,99,1,Email
+176,177,39,Male,37114,52,1,Social Media
+177,178,45,Female,40975,79,0,Email
+178,179,19,Female,41023,47,0,In-Store
+179,180,59,Male,51447,56,0,Social Media
+180,181,62,Male,53959,86,0,Email
+181,182,23,Male,96203,14,0,Email
+182,183,45,Female,59703,90,1,Direct Mail
+183,184,45,Male,39337,28,0,Email
+184,185,61,Male,76427,87,0,Social Media
+185,186,61,Male,91529,78,0,Social Media
+186,187,37,Male,61921,88,0,Direct Mail
+187,188,47,Female,63307,2,1,Social Media
+188,189,28,Male,57355,26,0,In-Store
+189,190,45,Female,34835,14,0,Social Media
+190,191,42,Male,50159,59,1,Social Media
+191,192,56,Male,77605,56,0,Email
+192,193,50,Male,68088,7,0,Email
+193,194,18,Male,85284,3,0,Social Media
+194,195,44,Female,87043,23,0,Direct Mail
+195,196,69,Female,65547,18,0,Email
+196,197,30,Female,57532,38,0,Direct Mail
+197,198,58,Female,64349,99,0,Social Media
+198,199,20,Male,75445,15,1,Social Media
+199,200,56,Female,35713,64,0,In-Store
