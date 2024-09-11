@@ -1,0 +1,8 @@
+,Name,Age,Email,Salary,Department
+0,John Doe,25,johndoe@falcon.com,50000.0,Accounting
+1,jane doe,twenty-six,janedoe@falcon,60000.0,Marketing
+2,Alice Smith,30,alicesmith@falcon.com,,Finance
+3,John Doe,25,johndoe@falcon.com,50000.0,Accounting
+4,BOB Johnson,40,bobjohnson@falcon,45000.0,Marketing
+5,Alice Smith,thirty,alicesmith@falcon.com,70000.0,Finance
+6,Tracey Long,29,,55000.0,Finance
