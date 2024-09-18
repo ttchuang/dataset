@@ -1,0 +1,228 @@
+Internal ID,Q1: GOING OUT?,Q2: GENDER,Q3: AGE,Q4: COUNTRY,"Q5: STATE, PROVINCE, COUNTY, ETC",Q6 | FIRST FAV CANDY,Q6 | SECOND FAV CANDY,Q6 | THIRD FAV CANDY,Q7: OTHER COMMENTS,Q8: GEOTAG,BLANK COLUMN,Q9: DAY
+1,No,Male,42,Canada,Ontario ,Reese's PB Cups,Coffee Crisp,Sour Patch Kids,,"49.2619, -84.7322",,Sunday
+2,No,Male,33,canada,ontario,Candy Corn,Coffee Crisp,Peppermint Patties,"first person to give out cans of beer, wins","49.2619, -84.7246",,Friday
+3,No,Male,40,Canada,Ontario,Pop Rocks,Fuzzy Peaches,Sour Patch Kids,,"49.2619, -84.7247",,Sunday
+4,No,Male,56,Canada,Quebec,Fuzzy Peaches,Reese's PB Cups,Reese's PB Cups,,46.8122 -71.2147,,Friday
+5,No,Female,37,Canada,Ontario,Coffee Crisp,Pop Rocks,Coffee Crisp,,"49.2619, -84.7248",,Sunday
+6,Yes,Male,33,Canada,Alberta,Reese's PB Cups,Candy Corn,Reese's PB Cups,"Trick or treating isn't complete until you find that one house, with the lonely old alcoholic who doesn't realize it's halloween, who gives you a handful of un-shelled peanuts from his table so he can go back to drinking alone.","54.5321, -115.0496",,Friday
+7,No,Female,44,Canada,Alberta,Peppermint Patties,Pop Rocks,Candy Corn,,"54.5321, -115.0497",,Sunday
+8,No,Male,56,Canada,Alberta,Reese's PB Cups,Peppermint Patties,Candy Corn,,"54.5321, -115.0498",,
+9,No,Female,40,Canada,yukon,Fuzzy Peaches,Peppermint Patties,Sour Patch Kids,,"63.0005, -136.0026",,Sunday
+10,No,Female,42,Canada,Alberta ,Coffee Crisp,Coffee Crisp,Reese's PB Cups,,"54.5321, -115.0524",,Friday
+11,No,Male,48,Canada,BC,Pop Rocks,Sour Patch Kids,Chips,,"54.0844, -124.0050",,Friday
+12,No,Female,45,canada,ontario,Peppermint Patties,Coffee Crisp,Coffee Crisp,Please send me some chocolate? ,"49.2619, -84.7249",,Friday
+13,No,Male,43,Canada,Ontario,Pop Rocks,Coffee Crisp,Fuzzy Peaches,,"49.2619, -84.7250",,Friday
+14,No,Male,46,Canada,Ontario,Fuzzy Peaches,Coffee Crisp,Coffee Crisp,,"49.2619, -84.7251",,
+15,No,Female,53,Canada,Ontario,Candy Corn,Fuzzy Peaches,Pop Rocks,,"49.2619, -84.7252",,
+16,No,Male,41,Canada,BC,Chips,Peppermint Patties,Coffee Crisp,,"54.0844, -124.0049",,Friday
+17,No,Male,45,canada,bc,Fuzzy Peaches,Sour Patch Kids,Chips,,"63.0005, -136.0025",,
+18,Yes,Male,38,Canada,Ontario,Coffee Crisp,Pop Rocks,Coffee Crisp,,"49.2619, -84.7253",,Sunday
+19,No,Male,30,Canada,Alberta,Chips,Peppermint Patties,Fuzzy Peaches,,"54.5321, -115.0499",,
+20,No,Male,30,canada,manitoba,Fuzzy Peaches,Sour Patch Kids,Chips,,"49.7717, -96.8164",,
+21,No,Female,44,Canada,BC,Coffee Crisp,Fuzzy Peaches,Reese's PB Cups,Best trick or treating in Vancouver is Strathcona ...,"54.0844, -124.0048",,Sunday
+22,No,Male,38,Canada,Quebec,Coffee Crisp,Reese's PB Cups,Pop Rocks,,"46.8122, -71.2148",,Friday
+23,No,Female,51,Canada,BC,Fuzzy Peaches,Sour Patch Kids,Sour Patch Kids,,"54.0844, -124.0047",,Friday
+24,No,Male,52,Canada,Ontario,Peppermint Patties,Coffee Crisp,Peppermint Patties,To see the chocolate bars in the bowl by the door and know one will be yours:  such is the apex of experience on Halloween night.,"49.2619, -84.7254",,Friday
+25,No,Female,52,canada,sk,Chips,Sour Patch Kids,Fuzzy Peaches,,"55.5321, -106.1414",,
+26,No,Male,35,Canada,Ontario,Chips,Pop Rocks,Chips,,"49.2619, -84.7255",,Friday
+27,No,Female,34,Canada,Ontario,Reese's PB Cups,Peppermint Patties,Coffee Crisp,,"49.2619, -84.7256",,
+28,No,Male,?,Canada,British Columbia,Pop Rocks,Reese's PB Cups,Pop Rocks,,"54.0844, -124.0004",,Sunday
+29,No,Female,39,Canada,BC,Chips,Reese's PB Cups,Pop Rocks,,"54.0844, -124.0046",,
+30,No,Female,27,canada,Bc,Peppermint Patties,Candy Corn,Reese's PB Cups,,"54.0844, -124.0045",,Friday
+31,,Male,38,Canada,BC,Chips,Sour Patch Kids,Pop Rocks,,"54.0844, -124.0044",,
+32,No,Female,44,Canada,Alberta,Coffee Crisp,Coffee Crisp,Pop Rocks,,"54.5321, -115.0500",,Friday
+33,No,Male,34,Canada,Ontario,Sour Patch Kids,Coffee Crisp,Candy Corn,Nah.,"49.2619, -84.7257",,Sunday
+34,No,Male,39,Canada,Newfoundland,Reese's PB Cups,Coffee Crisp,Candy Corn,,"53.1355, -57.6604",,Friday
+35,Yes,Female,10,Canada,Alberta,Chips,Chips,Peppermint Patties,,"54.5321, -115.0501",,Sunday
+36,No,Male,45,Canada,Alberta,Coffee Crisp,Peppermint Patties,Coffee Crisp,,"54.5321, -115.0502",,Sunday
+37,No,Other,50,Canada,Ontario,Sour Patch Kids,Reese's PB Cups,Candy Corn,are we no longer getting free razor blades with our apples? ,"49.2619, -84.7258",,Friday
+38,Yes,Male,37,Canada,BC,Peppermint Patties,Fuzzy Peaches,Coffee Crisp,,"54.0844, -124.0043",,
+39,No,Male,,Canada,Ontario,Fuzzy Peaches,Sour Patch Kids,Sour Patch Kids,,"49.2619, -84.7259",,Sunday
+40,No,Male,31,canada,bc,Peppermint Patties,Coffee Crisp,Pop Rocks,,"54.0844, -124.0042",,Friday
+41,,Male,41,Canada,AB,Reese's PB Cups,Reese's PB Cups,Candy Corn,,"54.5321, -115.0492",,
+42,No,Other,312,Canada,BC,Reese's PB Cups,Candy Corn,Peppermint Patties,I am Groot!,"54.0844, -124.0041",,Sunday
+43,No,Male,34,Canada,Alberta,Fuzzy Peaches,Sour Patch Kids,Pop Rocks,,"54.5321, -115.0503",,Friday
+44,No,Male,48,canada,Ontario,Peppermint Patties,Reese's PB Cups,Fuzzy Peaches,,"49.2619, -84.7260",,Sunday
+45,No,Female,38,canada,ontario,Coffee Crisp,Coffee Crisp,Coffee Crisp,nom nom nom!,"49.2619, -84.7261",,Friday
+46,Yes,Male,45,Canada,ON,Sour Patch Kids,Candy Corn,Fuzzy Peaches,,"49.2619, -84.7240",,Friday
+47,No,Female,57,Canada,Saskatchewan,Fuzzy Peaches,Candy Corn,Fuzzy Peaches,,"55.5321, -106.1412",,
+48,No,Male,35,canada,newfoundland,Peppermint Patties,Reese's PB Cups,Pop Rocks,,"53.1355, -57.6605",,Friday
+49,No,Female,43,Canada,BC,Fuzzy Peaches,Sour Patch Kids,Pop Rocks,,"54.0844, -124.0040",,
+50,No,Male,36,Canada,AB,Candy Corn,Candy Corn,Peppermint Patties,,"54.5321, -115.0493",,Friday
+51,No,Male,36,Canada,BC,Fuzzy Peaches,Candy Corn,Pop Rocks,,"54.0844, -124.0039",,Sunday
+52,No,Male,69,canada,ontario,Sour Patch Kids,Reese's PB Cups,Fuzzy Peaches,,"49.2619, -84.7262",,Sunday
+53,No,Male,47,Canada,Ontario,Pop Rocks,Reese's PB Cups,Coffee Crisp,,"49.2619, -84.7263",,Sunday
+54,No,Male,47,Canada,Bc,Fuzzy Peaches,Reese's PB Cups,Chips,,"54.0844, -124.0038",,Friday
+55,No,Male,32,Canada,Ontario,Coffee Crisp,Pop Rocks,Reese's PB Cups,,"49.2619, -84.7264",,Friday
+56,No,Female,37,Canada,British Columbia ,Coffee Crisp,Peppermint Patties,Reese's PB Cups,,"54.0844, -124.0006",,Friday
+57,No,Female,48,canada,ontario,Candy Corn,Pop Rocks,Chips,,"49.2619, -84.7265",,Friday
+58,Yes,Female,33,Canada,Ontario,Fuzzy Peaches,Candy Corn,Reese's PB Cups,,"49.2619, -84.7266",,Sunday
+59,No,Female,38,Canada,Alberta,Fuzzy Peaches,Reese's PB Cups,Fuzzy Peaches,"Canadian candy bars are quantitatively, certifiably, scientifically BETTER than American candy bars. Sorry guys, it's true. That, y'all's lack of Tim Hortons, and the fact that America is a rolling dumpster fire at the moment are why I'm staying safely up here.","54.5321, -115.0504",,Sunday
+60,No,Female,25,Canada,Ontario,Pop Rocks,Reese's PB Cups,Sour Patch Kids,,"49.2619, -84.7325",,Friday
+61,No,Female,47,Canada,Ontario,Pop Rocks,Candy Corn,Coffee Crisp,,"49.2619, -84.7267",,Friday
+62,Yes,Male,13,Canada,Quebec,Candy Corn,Chips,Candy Corn,,"46.8122, -71.2149",,
+63,No,Male,50,Canada,NS,Chips,Fuzzy Peaches,Candy Corn,,"45.2166, -62.7009",,Friday
+64,Yes,Male,37,Canada,Ontario,Coffee Crisp,Chips,Candy Corn,,"49.2619, -84.7268",,Friday
+65,No,Male,50,canada,AB,Candy Corn,Candy Corn,Candy Corn,,"54.5321, -115.0494",,
+66,No,I'd rather not say,35,Canada,QC,Reese's PB Cups,Candy Corn,Pop Rocks,,"46.8122, -71.2145",,Friday
+67,No,Male,41,Canada,Ontario,Fuzzy Peaches,Reese's PB Cups,Sour Patch Kids,,"49.2619, -84.7269",,
+68,No,Male,35,Canada,Alberta,Chips,Sour Patch Kids,Sour Patch Kids,,"54.5321, -115.0505",,Sunday
+69,Yes,Male,30,Canada,BC,Fuzzy Peaches,Pop Rocks,Peppermint Patties,,"54.0844, -124.0037",,Friday
+70,No,I'd rather not say,22,Canada,Albeqrrta,Sour Patch Kids,Chips,Sour Patch Kids,,"54.5321, -115.0495",,
+71,No,Female,53,Canada,Bc,Pop Rocks,Fuzzy Peaches,Fuzzy Peaches,,"54.0844, -124.0036",,
+72,No,Male,42,Canada,Quebec,Candy Corn,Coffee Crisp,Candy Corn,,"46.8122, -71.2150",,
+73,No,Male,49,Canada,Ontario,Pop Rocks,Sour Patch Kids,Coffee Crisp,Check for razor blades.,"49.2619, -84.7270",,Friday
+74,No,Male,64,Canada,Ontario,Chips,Coffee Crisp,Candy Corn,"Virtually any (real) chocolate candy is choice unless it is contains with some garbage filler (nuts not withstanding). Tootsie Rolls do NOT count as chocolate. Finally, fruit is acceptable only as ammunition to launch at those bastards who feel compelled to litter the world with religious tracts. Dental products will earn you soaped windows late in the night. Ugh, you people!","49.2619, -84.7271",,Friday
+75,No,Female,33,canada,ontario,Coffee Crisp,Fuzzy Peaches,Pop Rocks,,"49.2619, -84.7272",,Friday
+76,No,Female,42,Canada,Ontario,Peppermint Patties,Candy Corn,Chips,,"49.2619, -84.7273",,
+77,No,Female,35,Canada,Ontario,Peppermint Patties,Sour Patch Kids,Reese's PB Cups,Happy Hallowe'en!,"49.2619, -84.7274",,Sunday
+78,No,Female,38,Canada,ON,Reese's PB Cups,Chips,Peppermint Patties,,"49.2619, -84.7241",,Friday
+79,No,Male,43,Canada,Ontario,Chips,Pop Rocks,Fuzzy Peaches,,"49.2619, -84.7275",,
+80,No,Male,50,Canada,NS,Fuzzy Peaches,Pop Rocks,Chips,,"45.2166, -62.7010",,Sunday
+81,No,Male,37,Canada,NB,Candy Corn,Pop Rocks,Peppermint Patties,,"46.4983, -66.1596",,
+82,No,Female,47,Canada,"Toronto, Ontario",Reese's PB Cups,Fuzzy Peaches,Sour Patch Kids,,"49.2619, -84.7326",,Sunday
+83,Yes,Female,,Canada,Ontario,Pop Rocks,Pop Rocks,Chips,,"49.2619, -84.7276",,
+84,No,Female,44,Canada,On,Sour Patch Kids,Candy Corn,Fuzzy Peaches,,"49.2619, -84.7242",,
+85,No,Female,45,canada,nova scotia,Peppermint Patties,Candy Corn,Pop Rocks,"As a Canadian, there a lot of things on this list I'm not familiar with.","45.2166, -62.6999",,Friday
+86,No,Male,36,Canada,Alberta,Candy Corn,Candy Corn,Candy Corn,,"54.5321, -115.0506",,Friday
+87,Yes,Male,9,Canada,British Columbia,Candy Corn,Chips,Pop Rocks,,"54.0844, -124.0003",,Sunday
+88,No,Male,41,Canada,Alberta,Peppermint Patties,Candy Corn,Candy Corn,,"54.5321, -115.0507",,Friday
+89,No,Male,27,Canada,Newfoundland,Pop Rocks,Chips,Fuzzy Peaches,,"53.1355, -57.6606",,
+90,No,Female,52,canada,ont,Fuzzy Peaches,Candy Corn,Chips,"I would travel back in time for one of our neighbour Mrs Beanslizer's popcorn balls - they were buttery and caramely and sticky and the size of a baby's head. She'd bring them to the door on a big tray, wrapped up in saran wrap like stack of golden treasures. I haven't had a popcorn ball like that for 45 years. God bless you, Mrs Beanslizer, you were the best.","49.2619, -84.7244",,Friday
+91,No,Male,31,Canada,Alberta,Peppermint Patties,Reese's PB Cups,Candy Corn,,"54.5321, -115.0508",,Friday
+92,No,Male,34,canada,ontario,Chips,Sour Patch Kids,Reese's PB Cups,,"49.2619, -84.7277",,
+93,No,I'd rather not say,35,Canada,Ontario,Peppermint Patties,Chips,Pop Rocks,"I don't *love* chocolate unless it is accompanied with something nutty/crunchy and I prefer to get gummy candy, but that's not a big feature of Halloween. My go-to is gummy bears. Especially Haribo Gold Bears.   I am sometimes ashamed that I am an adult and I still consume a lot of candy (and spend a lot of time thinking about candy). Like I am sure I eat/think about candy way more than other normal people who are my age.   I live in an apartment and I wish that I lived in a house so I could hand out candy (and let's be honest, keep the leftovers for myself). ","49.2619, -84.7278",,Friday
+94,No,Female,31,Canada,Alberta,Sour Patch Kids,Peppermint Patties,Reese's PB Cups,,"54.5321, -115.0509",,Friday
+95,Yes,Male,52,Canada,Alberta,Reese's PB Cups,Peppermint Patties,Candy Corn,,"54.5321, -115.0510",,Friday
+96,No,Female,50,Canada,Bc,Candy Corn,Peppermint Patties,Pop Rocks,,"54.0844, -124.0035",,
+97,No,Female,34,Canada,Quebec,Reese's PB Cups,Coffee Crisp,Chips,,"46.8122, -71.2151",,Friday
+98,No,Female,47,canada,british columbia,Coffee Crisp,Pop Rocks,Fuzzy Peaches,"reeses pieces peanut butter cups reign supreme! second is kit-kat, third aero bars","54.0844, -124.0002",,Friday
+99,No,Female,28,Canada,BC,Sour Patch Kids,Chips,Candy Corn,,"54.0844, -124.0034",,Sunday
+100,No,Male,31,Canada,Ontario,Chips,Chips,Sour Patch Kids,,"49.2619, -84.7279",,Friday
+101,No,Female,30,Canada,Ontario,Sour Patch Kids,Pop Rocks,Sour Patch Kids,I fully appreciate the distinction between real and fake (American) smarties. Also how DARE you forget Popeye candy sticks. What sort of sheet is this! WHY AM I EVEN FILLING THIS OUT.,"49.2619, -84.7280",,Sunday
+102,No,Female,33,Canada,Nova Scotia,Coffee Crisp,Coffee Crisp,Coffee Crisp,,"45.2166, -62.7000",,
+103,No,I'd rather not say,39,Canada,Canada,Coffee Crisp,Pop Rocks,Pop Rocks,Giving out cans of soda is just cruel. They are heavy and shorten the endurance of anyone who has to carry them. Say no to soda! :P,,,Sunday
+104,No,Male,51,Canada,Manitoba,Pop Rocks,Sour Patch Kids,Pop Rocks,,"49.7717, -96.8165",,Sunday
+105,No,Male,45,Canada,Ontario ,Sour Patch Kids,Pop Rocks,Candy Corn,,"49.2619, -84.7323",,Friday
+106,Yes,Male,7,CANADA,ONTARIO,Coffee Crisp,Candy Corn,Sour Patch Kids,,"49.2619, -84.7281",,Sunday
+107,No,Male,54,Canada,BC,Chips,Candy Corn,Coffee Crisp,,"54.0844, -124.0033",,Friday
+108,No,Male,31,canada,ontario,Reese's PB Cups,Candy Corn,Fuzzy Peaches,,"49.2619, -84.7282",,
+109,No,Female,39,Canada,BC,Reese's PB Cups,Sour Patch Kids,Sour Patch Kids,,"54.0844, -124.0032",,Friday
+110,No,Female,35,Canada,Alberta,Fuzzy Peaches,Pop Rocks,Pop Rocks,,"54.5321, -115.0511",,Friday
+111,No,Other,17,Canada,"British Columbia, Canada",Coffee Crisp,Candy Corn,Coffee Crisp,,"54.0844, -124.0009",,Friday
+112,No,I'd rather not say,32,Canada,,Sour Patch Kids,Reese's PB Cups,Fuzzy Peaches,,"63.0005, -136.0027",,
+113,No,Male,32,Canada,Ontario,Candy Corn,Coffee Crisp,Pop Rocks,,"49.2619, -84.7283",,
+114,No,Male,42,Canada,Ontario,Coffee Crisp,Sour Patch Kids,Sour Patch Kids,,"49.2619, -84.7284",,
+115,No,Female,53,Canada,NOYB,Fuzzy Peaches,Candy Corn,Peppermint Patties,,"45.2166, -62.7008",,Friday
+116,Yes,Male,33,Canada,Ontario,Fuzzy Peaches,Fuzzy Peaches,Sour Patch Kids,,"49.2619, -84.7285",,Friday
+117,No,Male,48,Canada,British Columbia,Peppermint Patties,Candy Corn,Reese's PB Cups,,"54.0844, -124.0001",,Sunday
+118,No,Male,35,Canada,Alberta,Fuzzy Peaches,Sour Patch Kids,Peppermint Patties,,"54.5321, -115.0512",,Friday
+119,No,Male,59,canada,ontario,Peppermint Patties,Reese's PB Cups,Reese's PB Cups,,"49.2619, -84.7286",,Sunday
+120,No,Male,49,canada,bc,Pop Rocks,Chips,Fuzzy Peaches,,"54.0844, -124.0031",,Friday
+121,No,Female,34,Canada,British Columbia ,Coffee Crisp,Coffee Crisp,Candy Corn,,"54.0844, -124.0007",,Friday
+122,No,Male,43,canada,ontario,Candy Corn,Chips,Candy Corn,,"49.2619, -84.7287",,Sunday
+123,No,Male,43,Canada,Ontario,Pop Rocks,Peppermint Patties,Peppermint Patties,,"49.2619, -84.7288",,Friday
+124,No,Female,27,Canada,BC,Candy Corn,Coffee Crisp,Pop Rocks,One does not simply wish for death from diabetes,"54.0844, -124.0030",,Friday
+125,No,Male,30,canada,alberta,Coffee Crisp,Peppermint Patties,Pop Rocks,,"54.5321, -115.0513",,Friday
+126,No,Male,47,Canada,ontario,Chips,Sour Patch Kids,Reese's PB Cups,,"49.2619, -84.7289",,Friday
+127,No,Female,42,canada,ontario,Peppermint Patties,Reese's PB Cups,Fuzzy Peaches,,"49.2619, -84.7290",,Sunday
+128,No,Female,36,Canada,Ontario,Reese's PB Cups,Reese's PB Cups,Coffee Crisp,,"49.2619, -84.7291",,Sunday
+129,No,Female,33,Canada,BC,Candy Corn,Sour Patch Kids,Pop Rocks,,"54.0844, -124.0029",,
+130,No,Female,42,Canada,Alberta,Fuzzy Peaches,Candy Corn,Sour Patch Kids,,"54.5321, -115.0514",,Sunday
+131,No,Male,56,Canada,Ontario,Fuzzy Peaches,Peppermint Patties,Pop Rocks,,"49.2619, -84.7292",,
+132,No,Male,24,Canada,Alberta,Candy Corn,Sour Patch Kids,Sour Patch Kids,,"54.5321, -115.0515",,Friday
+133,No,I'd rather not say,39,Canada,Ontario,Coffee Crisp,Pop Rocks,Reese's PB Cups,,"49.2619, -84.7293",,
+134,No,Female,28,Canada,Ontario,Chips,Reese's PB Cups,Sour Patch Kids,,"49.2619, -84.7294",,Sunday
+135,No,Male,28,Canada,Ontario,Sour Patch Kids,Pop Rocks,Chips,,"49.2619, -84.7295",,
+136,No,Female,46,Canada,Nova Scotia,Reese's PB Cups,Fuzzy Peaches,Fuzzy Peaches,,"45.2166, -62.7001",,Sunday
+137,No,Female,17,Canada,BC,Candy Corn,Coffee Crisp,Pop Rocks,,"54.0844, -124.0028",,
+138,No,Female,60,Canada,Alberta ,Peppermint Patties,Fuzzy Peaches,Pop Rocks,Chocolate is always good. It's not a healthy holiday.,"54.5321, -115.0525",,Friday
+139,Yes,Female,41,Canada,Quebec,Reese's PB Cups,Sour Patch Kids,Pop Rocks,,"46.8122, -71.2152",,
+140,No,Female,60,Canada,Ontario,Sour Patch Kids,Coffee Crisp,Reese's PB Cups,,"49.2619, -84.7296",,
+141,No,Male,52,Canada,Ontario,Chips,Peppermint Patties,Reese's PB Cups,"Chocolate dude! No mint in, on, through or in it!","49.2619, -84.7297",,Sunday
+142,,Male,43,Canada,Ontario,Fuzzy Peaches,Fuzzy Peaches,Reese's PB Cups,"U.S. Smarties are officially called ""those powdery round candies with concave sides that you get in little cylindrical rolls at halloween"" in Canada","49.2619, -84.7298",,Sunday
+143,No,Male,54,Canada,Alberta,Pop Rocks,Candy Corn,Fuzzy Peaches,,"54.5321, -115.0516",,Sunday
+144,No,Female,58,Canada,Ontario,Sour Patch Kids,Coffee Crisp,Chips,,"49.2619, -84.7299",,
+145,No,Male,48,canada,alberta,Coffee Crisp,Pop Rocks,Fuzzy Peaches,,"54.5321, -115.0517",,Friday
+146,No,Male,34,Canada,Alberta,Fuzzy Peaches,Peppermint Patties,Chips,,"54.5321, -115.0518",,
+147,No,Male,20,Canada,Ontario,Pop Rocks,Peppermint Patties,Peppermint Patties,,"49.2619, -84.7300",,Friday
+148,No,Male,37,Canada,BC,Candy Corn,Pop Rocks,Candy Corn,,"54.0844, -124.0027",,Friday
+149,Yes,Female,34,Canada,BC,Candy Corn,Pop Rocks,Coffee Crisp,,"54.0844, -124.0026",,
+150,No,Female,47,Canada,Saskatchewan,Chips,Reese's PB Cups,Chips,I advocate the sharing of those little airplane size liquor bottles for any poor parent who has to slog through a wet cold Halloween night.,"55.5321, -106.1413",,Friday
+151,No,Female,27,Canada,British Columbia,Candy Corn,Coffee Crisp,Peppermint Patties,"Generally, it goes: chocolate > sour candy > chips > sweet candy/beverages > everything else, which becomes the candy equivalent of mast on a forest floor but in a box in your bedroom until sometime in mid-May","54.0844, -124.0000",,Friday
+152,No,Female,50,canada,Alberta,Pop Rocks,Pop Rocks,Coffee Crisp,,"54.5321, -115.0519",,Friday
+153,No,Male,45,canada,bc,Pop Rocks,Pop Rocks,Pop Rocks,,"54.0844, -124.0025",,Sunday
+154,,Male,50,Canada,BC,Reese's PB Cups,Fuzzy Peaches,Pop Rocks,,"54.0844, -124.0024",,Sunday
+155,No,,49,Canada,Nova Scotia,Candy Corn,Fuzzy Peaches,Fuzzy Peaches,,"45.2166, -62.7002",,Friday
+156,Yes,Female,39,Canada,British Columbia,Coffee Crisp,Fuzzy Peaches,Coffee Crisp,,"54.0844, -124.0001",,Friday
+157,No,Male,48,Canada,QC,Fuzzy Peaches,Fuzzy Peaches,Pop Rocks,,"46.8122, -71.2146",,
+158,No,Male,40,Canada,BC,Peppermint Patties,Pop Rocks,Fuzzy Peaches,,"54.0844, -124.0023",,
+159,No,Male,49,canada,ontario,Chips,Fuzzy Peaches,Sour Patch Kids,,"49.2619, -84.7301",,Friday
+160,No,Female,33,Canada,Manitoba ,Chips,Fuzzy Peaches,Candy Corn,,"49.7717, -96.8166",,
+161,No,Male,44,Canada,Ontario,Coffee Crisp,Reese's PB Cups,Chips,,"49.2619, -84.7302",,Friday
+162,No,Female,37,Canada,Newfoundland and Labrador,Fuzzy Peaches,Reese's PB Cups,Coffee Crisp,,"53.1355, -57.6607",,Sunday
+163,No,Male,33,Canada,"Oshawa, Ontario, Canada",Sour Patch Kids,Fuzzy Peaches,Pop Rocks,,"49.2619, -84.7326",,
+164,No,Male,46,Canada,Ontario,Reese's PB Cups,Candy Corn,Coffee Crisp,,"49.2619, -84.7303",,Friday
+165,No,Female,37,Canada,,Chips,Pop Rocks,Reese's PB Cups,,"63.0005, -136.0028",,Friday
+166,No,Male,64,Canada,NL,Reese's PB Cups,Fuzzy Peaches,Fuzzy Peaches,,"53.1355, -57.6608",,Sunday
+167,No,Male,37,canada,ontario,Pop Rocks,Peppermint Patties,Pop Rocks,,"49.2619, -84.7304",,Friday
+168,No,Male,25,canada,ontario,Fuzzy Peaches,Chips,Sour Patch Kids,,"49.2619, -84.7305",,
+169,No,Male,59,Canada,Alberta,Chips,Reese's PB Cups,Candy Corn,,"54.5321, -115.0520",,Friday
+170,No,Male,45,Canada,Nova Scotia,Chips,Peppermint Patties,Pop Rocks,,"45.2166, -62.7003",,
+171,No,Male,43,CANADA,ONTARIO,Chips,Sour Patch Kids,Pop Rocks,,"49.2619, -84.7306",,Friday
+172,No,I'd rather not say,31,Canada,Québec,Candy Corn,Coffee Crisp,Pop Rocks,,"46.8122, -71.2153",,Sunday
+173,No,Female,49,Canada,Ontario,Coffee Crisp,Reese's PB Cups,Coffee Crisp,,"49.2619, -84.7307",,
+174,No,Female,33,Canada,"Toronto, Ontario",Chips,Chips,Sour Patch Kids,,"49.2619, -84.7327",,Sunday
+175,No,Female,35,Canada,British Columbia,Chips,Fuzzy Peaches,Candy Corn,,"54.0844, -124.0002",,Sunday
+176,No,Female,40,Canada,Ontario,Pop Rocks,Pop Rocks,Peppermint Patties,,"49.2619, -84.7308",,
+177,No,Female,20,Canada,BC,Peppermint Patties,Fuzzy Peaches,Fuzzy Peaches,,"54.0844, -124.0022",,
+178,No,Male,52,Canada,Ontario,Reese's PB Cups,Candy Corn,Reese's PB Cups,,"49.2619, -84.7309",,Sunday
+179,,Male,29,Canada,Ontario,Reese's PB Cups,Fuzzy Peaches,Peppermint Patties,There is no tootsie in roll or dvd form. Why?,"49.2619, -84.7310",,Friday
+180,,Male,42,Canada,Alberta,Peppermint Patties,Candy Corn,Reese's PB Cups,,"54.5321, -115.0521",,
+181,,Male,34,Canada,BC,Pop Rocks,Candy Corn,Pop Rocks,,"54.0844, -124.0021",,
+182,Yes,Male,40,Canada,Ontario,Pop Rocks,Peppermint Patties,Peppermint Patties,"You have ""Mars""... Is that the planet or the bar or both? Either way - JOY! Maybe next year ""Mars (the Bar)"" and Mars (the planet)"" should be categories? Followed by Pluto... But don't say whether it's a planet or not because Neil deGrasse Tyson.  ","49.2619, -84.7311",,Friday
+183,No,Male,36,canada,ontario,Pop Rocks,Fuzzy Peaches,Pop Rocks,,"49.2619, -84.7312",,Friday
+184,No,Female,45,Canada,ontario,Chips,Sour Patch Kids,Peppermint Patties,,"49.2619, -84.7313",,Sunday
+185,No,Male,29,Canada,Ontario,Coffee Crisp,Pop Rocks,Reese's PB Cups,,"49.2619, -84.7314",,
+186,Yes,Female,50,Canada,Nova Scotia,Sour Patch Kids,Sour Patch Kids,Sour Patch Kids,,"45.2166, -62.7004",,
+187,No,Male,37,canada,bc,Sour Patch Kids,Pop Rocks,Coffee Crisp,,"54.0844, -124.0020",,Friday
+188,,Female,27,Canada,NB,Pop Rocks,Reese's PB Cups,Peppermint Patties,,"46.4983, -66.1597",,
+189,No,Female,41,Canada,ON,Candy Corn,Candy Corn,Reese's PB Cups,,"49.2619, -84.7243",,Friday
+190,Yes,Female,24,Canada,Nova Scotia,Candy Corn,Chips,Reese's PB Cups,,"45.2166, -62.7005",,
+191,No,Male,44,Canada,Ontario,Fuzzy Peaches,Coffee Crisp,Peppermint Patties,,"49.2619, -84.7315",,Sunday
+192,No,Male,35,Canada,Ont,Sour Patch Kids,Fuzzy Peaches,Reese's PB Cups,,"49.2619, -84.7245",,
+193,No,Male,31,Canada,Ontario,Candy Corn,Pop Rocks,Pop Rocks,,"49.2619, -84.7316",,Friday
+194,No,Male,59 on the day after Halloween,Canada,Ontario,Chips,Pop Rocks,Fuzzy Peaches,"No Nestles, either. Chocosol is THE best, kinda handmade in Toronto. My super picky friend Bie won't eat or share with others anything else.","49.2619, -84.7317",,Sunday
+195,No,Male,45,Canada,BC,Peppermint Patties,Chips,Pop Rocks,,"54.0844, -124.0019",,
+196,No,Female,37,Canada,Ontario,Peppermint Patties,Coffee Crisp,Chips,,"49.2619, -84.7318",,Friday
+197,No,Male,24,Canada,Nova Scotia,Coffee Crisp,Candy Corn,Candy Corn,,"45.2166, -62.7006",,
+198,Yes,Female,24,Canada,BC,Fuzzy Peaches,Reese's PB Cups,Peppermint Patties,"I had to Ecosia search (""Google"") so many of these candies. They are not at my local Dollarama. They aren't even at my non-local Dollarama. You can get full sized bars for $0.77 sometimes (Why did they take away the symbol for 'cent'? Ugh.) Also, can I still make surveys like these even after graduating from UBC? Do I need to go back for grad school in order to pet the surveymonkey? Please ","54.0844, -124.0018",,Friday
+199,Yes,Female,26,Canada,Quenec,Chips,Peppermint Patties,Candy Corn,,"46.8122, -71.2155",,
+200,No,Female,47,Canada,Ontario,Fuzzy Peaches,Coffee Crisp,Candy Corn,,"49.2619, -84.7319",,
+201,Yes,Female,42,Canada,BC,Coffee Crisp,Fuzzy Peaches,Fuzzy Peaches,,"54.0844, -124.0017",,Friday
+202,No,Female,24,Canada,British Columbia,Candy Corn,Peppermint Patties,Reese's PB Cups,,"54.0844, -124.0003",,Sunday
+203,No,Male,39,Canada,Alberta,Reese's PB Cups,Peppermint Patties,Peppermint Patties,,"54.5321, -115.0522",,Friday
+204,No,Female,39,Canada,BC,Sour Patch Kids,Peppermint Patties,Coffee Crisp,Seriously wondering what neighbourhood hands out vicodin,"54.0844, -124.0016",,Friday
+205,No,Male,41,Canada,British Columbia,Reese's PB Cups,Peppermint Patties,Candy Corn,,"54.0844, -124.0004",,
+206,No,Female,63,Canada,Bc,Candy Corn,Coffee Crisp,Fuzzy Peaches,,"54.0844, -124.0015",,Sunday
+207,No,Female,38,Canada,BC,Reese's PB Cups,Coffee Crisp,Sour Patch Kids,,"54.0844, -124.0014",,
+208,No,Female,31,canada,québec,Coffee Crisp,Coffee Crisp,Coffee Crisp,,"46.8122, -71.2154",,
+209,No,Male,45,Canada,Ontario,Coffee Crisp,Sour Patch Kids,Peppermint Patties,,"49.2619, -84.7320",,
+210,No,Female,18,Canada,British Columbia,Coffee Crisp,Sour Patch Kids,Candy Corn,,"54.0844, -124.0005",,Friday
+211,No,Female,18,Canada,BC,Pop Rocks,Sour Patch Kids,Fuzzy Peaches,,"54.0844, -124.0013",,Friday
+212,No,Male,46,Canada,Alberta,Fuzzy Peaches,Sour Patch Kids,Coffee Crisp,,"54.5321, -115.0523",,Friday
+213,No,Female,34,Canada,British Columbia ,Reese's PB Cups,Candy Corn,Peppermint Patties,,"54.0844, -124.0008",,Friday
+214,No,Female,34,Canada,Nova Scotia,Peppermint Patties,Coffee Crisp,Reese's PB Cups,,"45.2166, -62.7007",,
+215,No,Female,43,Canada,BC,Chips,Candy Corn,Pop Rocks,thanks for the survey! ,"54.0844, -124.0012",,Friday
+216,No,Female,40,canada,bc,Peppermint Patties,Pop Rocks,Fuzzy Peaches,,"54.0844, -124.0011",,Sunday
+217,,Male,30,canada ,ontario,Reese's PB Cups,Chips,Sour Patch Kids,,"49.2619, -84.7321",,Sunday
+218,No,Male,43,Canada ,Alberta ,Coffee Crisp,Peppermint Patties,Candy Corn,,"54.5321, -115.0526",,Friday
+219,No,Female,39,Canada ,Manitoba ,Candy Corn,Peppermint Patties,Candy Corn,,"49.7717, -96.8167",,
+220,Yes,Male,53,Canada ,Bc,Pop Rocks,Peppermint Patties,Candy Corn,,"54.0844, -124.0010",,
+221,No,Female,45,Canada ,Bc,Chips,Peppermint Patties,Sour Patch Kids,,"54.0844, -124.0009",,Friday
+222,,Male,47,Canada ,Ontario ,Sour Patch Kids,Coffee Crisp,Fuzzy Peaches,,"49.2619, -84.7324",,Friday
+223,No,Male,38,Canada ,Manitoba ,Peppermint Patties,Pop Rocks,Peppermint Patties,,"49.7717, -96.8168",,Friday
+224,No,Female,40,Canada ,BC,Reese's PB Cups,Fuzzy Peaches,Reese's PB Cups,,"54.0844, -124.0008",,Sunday
+225,Yes,Female,40,Canada ,BC,Candy Corn,Coffee Crisp,Pop Rocks,,"54.0844, -124.0007",,
+226,,Male,50,Canada`,BC,Sour Patch Kids,Pop Rocks,Candy Corn,,"54.0844, -124.0006",,Sunday
+227,Yes,Male,53,Canae,Bc,Chips,Reese's PB Cups,Pop Rocks,,"54.0844, -124.0005",,Sunday
