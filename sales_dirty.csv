@@ -1,0 +1,109 @@
+﻿SalesOrderNumber,OrderQuantity,UnitPrice,ExtendedAmount,ExtendedCost,ShipDate,ProductName,Subcategory,Category,TerritoryRegion
+SO43768,1,3578.27,3578.27,2171.2942,38559,"Road-150 Red, 48",Road Bikes,,United States
+SO49897,1,2181.5625,2181.5625,1320.6838,39180,"Road-250 Red, 58",Road Bikes,,France
+SO50056,1,782.99,782.99,486.7066,39196,"Road-650 Red, 62",Road Bikes,,United States
+SO50098,1,782.99,782.99,486.7066,39200,"Road-650 Red, 52",Road Bikes,Bikes,United States
+SO50944,1,2049.0982,2049.0982,1105.81,39257,"Mountain-200 Black, 42",Mountain Bikes,Bikes,Australia
+SO-50944,1,2049.0982,2049.0982,1105.81,39257,"Mountain-200 Black, 42",Mountain Bikes,Bikes,Australia
+SO51319,1,4.99,4.99,1.8663,39279,Water Bottle - 30 oz.,Bottles and Cages,Accessories,France
+SO51365,1,4.99,4.99,1.8663,39282,Mountain Tire Tube,Tires and Tubes,Accessories,United States
+SO51366,1,1700.99,1700.99,1082.51,39282,"Road-350-W Yellow, 48",Road Bikes,Bikes,Australia
+SO51392,1,4.99,4.99,1.8663,39284,Water Bottle - 30 oz.,Bottles and Cages,Accessories,France
+SO51452,1,539.99,539.99,343.6496,39287,"Road-750 Black, 52",Road Bikes,Bikes,United States
+SO51524,1,8.99,8.99,3.3623,39292,Road Bottle Cage,Bottles and Cages,Accessories,USA
+SO51600,1,539.99,539.99,343.6496,39296,"Road-750 Black, 44",Road Bikes,Bikes,United States
+SO51616,1,539.99,539.99,343.6496,39297,"Road-750 Black, 52",Road Bikes,Bikes,United States
+SO51668,1,2319.99,2319.99,1265.6195,39300,"Mountain-200 Silver, 38",Mountain Bikes,Bikes,Australia
+SO51921,1,34.99,34.99,13.0863,39302,"Sport-100 Helmet, Red",Helmets,Accessories,France
+SO52213,1,34.99,34.99,13.0863,39309,"Sport-100 Helmet, Red",Helmets,Accessories,France
+SO52413,1,4.99,4.99,1.8663,39313,Mountain Tire Tube,Tires and Tubes,Accessories,Australia
+SO52440,1,21.49,21.49,8.0373,39313,LL Road Tire,Tires and Tubes,Accessories,France
+SO52460,1,539.99,539.99,343.6496,39313,"Road-750 Black, 44",Road Bikes,Bikes,United States
+SO52986,1,4.99,4.99,1.8663,39324,Mountain Tire Tube,Tires and Tubes,Accessories,United Kingdom
+SO53219,1,4.99,4.99,1.8663,39328,Mountain Tire Tube,,Accessories,United Kingdom
+SO53276,1,34.99,34.99,13.0863,39329,"Sport-100 Helmet, Black",Helmets,Accessories,Canada
+SO53302,1,34.99,34.99,13.0863,39330,"Sport-100 Helmet, Black",Helmets,Accessories,Canada
+SO53344,1,1120.49,1120.49,713.0798,39330,"Road-550-W Yellow, 44",Road Bikes,Bikes,France
+SO53630,1,34.99,34.99,13.0863,39333,"Sport-100 Helmet, Red",Helmets,Accessories,United States
+SO53847,1,2.29,2.29,0.8565,39337,Patch Kit/8 Patches,Tires and Tubes,Accessories,France
+SO54074,1,28.99,28.99,10.8423,39341,Touring Tire,Tires and Tubes,Accessories,United Kingdom
+SO54125,1,2.29,2.29,0.8565,39342,Patch Kit/8 Patches,Tires and Tubes,Accessories,France
+SO54126,1,28.99,28.99,10.8423,39342,Touring Tire,Tires and Tubes,Accessories,United Kingdom
+SO54417,1,34.99,34.99,13.0863,39347,"Sport-100 Helmet, Red",Helmets,Accessories,Canada
+SO54549,1,34.99,34.99,13.0863,39350,"Sport-100 Helmet, Red",Helmets,Accessories,Canada
+SO55426,1,3.99,3.99,1.4923,39364,Road Tire Tube,Tires and Tubes,Accessories,United Kingdom
+SO55540,1,4.99,4.99,1.8663,39366,Water Bottle - 30 oz.,Bottles and Cages,Accessories,Australia
+SO55548,1,54.99,54.99,20.5663,39366,Hydration Pack - 70 oz.,Hydration Packs,Accessories,United States
+SO55762,1,54.99,54.99,20.5663,39370,Hydration Pack - 70 oz.,Hydration Packs,Accessories,United States
+SO55980,1,2443.35,2443.35,1554.9479,39374,"Road-250 Black, 48",Road Bikes,Bikes,France
+SO57496,1,29.99,29.99,11.2163,39399,ML Mountain Tire,Tires and Tubes,Accessories,United States
+SO57571,1,4.99,4.99,1.8663,39400,Mountain Tire Tube,Tires and Tubes,Accessories,United States
+SO57652,1,4.99,4.99,1.8663,39402,Water Bottle - 30 oz.,Bottles and Cages,Accessories,United States
+SO58623,1,1700.99,1700.99,1082.51,39419,"Road-350-W Yellow, 44",Road Bikes,Bikes,United States
+SO58681,1,9.99,9.99,3.7363,39420,Mountain Bottle Cage,Bottles and Cages,Accessories,United States
+SO58731,1,9.99,9.99,3.7363,39421,Mountain Bottle Cage,Bottles and Cages,Accessories,United States
+SO58751,1,21.98,21.98,8.2205,39421,Fender Set - Mountain,Fenders,Accessories,United States
+SO58774,1,2384.07,2384.07,1481.9379,39421,"Touring-1000 Yellow, 60",Touring Bikes,Bikes,United Kingdom
+SO59150,1,1700.99,1700.99,1082.51,39425,"Road-350-W Yellow, 44",Road Bikes,Bikes,Germany
+SO59269,1,2384.07,2384.07,1481.9379,39426,"Touring-1000 Yellow, 60",Touring Bikes,Bikes,Germany
+SO59354,1,24.99,24.99,9.3463,39428,LL Mountain Tire,Tires and Tubes,Accessories,United States
+SO60233,1,21.98,21.98,8.2205,39440,Fender Set - Mountain,Fenders,Accessories,United States
+SO61083,1,4.99,4.99,1.8663,39453,Water Bottle - 30 oz.,Bottles and Cages,Accessories,United States
+SO61127,1,4.99,4.99,1.8663,39454,Water Bottle - 30 oz.,,Accessories,United States
+SO61441,1,9.99,9.99,3.7363,39458,Mountain Bottle Cage,Bottles and Cages,Accessories,France
+SO61766,1,34.99,34.99,13.0863,39463,"Sport-100 Helmet, Red",Helmets,Accessories,United States
+SO61799,1,24.99,24.99,9.3463,39464,ML Road Tire,Tires and Tubes,Accessories,United States
+SO61837,1,34.99,34.99,13.0863,39464,"Sport-100 Helmet, Red",Helmets,Accessories,United States
+SO62141,1,1120.49,1120.49,713.0798,39469,"Road-550-W Yellow, 42",Road Bikes,Bikes,Australia
+SO62320,1,29.99,29.99,11.2163,39472,ML Mountain Tire,Tires and Tubes,Accessories,France
+SO62766,1,29.99,29.99,11.2163,39480,ML Mountain Tire,Tires and Tubes,Accessories,France
+SO62974,1,4.99,4.99,1.8663,39483,Mountain Tire Tube,Tires and Tubes,Accessories,France
+SO63340,1,35,35,13.09,39486,HL Mountain Tire,Tires and Tubes,Accessories,United States
+SO63348,1,2.29,2.29,0.8565,39486,Patch Kit/8 Patches,Tires and Tubes,Accessories,Australia
+SO63509,1,3.99,3.99,1.4923,39489,Road Tire Tube,Tires and Tubes,Accessories,United States
+SO64688,1,2319.99,2319.99,1265.6195,39507,"Mountain-200 Silver, 46",Mountain Bikes,Bikes,Germany
+SO65611,1,34.99,34.99,13.0863,39519,"Sport-100 Helmet, Red",Helmets,Accessories,Australia
+SO65916,1,34.99,34.99,13.0863,39524,"Sport-100 Helmet, Blue",Helmets,Accessories,France
+SO66079,1,24.99,24.99,9.3463,39527,ML Road Tire,Tires and Tubes,Accessories,Germany
+SO66090,1,2319.99,2319.99,1265.6195,39527,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,United Kingdom
+SO66279,1,32.6,32.6,12.1924,39530,HL Road Tire,Tires and Tubes,Accessories,United States
+SO66383,1,3.99,3.99,1.4923,39532,Road Tire Tube,Tires and Tubes,Accessories,United States
+SO66418,1,2443.35,2443.35,1554.9479,39532,"Road-250 Red, 58",Road Bikes,Bikes,Australia
+SO66430,1,8.99,8.99,3.3623,39532,Road Bottle Cage,Bottles and Cages,Accessories,France
+SO66442,1,2319.99,2319.99,1265.6195,39533,"Mountain-200 Silver, 42",Mountain Bikes,Bikes,United Kingdom
+SO66669,1,8.99,8.99,3.3623,39536,Road Bottle Cage,Bottles and Cages,Accessories,France
+SO66716,1,32.6,32.6,12.1924,39537,HL Road Tire,Tires and Tubes,Accessories,United States
+SO66803,1,24.99,24.99,9.3463,39538,ML Road Tire,Tires and Tubes,Accessories,Germany
+SO66899,1,32.6,32.6,12.1924,39540,HL Road Tire,Tires and Tubes,Accessories,United States
+SO67418,1,769.49,769.49,419.7784,39547,"Mountain-400-W Silver, 40",Mountain Bikes,Bikes,Australia
+SO67914,1,2.29,2.29,0.8565,39554,Patch Kit/8 Patches,Tires and Tubes,Accessories,Canada
+SO67988,1,2.29,2.29,0.8565,39555,Patch Kit/8 Patches,Tires and Tubes,Accessories,United States
+SO68040,1,28.99,28.99,10.8423,39556,Touring Tire,Tires and Tubes,Accessories,United States
+SO68817,1,34.99,34.99,13.0863,39568,"Sport-100 Helmet, Blue",Helmets,Accessories,Australia
+SO69064,1,2294.99,2294.99,1251.9813,39571,"Mountain-200 Black, 42",Mountain Bikes,Bikes,Australia
+SO69071,1,539.99,539.99,343.6496,39571,"Road-750 Black, 58",Road Bikes,Bikes,Australia
+SO69920,1,4.99,4.99,1.8663,39580,Touring Tire Tube,Tires and Tubes,Accessories,United Kingdom
+SO70222,1,4.99,4.99,1.8663,39584,Water Bottle - 30 oz.,Bottles and Cages,Accessories,UK
+SO70256,1,4.99,4.99,1.8663,39585,Water Bottle - 30 oz.,Bottles and Cages,Accessories,United Kingdom
+SO70661,1,1120.49,1120.49,713.0798,39590,"Road-550-W Yellow, 48",Road Bikes,Bikes,United States
+SO70751,1,2384.07,2384.07,1481.9379,39591,"Touring-1000 Blue, 46",Touring Bikes,,Australia
+SO70815,1,1120.49,1120.49,713.0798,39592,"Road-550-W Yellow, 48",Road Bikes,Bikes,United States
+SO71074,1,21.98,21.98,8.2205,39596,Fender Set - Mountain,Fenders,Accessories,Australia
+SO71246,1,4.99,4.99,1.8663,39599,Water Bottle - 30 oz.,Bottles and Cages,Accessories,Canada
+SO71289,1,9.99,9.99,3.7363,39600,Mountain Bottle Cage,Bottles and Cages,Accessories,Australia
+SO71583,1,34.99,34.99,13.0863,39604,"Sport-100 Helmet, Black",Helmets,,United States
+SO71616,1,34.99,34.99,13.0863,39604,"Sport-100 Helmet, Black",Helmets,,United States
+SO71983,1,1214.85,1214.85,755.1508,39607,"Touring-2000 Blue, 50",Touring Bikes,,Germany
+SO72332,1,1214.85,1214.85,755.1508,39612,"Touring-2000 Blue, 50",Touring Bikes,,United States
+SO-71983,1,1214.85,1214.85,755.1508,39607,"Touring-2000 Blue, 50",Touring Bikes,,Germany
+SO72807,1,9.99,9.99,3.7363,39619,Mountain Bottle Cage,Bottles and Cages,Accessories,USA
+SO72981,1,9.99,9.99,3.7363,39621,Mountain Bottle Cage,,Accessories,United States
+SO73166,1,4.99,4.99,1.8663,39623,Water Bottle - 30 oz.,Bottles and Cages,Accessories,United States
+SO73347,1,2294.99,2294.99,1251.9813,39626,"Mountain-200 Black, 46",Mountain Bikes,Bikes,France
+SO73514,1,2294.99,2294.99,1251.9813,39628,"Mountain-200 Black, 46",Mountain Bikes,Bikes,Germany
+SO73958,1,564.99,564.99,308.2179,39634,"Mountain-500 Silver, 40",Mountain Bikes,Bikes,France
+SO74030,1,1700.99,1700.99,1082.51,39635,"Road-350-W Yellow, 40",Road Bikes,Bikes,Australia
+SO74069,1,564.99,564.99,308.2179,39635,"Mountain-500 Silver, 42",Mountain Bikes,Bikes,Canada
+SO74100,1,120,120,44.88,39636,Hitch Rack - 4-Bike,Bike Racks,Accessories,Australia
+SO74674,1,2.29,2.29,0.8565,39653,Patch Kit/8 Patches,Tires and Tubes,Accessories,Germany
+SO74965,1,2.29,2.29,0.8565,39662,Patch Kit/8 Patches,Tires and Tubes,Accessories,Germany
