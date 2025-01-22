@@ -1,0 +1,8 @@
+Customer ID,Name,Age,City
+C101,Alice,25.0,New York
+C102,BOB,35.0,Los Angeles
+C103,Charlie,,new york
+C104,David,40.0,
+,eve,28.0,Chicago
+C106,Fay,32.0,CHICAGO
+C107,George,,Los Angeles
