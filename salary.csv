@@ -1,1 +1,79 @@
-,rank,discipline,phd,service,sex,salary0,Prof,Business Administration,56,49,Male,1869601,Prof,Accounting,12,6,Male,930002,Prof,Accounting,23,20,Male,1105153,Prof,Accounting,40,31,Male,1312054,Prof,Business Administration,20,18,Male,1048005,Prof,Accounting,20,20,Male,1224006,AssocProf,Accounting,20,17,Male,812857,Prof,Accounting,18,18,Male,1263008,Prof,Accounting,29,19,Male,943509,Prof,Accounting,51,51,Male,5780010,Prof,Business Administration,39,33,Male,12825011,Prof,Business Administration,23,23,Male,13477812,AsstProf,Business Administration,1,0,Male,8800013,Prof,Business Administration,35,33,Male,16220014,Prof,Business Administration,25,19,Male,15375015,Prof,Business Administration,17,3,Male,15048016,AsstProf,Business Administration,8,3,Male,7504417,AsstProf,Business Administration,4,0,Male,9200018,Prof,Accounting,19,7,Male,10730019,Prof,Accounting,29,27,Male,15050020,AsstProf,Business Administration,4,4,Male,9200021,Prof,Accounting,33,30,Male,10310622,AsstProf,Accounting,4,2,Male,7300023,AsstProf,Accounting,2,0,Male,8500024,Prof,Accounting,30,23,Male,9110025,Prof,Business Administration,35,31,Male,9941826,Prof,Accounting,38,19,Male,14875027,Prof,Accounting,45,43,Male,15586528,AsstProf,Business Administration,7,2,Male,9130029,Prof,Business Administration,21,20,Male,12368330,AssocProf,Business Administration,9,7,Male,10700831,Prof,Business Administration,22,21,Male,15575032,Prof,Accounting,27,19,Male,10327533,Prof,Business Administration,18,18,Male,12000034,AssocProf,Business Administration,12,8,Male,11980035,Prof,Business Administration,28,23,Male,12693336,Prof,Business Administration,45,45,Male,14685637,Prof,Accounting,20,8,Male,10200038,AsstProf,Business Administration,4,3,Male,9100039,Prof,Business Administration,18,18,Female,12900040,Prof,Accounting,39,36,Female,13700041,AssocProf,Accounting,13,8,Female,7483042,AsstProf,Business Administration,4,2,Female,8022543,AsstProf,Business Administration,5,0,Female,7700044,Prof,Business Administration,23,19,Female,15176845,Prof,Business Administration,25,25,Female,14009646,AsstProf,Business Administration,11,3,Female,7469247,AssocProf,Business Administration,11,11,Female,10361348,Prof,Business Administration,17,17,Female,11151249,Prof,Business Administration,17,18,Female,12296050,AsstProf,Business Administration,10,5,Female,9703251,Prof,Business Administration,20,14,Female,12751252,Prof,Accounting,12,0,Female,10500053,AsstProf,Accounting,5,3,Female,7350054,AssocProf,Accounting,25,22,Female,6288455,AsstProf,Accounting,2,0,Female,7250056,AssocProf,Accounting,10,8,Female,7750057,AsstProf,Accounting,3,1,Female,7250058,Prof,Business Administration,36,26,Female,14465159,AssocProf,Business Administration,12,10,Female,10399460,AsstProf,Business Administration,3,3,Female,9200061,AssocProf,Business Administration,13,10,Female,10375062,AssocProf,Business Administration,14,7,Female,10965063,Prof,Accounting,29,27,Female,9100064,AssocProf,Accounting,26,24,Female,7330065,Prof,Accounting,36,19,Female,11755566,AsstProf,Accounting,7,6,Female,6310067,Prof,Accounting,17,11,Female,9045068,AsstProf,Accounting,4,2,Female,7750069,Prof,Accounting,28,7,Female,11645070,AsstProf,Accounting,8,3,Female,7850071,AssocProf,Business Administration,12,9,Female,7106572,Prof,Business Administration,24,15,Female,16110173,Prof,Business Administration,18,10,Female,10545074,AssocProf,Business Administration,19,6,Female,10454275,Prof,Business Administration,17,17,Female,12431276,Prof,Accounting,28,14,Female,10995477,Prof,Accounting,23,15,Female,109646
+,rank,discipline,phd,service,sex,hiredDate,salary
+0,Prof,Business Administration,56,49,Male,2/5/1976,186960
+1,Prof,Accounting,12,6,Male,1/25/2019,93000
+2,Prof,Accounting,23,20,Male,1/28/2005,110515
+3,Prof,Accounting,40,31,Male,1/31/1994,131205
+4,Prof,Business Administration,20,18,Male,1/28/2007,104800
+5,Prof,Accounting,20,20,Male,1/28/2005,122400
+6,AssocProf,Accounting,20,17,Male,1/28/2008,81285
+7,Prof,Accounting,18,18,Male,1/28/2007,126300
+8,Prof,Accounting,29,19,Male,1/28/2006,94350
+9,Prof,Accounting,51,51,Male,2/5/1974,57800
+10,Prof,Business Administration,39,33,Male,2/1/1992,128250
+11,Prof,Business Administration,23,23,Male,1/29/2002,134778
+12,AsstProf,Business Administration,1,0,Male,12/17/2024,88000
+13,Prof,Business Administration,35,33,Male,2/1/1992,162200
+14,Prof,Business Administration,25,19,Male,1/28/2006,153750
+15,Prof,Business Administration,17,3,Male,1/24/2022,150480
+16,AsstProf,Business Administration,8,3,Male,1/24/2022,75044
+17,AsstProf,Business Administration,4,0,Male,12/17/2024,92000
+18,Prof,Accounting,19,7,Male,1/25/2018,107300
+19,Prof,Accounting,29,27,Male,1/30/1998,150500
+20,AsstProf,Business Administration,4,4,Male,1/24/2021,92000
+21,Prof,Accounting,33,30,Male,1/31/1995,103106
+22,AsstProf,Accounting,4,2,Male,1/24/2023,73000
+23,AsstProf,Accounting,2,0,Male,12/17/2024,85000
+24,Prof,Accounting,30,23,Male,1/29/2002,91100
+25,Prof,Business Administration,35,31,Male,1/31/1994,99418
+26,Prof,Accounting,38,19,Male,1/28/2006,148750
+27,Prof,Accounting,45,43,Male,2/3/1982,155865
+28,AsstProf,Business Administration,7,2,Male,1/24/2023,91300
+29,Prof,Business Administration,21,20,Male,1/28/2005,123683
+30,AssocProf,Business Administration,9,7,Male,1/25/2018,107008
+31,Prof,Business Administration,22,21,Male,1/29/2004,155750
+32,Prof,Accounting,27,19,Male,1/28/2006,103275
+33,Prof,Business Administration,18,18,Male,1/28/2007,120000
+34,AssocProf,Business Administration,12,8,Male,1/25/2017,119800
+35,Prof,Business Administration,28,23,Male,1/29/2002,126933
+36,Prof,Business Administration,45,45,Male,2/4/1980,146856
+37,Prof,Accounting,20,8,Male,1/25/2017,102000
+38,AsstProf,Business Administration,4,3,Male,1/24/2022,91000
+39,Prof,Business Administration,18,18,Female,1/28/2007,129000
+40,Prof,Accounting,39,36,Female,2/1/1989,137000
+41,AssocProf,Accounting,13,8,Female,1/25/2017,74830
+42,AsstProf,Business Administration,4,2,Female,1/24/2023,80225
+43,AsstProf,Business Administration,5,0,Female,12/17/2024,77000
+44,Prof,Business Administration,23,19,Female,1/28/2006,151768
+45,Prof,Business Administration,25,25,Female,1/30/2000,140096
+46,AsstProf,Business Administration,11,3,Female,1/24/2022,74692
+47,AssocProf,Business Administration,11,11,Female,1/26/2014,103613
+48,Prof,Business Administration,17,17,Female,1/28/2008,111512
+49,Prof,Business Administration,17,18,Female,1/28/2007,122960
+50,AsstProf,Business Administration,10,5,Female,1/25/2020,97032
+51,Prof,Business Administration,20,14,Female,1/27/2011,127512
+52,Prof,Accounting,12,0,Female,12/17/2024,105000
+53,AsstProf,Accounting,5,3,Female,1/24/2022,73500
+54,AssocProf,Accounting,25,22,Female,1/29/2003,62884
+55,AsstProf,Accounting,2,0,Female,12/17/2024,72500
+56,AssocProf,Accounting,10,8,Female,1/25/2017,77500
+57,AsstProf,Accounting,3,1,Female,1/24/2024,72500
+58,Prof,Business Administration,36,26,Female,1/30/1999,144651
+59,AssocProf,Business Administration,12,10,Female,1/26/2015,103994
+60,AsstProf,Business Administration,3,3,Female,1/24/2022,92000
+61,AssocProf,Business Administration,13,10,Female,1/26/2015,103750
+62,AssocProf,Business Administration,14,7,Female,1/25/2018,109650
+63,Prof,Accounting,29,27,Female,1/30/1998,91000
+64,AssocProf,Accounting,26,24,Female,1/29/2001,73300
+65,Prof,Accounting,36,19,Female,1/28/2006,117555
+66,AsstProf,Accounting,7,6,Female,1/25/2019,63100
+67,Prof,Accounting,17,11,Female,1/26/2014,90450
+68,AsstProf,Accounting,4,2,Female,1/24/2023,77500
+69,Prof,Accounting,28,7,Female,1/25/2018,116450
+70,AsstProf,Accounting,8,3,Female,1/24/2022,78500
+71,AssocProf,Business Administration,12,9,Female,1/26/2016,71065
+72,Prof,Business Administration,24,15,Female,1/27/2010,161101
+73,Prof,Business Administration,18,10,Female,1/26/2015,105450
+74,AssocProf,Business Administration,19,6,Female,1/25/2019,104542
+75,Prof,Business Administration,17,17,Female,1/28/2008,124312
+76,Prof,Accounting,28,14,Female,1/27/2011,109954
+77,Prof,Accounting,23,15,Female,1/27/2010,109646
