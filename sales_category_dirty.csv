@@ -1,0 +1,64 @@
+﻿SONumber,Date,Customer,ProductName,SalesAmount,SubCategory,Category
+SO43698,12/29/2010,Martinez,"Mountain-100 Silver, 44",3399.99,Wheels,Components
+SO45026,6/29/2011,Jenkins,"Mountain-100 Silver, 38",3399.99,Wheels,Components
+SO46399,11/30/2011,Rubio,"Road-150 Red, 56",3578.27,Wheels,Components
+SO47794,4/9/2012,Perry,"Mountain-200 Silver, 42",2071.42,Wheels,Components
+SO49238,8/5/2012,Zhou,"Road-250 Black, 58",2181.56,Wheels,Components
+SO50552,11/19/2012,Rai,"Road-250 Black, 48",2181.56,Wheels,Components
+SO51383,1/9/2013,Mitchell,"Sport-100 Helmet, Black",34.99,Wheels,Components
+SO51943,1/29/2013,Sandberg,"Half-Finger Gloves, S",24.49,Bike Stands,Accessories
+SO52353,2/6/2013,NaN,Nan,NaN,Wheels,Components
+SO52766,2/14/2013,Anderson,LL Road Tire,21.49,Bike Stands,Accessories
+SO53188,2/23/2013,Guo,AWC Logo Cap,8.99,Bike Stands,Accessories
+SO53773,3/3/2013,Liu,"Road-550-W Yellow, 44",1120.49,Wheels,Components
+SO54182,3/10/2013,Martin,"Short-Sleeve Classic Jersey, L",53.99,Wheels,Components
+SO54585,3/18/2013,Phillips,"Road-250 Black, 44",2443.35,Wheels,Components
+SO55006,3/25/2013,Madan,LL Mountain Tire,24.99,Bike Stands,Accessories
+SO55522,4/2/2013,Reed,"Short-Sleeve Classic Jersey, S",53.99,Wheels,Components
+SO55917,4/8/2013,Goldstein,AWC Logo Cap,8.99,Bike Stands,Accessories
+SO56316,4/16/2013,Sanchez,AWC Logo Cap,8.99,Bike Stands,Accessories
+SO56715,4/24/2013,Hughes,"Half-Finger Gloves, S",24.49,Bike Stands,Accessories
+SO57328,5/2/2013,Thompson,Water Bottle - 30 oz.,4.99,Wheels,Components
+SO57740,5/9/2013,Long,"Touring-1000 Yellow, 54",2384.07,Wheels,Components
+SO58150,5/17/2013,Adams,"Half-Finger Gloves, M",24.49,Bike Stands,Accessories
+SO58549,5/24/2013,Rivera,"Sport-100 Helmet, Blue",34.99,Wheels,Components
+SO59129,5/30/2013,Bryant,"Touring-1000 Blue, 60",2384.07,Wheels,Components
+SO59514,6/5/2013,Ruiz,Patch Kit/8 Patches,2.29,Wheels,Components
+SO59919,6/11/2013,Martin,Touring Tire,28.99,Wheels,Components
+SO60321,6/17/2013,Tang,"Mountain-200 Silver, 38",2319.99,Wheels,Components
+SO60723,6/23/2013,Moreno,Road Tire Tube,3.99,Wheels,Components
+SO61122,6/29/2013,Gonzales,"Half-Finger Gloves, M",24.49,Bike Stands,Accessories
+SO61614,7/6/2013,Patterson,ML Mountain Tire,29.99,Wheels,Components
+SO62016,7/12/2013,Lee,"Sport-100 Helmet, Blue",34.99,Wheels,Components
+SO62430,7/19/2013,Nath,ML Road Tire,24.99,Wheels,Components
+SO62840,7/26/2013,Garcia,AWC Logo Cap,8.99,Bike Stands,Accessories
+SO63407,8/1/2013,Zhu,"Road-550-W Yellow, 48",1120.49,Wheels,Components
+SO63807,8/7/2013,Ward,Road Bottle Cage,8.99,Wheels,Components
+SO64211,8/14/2013,Sanchez,"Long-Sleeve Logo Jersey, S",49.99,Bike Stands,Accessories
+SO64605,8/19/2013,Patterson,"Road-750 Black, 48",539.99,Wheels,Components
+SO65011,8/26/2013,Young,AWC Logo Cap,8.99,Bike Stands,Accessories
+SO65599,9/2/2013,Yang,HL Mountain Tire,35,Bike Stands,Accessories
+SO66014,9/8/2013,NaN,Road Bottle Cage,8.99,Wheels,Components
+SO66418,9/15/2013,Lopez,Water Bottle - 30 oz.,4.99,Wheels,Components
+SO66828,9/21/2013,Zhou,"Touring-1000 Blue, 46",2384.07,Wheels,Components
+SO67245,9/28/2013,Madan,"Road-550-W Yellow, 48",1120.49,Wheels,Components
+SO67729,10/4/2013,Allen,"Sport-100 Helmet, Black",34.99,Wheels,Components
+SO67729,10/4/2013,Allen,"Sport-100 Helmet, Black",34.99,Wheels,Components
+SO68138,10/10/2013,Brooks,Water Bottle - 30 oz.,4.99,Wheels,Components
+SO68536,10/16/2013,Bradley,"Touring-1000 Blue, 46",2384.07,Wheels,Components
+SO68931,10/22/2013,Arun,"Mountain-200 Black, 46",2294.99,Wheels,Components
+SO69334,10/28/2013,Ramirez,"Classic Vest, L",63.5,Bike Stands,Accessories
+SO69916,11/2/2013,Butler,"Mountain-200 Black, 38",2294.99,Wheels,Components
+SO70314,11/8/2013,Liang,Road Tire Tube,3.99,Wheels,Components
+SO70713,11/13/2013,Washington,Water Bottle - 30 oz.,4.99,Wheels,Components
+SO71102,11/19/2013,Ward,Hitch Rack - 4-Bike,120,Bike Stands,Accessories
+SO71507,11/25/2013,Tang,"Mountain-200 Black, 42",2294.99,Wheels,Components
+SO72097,12/1/2013,Foster,"Mountain-200 Silver, 42",2319.99,Wheels,Components
+SO72492,12/6/2013,Diaz,"Sport-100 Helmet, Black",34.99,Wheels,Components
+SO72492,12/6/2013,Diaz,"Sport-100 Helmet, Black",34.99,Wheels,Components
+SO72870,12/12/2013,Sharma,"Mountain-200 Black, 38",2294.99,Wheels,Components
+SO73287,12/17/2013,Johnson,Patch Kit/8 Patches,2.29,Wheels,Components
+SO73682,12/22/2013,Hayes,HL Mountain Tire,35,Bike Stands,Accessories
+SO74079,12/27/2013,Srini,"Short-Sleeve Classic Jersey, S",9999,Wheels,Components
+SO74513,1/9/2014,Parker,"Sport-100 Helmet, Blue",34.99,Wheels,Components
+SO74959,1/33/2014,Bryant,Mountain Tire Tube,4.99,Wheels,Components
