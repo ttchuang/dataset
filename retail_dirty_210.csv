@@ -1,0 +1,211 @@
+product,size,price,in_stock,category,date_added
+red shirt,XL,$47.59,unknown,Tops,2026-04-06
+ leather wallet ,M,35.45,FALSE,Accessories,2025-05-22
+blue pants,XL,56.9,FALSE,Bottoms,19-Sep-2024
+sports socks,M,17.85,Yes,Accessories,05/30/2025
+white tuxedo,Large,,1,Formal,02-Dec-2025
+white dress,L,,,Dresses,2024-10-04
+black boots,L,-270.75,TRUE,Shoes,09/24/2025
+sports socks,XS,9.84,TRUE,Accessories,07/27/2025
+sports socks,S,224.4,FALSE,Accessories,04-Aug-2025
+green hoodie,x l,74.53  ,No,Tops,11/09/2024
+pink blouse,XL,62.22,FALSE,Tops,
+white tuxedo,S,289.85,FALSE,Formal,05-Oct-2025
+white sneakers,3XL,66.43,TRUE ,Shoes,01/05/2026
+yellow skirt,XXL,"103,190",FALSE,Bottoms,2025-03-06
+denim jacket,med,,FALSE,Outerwear,2026-05-27
+red shirt,XXL,56.15,TRUE,Tops,12/08/2024
+khaki shorts,S,59.61,FALSE,Bottoms,01-Jan-2026
+,s,56.18 ,TRUE,Outerwear,2025-04-29
+Silver Tie,XS,50.73,TRUE,Accessories,28-Jan-2025
+BLUE PANTS,XS,44.09,1,Bottoms,
+white tuxedo,M,-506.68,TRUE,Formal,2025-07-15
+blue pants,XL,80.96,TRUE,Bottoms,2025-11-21
+white sneakers,,,TRUE,Shoes,12/21/2025
+blue pants,xl,71.67 USD,FALSE,Bottoms,2025-08-06
+blue pants,N,-73.18,,Bottoms,08/10/2024
+silver tie,XXL,free,TRUE,Accessories,2026-03-29
+blue-pants,S,,TRUE,Bottoms,2025-10-16T22:08:00
+silver  tie ,L,,Yes,Accessories,
+white tuxedo,S,439.11 ,N,Formal,11-Oct-2025
+navy blazer,L,182.15,FALSE,Formal,2026-01-10
+black jeans,XL,128.3,TRUE,Bottoms,28-May-2025
+black boots,XL,285.56,FALSE,Shoes,09/24/2025
+khaki shorts,xs,55.91  ,FALSE,Bottoms,2025-04-29
+blue shirt,M,52.03,TRUE,Tops,29-Oct-2024
+white dress,XS,191.69 USD,Yes,Dresses,11/19/2025
+sports socks,M,15.13,0,Accessories,05/16/2025
+NAVY BLAZER,XS,,FALSE,Formal,08/10/2025
+leather wallet,M,32.08,FALSE,Accessories,2026-02-06
+yellow skirt, m,87.06,TRUE,Bottoms,2025-05-10
+khaki shorts,One Size,49.63,TRUE,Bottoms,04/11/2025
+white tuxedo,L,502.63,TRUE,Formal,2026-05-09
+khaki shorts,XXL,54.34,FALSE,Bottoms,2025-08-22
+Black Boots,XXL,,Y,Shoes,02-Oct-2025
+silver tie,S,24.52,Yes,Accessories,2024-11-05
+gray sweater,l,"104,40",FALSE,Tops,10/19/2025
+red shirt,L,28.1,1,Tops,2024-08-18
+leather-wallet,XL,37.77,FALSE,Accessories,
+denim jacket,XXL,70.51,TRUE,Outerwear,23-Aug-2025
+black_tuxedo ,S,594.01,FALSE,Formal,17-Nov-2025
+yellow skirt,XS,-49.88,unknown,Bottoms,
+gray sweater, L ,43.35,TRUE,Tops,28-Aug-2025
+denim jacket,xl,197.72,FALSE,Outerwear,2025-02-12
+leather wallet,XL,79.14,FALSE,Accessories,2025-10-23
+khaki shorts,XL,30.79,FALSE,Bottoms,11-Jul-2025
+unknown product,S,$41.72,TRUE,Tops,2025-07-12
+Black Jeans,S,$45.39,FALSE,Bottoms,2025-03-28
+black jeans,XS,47.16,TRUE ,Bottoms,2025-01-08
+silver tie, m,63.22,FALSE,Accessories,08-Nov-2024
+yellow skirt,N,-80.55,TRUE,Bottoms,10-Mar-2025
+navy blazer,XXL,"215,16",TRUE,Formal,2025-09-18
+sports socks,L ,24.08,TRUE,Accessories,2025-03-01T08:44:00
+white dress,M,-181.62,TRUE,Dresses,10/14/2024
+gray_sweater ,XS,102.89,TRUE,Tops,2026-03-03
+white dress,XL,208.63,FALSE,Dresses,26-Jun-2025
+red shirt,M,56.79,TRUE,Tops,2026-04-02
+khaki shorts,M,55.16,N,Bottoms,10/02/2025
+silver tie, m,32.16,N,Accessories,
+white dress,XL,free,1,Dresses,2024-09-11
+black jeans,XXL,124.11,,Bottoms,2026-01-28
+blue pants,L,71.16,,Bottoms,01/15/2025
+silver tie,M,24.07  ,FALSE,Accessories,09/16/2025
+denim jacket,XL,213.99,FALSE,Outerwear,2025-04-15
+,XS,"89,66",FALSE,Bottoms,2026-05-12
+black jeans,M,$67.05,FALSE,Bottoms,29-Oct-2025
+leather wallet,L,75.6,FALSE,Accessories,04/01/2025
+white tuxedo,M,211.93,T,Formal,03/31/2025
+khaki shorts,xxl,31.21,FALSE,Bottoms,2025-08-25
+blue shirt,xxl,53.1,,Tops,
+black tuxedo,XS,824.7,,Formal,08-Oct-2024
+gray sweater,L,free,unknown,Tops,11/20/2025
+pink blouse,XXL,40.7,unknown,Tops,13/40/2024
+sports socks,XS,,TRUE,Accessories,04/28/2025
+Leather Wallet,M,119.68,N,Accessories,2024-11-27
+blue pants,XL,$63.71,FALSE,Bottoms,
+navy  blazer  ,L ,313.46,FALSE,Formal,10-Mar-2025
+,,72.53, false,Accessories,2025-12-09
+white dress,M,$189.78,TRUE,Dresses,27-Sep-2024
+sports socks,L,,TRUE,Accessories,07/21/2025
+khaki shorts,XXL,free,TRUE,Bottoms,11-Nov-2024
+brown belt,XS,,,Accessories,13-Oct-2025
+Gray Sweater,XS,131.99 USD,,Tops,
+green hoodie,XS,51.25,N,Tops,22-Oct-2024
+green hoodie,XXL,$83.87,TRUE,Tops,09-Oct-2025
+sports socks, m,7.16,unknown,Accessories,2025-06-29
+pink blouse, XS ,86.64,TRUE,Tops,20-Oct-2024
+Sports Socks,x l,"16,04",1,Accessories,2025-09-04
+gray sweater,M,101.34,N,Tops,10/01/2025
+navy blazer,XL,,TRUE,Formal,2025-04-22
+green hoodie,XS,84.28,FALSE,Tops,27-Jun-2025
+black boots,XXL,274.25 USD,FALSE,Shoes,07/15/2025
+,l,$785.27,FALSE,Tops,03/08/2025
+sports socks,L ,19.76 USD,unknown,Accessories,09/29/2025
+yellow skirt, XS ,71.14,FALSE,Bottoms,2025-03-31
+sports socks,S,18.27,FALSE,Accessories,2026-05-07
+black boots,,220.08,FALSE,Shoes,2024-08-12
+blue shirt,XS,5631.0,TRUE,Tops,10/25/2025
+WHITE TUXEDO,L,,FALSE,Formal,10/24/2025
+white sneakers,L,"107,590",TRUE,Shoes,2025-05-10
+denim jacket,L,119.3,FALSE,Outerwear,2025-05-07
+navy blazer,M,333.49,TRUE,Formal,29-Oct-2024
+navy blazer,S,,TRUE,Formal,12/02/2025
+gray sweater,L ,65.46,FALSE,Tops,2025-11-02
+blue shirt,M,44.89,TRUE,Tops,2026-01-13
+brown belt,XXL,26.46,No,Accessories,2025-07-22T16:33:00
+black boots,xs,,FALSE,Shoes,
+white sneakers,XXL,120.95,TRUE,Shoes,06/16/2025
+brown belt,XL,44.46 USD,TRUE,Accessories,11/05/2024
+white tuxedo,M,free,FALSE,Formal,2024-09-20
+yellow skirt,XL,95.44,TRUE,Bottoms,21-Sep-2025
+yellow skirt,XXL,56.82,N,Bottoms,2025-10-14
+khaki shorts,L,71.28,FALSE,Bottoms,31-Dec-2024
+denim jacket, XL ,132.91,FALSE,Outerwear,05-Oct-2024
+gray sweater,XS,91.4,TRUE,Tops,07/21/2025
+gray sweater,One Size,123.89,TRUE,Tops,11-Dec-2024
+ red shirt ,XXL,35.4, false,Tops,2025-03-17
+navy blazer,S,371.6,N,Formal,12-May-2025
+sports socks, m,6.68,TRUE,Accessories,2025-03-09
+denim jacket,XS,195.43,TRUE,Outerwear,22-Jan-2026
+black jeans,XS,87.19 USD,FALSE,Bottoms,09/03/2025
+navy blazer,XL,,TRUE,Formal,2025-04-22
+black jeans,,68.06,FALSE,Bottoms,09/16/2024
+navy blazer,M,,0,Formal,09/12/2024
+BLUE SHIRT,M,58.25,,Tops,2025-12-05
+gray sweater,Large,$58.81,TrUe,Tops,2025-11-06T09:10:00
+black tuxedo,L,-385.31,TRUE,Formal,2025-08-31
+yellow skirt,L,63.93,,Bottoms,03-Feb-2025
+blue pants,M,70.75,FALSE,Bottoms,2024-11-09
+white dress,XXL,134.11,TRUE,Dresses,14-Jan-2025
+YELLOW SKIRT, M ,36.83,,Bottoms,24-Sep-2024
+yellow skirt, M ,79.27,TRUE,Bottoms,2025-07-26
+leather wallet,XXL,free,FALSE,Accessories,17-Dec-2024
+leather wallet, XXL ,,TRUE,Accessories,10/03/2024
+yellow skirt, M ,3466.5,Y,Bottoms,29-Sep-2025
+black boots,l,200.82,FALSE,Shoes,09/30/2025
+yellow skirt,med,91.52,Y,Bottoms,14-Sep-2024
+blue pants,XS,,FALSE,Bottoms,2025-02-14
+black  boots,XS,260.81,Y,Shoes,03-Sep-2024
+sports socks,M,21.14,TRUE,Accessories,2024-08-18
+denim jacket,XXL,,FALSE,Outerwear,08/01/2025
+yellow skirt,XS,free,FALSE,Bottoms,
+silver tie, L ,-31.5,TRUE,Accessories,08/24/2024
+khaki shorts, XXL ,5094.0,,Bottoms,02-Aug-2025
+yellow skirt,S,81.67,unknown,Bottoms,25-Mar-2025
+blue shirt,S,58.07,Yes,Tops,04/09/2025
+blue pants,S,,TRUE,Bottoms,18-Dec-2025
+yellow skirt,One Size,84.21,,Bottoms,23-Dec-2025
+denim jacket,M,62.65,False,Outerwear,2024-10-09T16:02:00
+black tuxedo,S,$623.42,TRUE,Formal,2025-12-26
+black-jeans, XS ,87.73,TRUE,Bottoms,2024-09-12
+sports socks,S,11.91,FALSE,Accessories,26-Jan-2026
+khaki shorts,XXL,33.9,TRUE,Bottoms,09/02/2025
+LEATHER WALLET,S,81.13,TRUE,Accessories,17-Jan-2025
+navy blazer,XS,173.39,TRUE,Formal,2026-05-25
+WHITE TUXEDO,XXL,353.36 USD,TRUE,Formal,25-Jun-2025
+navy blazer,XS,267.19,FALSE,Formal,09/27/2025
+white tuxedo,XXL,559.96,FALSE,Formal,01/29/2026
+denim jacket,,206.12,FALSE,Outerwear,29-Jan-2025
+green hoodie,M,free,TRUE,Tops,2024-11-20
+brown belt,med,484.4,FALSE,Accessories,11-Feb-2025
+pink blouse,XXL,,FALSE,Tops,2026-05-24
+white sneakers,XL,91.63,TRUE ,Shoes,09/12/2024
+black-jeans,M,97.71,TRUE,Bottoms,2024-12-16T20:28:00
+gray sweater,L ,65.46,FALSE,Tops,2025-11-02
+gray sweater,XXL,113.8,0,Tops,01/17/2025
+black boots,M,105.72,,Shoes,08/22/2024
+silver tie,,60.06,TRUE,Accessories,24-Oct-2024
+red shirt,XXL,free,TRUE,Tops,2024-10-10
+brown belt,M,,F,Accessories,09/02/2025
+white dress,M,154.9,TRUE,Dresses,30-Aug-2025
+green hoodie,XL,"88,81",FALSE,Tops,07/20/2025
+white dress,S,147.33 USD,unknown,Dresses,08/29/2024
+blue shirt,,54.46,TRUE,Tops,2025-04-21
+brown belt,L,-18.14,TRUE,Accessories,25-Sep-2024
+black boots,XL,141.98,FALSE,Shoes,17-Jun-2025
+black boots,XS,$259.16,1,Shoes,10/16/2024
+brown belt,XS,19.88,TRUE,Accessories,2026-05-10
+black boots,L,275.31,,Shoes,25-Jun-2025
+black jeans,S,"78,09",TRUE,Bottoms,14-Dec-2025
+white_tuxedo ,xs,397.54,TRUE,Formal,
+ yellow skirt ,L,105.96, false,Bottoms,not a date
+black boots,S,182.51,0,Shoes,2025-03-03
+pink blouse,L,$106.00,TRUE,Tops,13-Jun-2025
+silver tie,s,45.97,FALSE,Accessories,03-Sep-2025
+ silver tie ,L,63.27,TRUE,Accessories,10/10/2024
+gray sweater,S,106.86,TRUE,Tops,08/19/2024
+pink blouse,med,,FALSE,Tops,13/40/2024
+silver tie,XS,31.98,TRUE,Accessories,2024-08-22
+silver tie,S,,FALSE,Accessories,
+,XS,$28.95,unknown,Shoes,2025-01-09
+brown belt,M,36.19,T,Accessories,2025-08-08
+sports socks,XL,-20.0,,Accessories,06-Dec-2025
+yellow_skirt ,XL,102.51,TRUE,Bottoms,2025-07-24
+blue shirt,XXL,57.88,TRUE,Tops,12/03/2025
+black jeans,M,93.14 USD,TRUE,Bottoms,10/04/2025
+green hoodie,XS,63.41,FALSE,Tops,2025-05-20
+silver tie,XS,60.07,FALSE,Accessories,01/01/2026
+blue pants,L,84.9,TrUe,Bottoms,04/02/2025
+leather wallet, M ,,FALSE,Accessories,2024-12-27
+navy blazer,XXL,161.98,FALSE,Formal,02/16/2025
+unknown product,Large,26.73,No,Outerwear,03/07/2025
