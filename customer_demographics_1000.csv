@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,Average_Spending ($),Visit_Frequency (per month)
+1,56,Male,New York,8.72,0
+2,69,Male,San Francisco,11.05,5
+3,46,Male,Denver,15.64,2
+4,32,Female,Los Angeles,12.43,9
+5,60,Male,Denver,18.96,10
+6,25,Male,Austin,13.18,6
+7,38,Male,Los Angeles,12.58,6
+8,56,Female,Chicago,11.07,13
+9,36,Female,San Francisco,12.4,10
+10,40,Male,Chicago,11.54,5
+11,28,Male,Denver,14.12,8
+12,28,Male,Denver,14.87,7
+13,41,Male,San Francisco,9.64,7
+14,53,Female,Denver,8.01,5
+15,57,Female,Chicago,6.49,4
+16,41,Female,Los Angeles,13.52,6
+17,20,Female,Los Angeles,8.69,4
+18,39,Male,New York,5.54,7
+19,19,Male,Austin,13.17,4
+20,41,Male,Denver,19.48,6
+21,61,Female,Chicago,11.98,5
+22,47,Male,Denver,14.52,5
+23,55,Female,Denver,12.25,3
+24,19,Female,Seattle,11.7,4
+25,38,Male,New York,14.76,10
+26,50,Male,Chicago,11.13,8
+27,29,Male,Chicago,12.8,2
+28,39,Female,Denver,12.97,7
+29,61,Male,New York,10.0,2
+30,42,Female,Los Angeles,14.98,6
+31,66,Male,Chicago,11.48,6
+32,44,Female,Los Angeles,9.73,3
+33,59,Female,New York,13.61,3
+34,45,Male,Los Angeles,9.3,11
+35,33,Female,San Francisco,12.08,7
+36,32,Female,Seattle,11.97,8
+37,64,Male,Boston,15.26,7
+38,68,Female,Chicago,13.42,3
+39,61,Male,Austin,11.92,4
+40,69,Female,Seattle,14.45,4
+41,20,Male,Boston,16.17,6
+42,54,Male,Los Angeles,13.67,5
+43,68,Female,Chicago,12.03,11
+44,24,Female,Los Angeles,8.06,10
+45,38,Female,San Francisco,8.8,5
+46,26,Female,New York,11.08,1
+47,56,Female,Chicago,10.17,5
+48,35,Male,Boston,11.44,4
+49,21,Female,Boston,12.17,4
+50,42,Male,San Francisco,13.59,7
+51,31,Male,San Francisco,11.79,9
+52,67,Female,Denver,13.46,4
+53,26,Male,Chicago,12.19,6
+54,43,Male,Los Angeles,6.07,6
+55,19,Male,Austin,9.18,5
+56,37,Male,Boston,11.57,8
+57,45,Female,Boston,8.37,6
+58,64,Male,San Francisco,13.8,4
+59,24,Female,Seattle,16.59,7
+60,61,Female,San Francisco,15.66,5
+61,25,Male,Austin,11.36,2
+62,64,Female,Los Angeles,16.47,2
+63,52,Female,Los Angeles,12.45,10
+64,31,Female,Seattle,10.99,10
+65,34,Male,Boston,10.16,7
+66,53,Female,San Francisco,11.09,6
+67,67,Female,Denver,10.84,6
+68,57,Female,Los Angeles,12.51,6
+69,21,Male,Austin,12.48,8
+70,19,Female,Chicago,12.01,4
+71,23,Male,New York,13.31,3
+72,59,Male,New York,15.57,6
+73,21,Male,New York,14.85,7
+74,46,Male,Denver,7.55,7
+75,35,Male,Boston,5.0,2
+76,43,Male,San Francisco,14.8,6
+77,61,Female,Seattle,7.9,8
+78,51,Male,Denver,11.33,11
+79,27,Female,Denver,8.49,8
+80,53,Female,Los Angeles,6.59,9
+81,31,Male,Chicago,13.62,5
+82,48,Female,Denver,14.28,4
+83,65,Female,Austin,10.27,10
+84,32,Female,Chicago,5.0,5
+85,25,Female,Austin,10.36,2
+86,31,Male,Boston,13.18,9
+87,40,Female,San Francisco,7.56,8
+88,57,Male,New York,12.55,6
+89,38,Female,Denver,11.95,3
+90,33,Female,San Francisco,13.74,3
+91,62,Male,Boston,12.36,8
+92,35,Female,Seattle,9.08,4
+93,64,Female,Seattle,15.59,3
+94,41,Female,Boston,11.52,4
+95,43,Male,Austin,11.92,6
+96,42,Female,Los Angeles,9.2,5
+97,62,Male,Los Angeles,10.67,7
+98,58,Female,Austin,9.35,10
+99,46,Male,Seattle,11.48,8
+100,32,Male,Seattle,17.14,7
+101,62,Female,Denver,7.88,5
+102,18,Female,Seattle,7.16,5
+103,42,Male,San Francisco,16.41,6
+104,24,Male,Seattle,11.37,6
+105,26,Female,Chicago,9.99,3
+106,41,Male,Denver,15.12,7
+107,18,Female,New York,10.18,4
+108,61,Female,Seattle,17.48,7
+109,25,Female,Austin,14.03,6
+110,41,Female,New York,10.54,7
+111,28,Male,San Francisco,18.47,4
+112,68,Female,Austin,10.18,3
+113,34,Male,New York,14.23,4
+114,25,Female,Austin,12.9,6
+115,52,Male,San Francisco,15.91,5
+116,52,Female,Denver,16.68,5
+117,50,Male,Chicago,12.1,12
+118,22,Male,San Francisco,9.74,6
+119,59,Female,San Francisco,13.38,4
+120,56,Female,Austin,9.97,6
+121,58,Female,Denver,18.04,6
+122,45,Female,Boston,12.41,9
+123,24,Male,Los Angeles,10.9,9
+124,26,Female,Seattle,12.55,5
+125,25,Male,Seattle,7.96,7
+126,29,Male,Chicago,9.09,10
+127,51,Female,Chicago,15.6,2
+128,50,Male,Seattle,10.03,5
+129,65,Male,Los Angeles,8.86,5
+130,40,Male,Seattle,13.61,5
+131,41,Male,Boston,15.56,7
+132,54,Female,Los Angeles,14.16,4
+133,52,Female,Chicago,14.99,7
+134,61,Female,New York,9.73,4
+135,57,Female,Austin,7.73,8
+136,39,Male,Boston,16.5,5
+137,44,Male,Boston,11.03,7
+138,52,Female,Denver,11.25,5
+139,18,Female,Chicago,15.98,8
+140,52,Female,Chicago,13.67,5
+141,54,Male,San Francisco,13.37,3
+142,64,Female,Boston,18.5,8
+143,31,Female,San Francisco,10.07,12
+144,20,Female,San Francisco,14.78,10
+145,18,Male,Austin,12.17,3
+146,22,Male,San Francisco,12.81,3
+147,43,Male,Los Angeles,16.59,9
+148,31,Male,Seattle,13.52,7
+149,56,Male,New York,13.61,4
+150,44,Male,Chicago,15.22,5
+151,26,Male,Los Angeles,10.91,3
+152,32,Male,New York,9.48,4
+153,32,Female,Boston,8.87,5
+154,43,Female,Boston,6.1,4
+155,59,Male,Boston,18.17,4
+156,30,Male,Los Angeles,8.69,8
+157,68,Female,Los Angeles,11.34,7
+158,49,Male,Chicago,11.17,4
+159,56,Male,Seattle,12.92,5
+160,66,Male,Denver,14.45,6
+161,69,Female,San Francisco,14.58,4
+162,49,Female,Boston,10.25,3
+163,21,Female,Austin,11.5,7
+164,47,Female,Seattle,12.85,9
+165,54,Female,Austin,11.25,9
+166,40,Male,Chicago,16.82,7
+167,56,Female,Chicago,13.47,7
+168,62,Male,Chicago,14.2,7
+169,32,Male,New York,13.99,9
+170,60,Female,Austin,15.52,6
+171,46,Female,Seattle,12.54,3
+172,53,Male,Denver,8.11,7
+173,30,Male,Seattle,13.2,2
+174,49,Male,Los Angeles,10.05,3
+175,24,Female,Los Angeles,10.41,5
+176,68,Female,Boston,13.76,5
+177,39,Female,Denver,15.71,6
+178,45,Female,Los Angeles,12.06,8
+179,19,Female,Chicago,12.93,5
+180,59,Male,Seattle,17.11,6
+181,62,Female,Austin,12.72,7
+182,23,Male,Chicago,19.81,0
+183,45,Male,New York,13.7,3
+184,45,Male,Los Angeles,6.72,7
+185,61,Female,Chicago,14.26,4
+186,61,Female,Chicago,13.14,7
+187,37,Female,New York,15.87,7
+188,47,Male,San Francisco,14.02,10
+189,28,Male,Seattle,11.58,3
+190,45,Male,Austin,8.33,4
+191,42,Male,Boston,11.37,4
+192,56,Male,San Francisco,9.45,6
+193,50,Male,Los Angeles,10.26,9
+194,18,Female,Chicago,13.77,7
+195,44,Female,Denver,17.01,5
+196,69,Female,New York,13.18,6
+197,30,Female,New York,8.41,5
+198,58,Male,Denver,13.33,6
+199,20,Male,Seattle,15.59,6
+200,56,Female,San Francisco,10.17,9
+201,23,Male,Boston,11.6,4
+202,25,Female,Seattle,12.04,7
+203,44,Female,Denver,9.65,5
+204,26,Female,Chicago,13.94,5
+205,54,Male,Denver,11.64,7
+206,50,Female,Seattle,13.26,6
+207,68,Female,Austin,9.34,8
+208,59,Female,New York,10.69,5
+209,61,Male,New York,14.17,6
+210,41,Male,Los Angeles,10.88,6
+211,32,Female,Los Angeles,17.18,10
+212,49,Male,Denver,10.8,5
+213,49,Male,Boston,12.67,4
+214,41,Male,Chicago,14.8,3
+215,58,Male,Austin,7.74,6
+216,69,Male,San Francisco,6.72,3
+217,66,Male,Seattle,7.42,4
+218,66,Male,Boston,15.79,4
+219,69,Male,Chicago,10.34,5
+220,29,Male,Los Angeles,19.67,7
+221,56,Male,Denver,10.31,3
+222,19,Female,Seattle,12.55,5
+223,20,Female,Los Angeles,16.63,5
+224,66,Male,Denver,18.02,4
+225,54,Female,Seattle,18.18,7
+226,66,Female,San Francisco,15.63,9
+227,34,Male,Chicago,15.07,8
+228,66,Male,Seattle,13.78,7
+229,19,Male,Austin,14.34,8
+230,19,Female,Boston,10.35,7
+231,45,Female,New York,9.55,5
+232,40,Male,Austin,11.99,10
+233,54,Male,Austin,11.49,5
+234,49,Male,Boston,10.64,4
+235,50,Female,New York,14.09,5
+236,18,Female,Austin,14.87,4
+237,36,Female,Seattle,12.27,10
+238,19,Female,Seattle,16.43,5
+239,61,Male,Seattle,8.57,3
+240,43,Male,New York,11.42,5
+241,49,Male,Austin,9.85,5
+242,23,Male,Denver,6.4,10
+243,49,Female,New York,11.75,4
+244,21,Female,Seattle,11.63,8
+245,28,Male,Boston,16.54,10
+246,34,Male,Austin,13.89,8
+247,55,Female,Austin,8.93,9
+248,41,Male,Los Angeles,17.56,5
+249,22,Female,Los Angeles,15.66,8
+250,69,Male,San Francisco,13.75,8
+251,51,Male,Denver,11.32,11
+252,23,Male,Denver,9.12,6
+253,39,Male,Chicago,10.88,7
+254,28,Male,Denver,15.27,10
+255,65,Male,Los Angeles,17.65,6
+256,33,Male,New York,16.63,8
+257,50,Female,Denver,10.53,1
+258,26,Female,Los Angeles,8.64,8
+259,23,Female,San Francisco,12.42,4
+260,33,Female,Austin,6.69,8
+261,46,Female,Denver,12.97,9
+262,20,Male,San Francisco,11.56,3
+263,37,Male,Austin,10.6,0
+264,53,Female,Boston,7.22,5
+265,36,Male,Boston,13.54,6
+266,43,Female,Austin,10.4,3
+267,20,Female,Denver,8.49,3
+268,36,Male,Chicago,5.0,4
+269,37,Male,Los Angeles,11.92,5
+270,49,Male,New York,17.32,9
+271,24,Female,New York,16.98,2
+272,69,Male,Seattle,10.63,5
+273,58,Female,Austin,10.19,3
+274,50,Female,New York,13.41,7
+275,57,Female,Denver,9.0,3
+276,56,Male,Chicago,12.91,5
+277,35,Male,Austin,14.3,4
+278,57,Female,Chicago,15.68,6
+279,18,Male,Denver,11.7,8
+280,28,Male,New York,11.39,5
+281,45,Male,New York,9.37,7
+282,42,Female,Seattle,9.52,4
+283,67,Female,New York,11.32,5
+284,40,Male,Austin,13.1,6
+285,48,Female,Denver,14.74,8
+286,47,Male,Boston,9.59,5
+287,59,Male,Denver,16.48,5
+288,52,Male,Austin,11.19,7
+289,24,Male,Austin,11.94,5
+290,33,Female,Seattle,9.76,4
+291,43,Female,Seattle,5.0,4
+292,65,Female,New York,14.65,3
+293,69,Male,San Francisco,14.21,6
+294,66,Male,Denver,11.16,8
+295,19,Male,Denver,12.2,7
+296,18,Female,San Francisco,13.55,8
+297,65,Male,Seattle,7.31,10
+298,29,Female,New York,10.41,7
+299,22,Female,San Francisco,14.38,8
+300,54,Female,New York,8.24,10
+301,49,Female,New York,12.88,4
+302,26,Female,New York,7.93,0
+303,58,Female,Los Angeles,13.4,6
+304,52,Male,Austin,11.89,8
+305,36,Male,New York,7.15,8
+306,65,Female,Los Angeles,15.49,6
+307,33,Female,Seattle,9.8,5
+308,20,Male,San Francisco,9.57,10
+309,37,Female,Austin,12.6,6
+310,41,Female,Boston,15.45,11
+311,50,Male,San Francisco,8.95,6
+312,41,Female,Austin,12.19,9
+313,69,Female,Boston,13.29,5
+314,28,Female,San Francisco,14.08,7
+315,66,Male,Austin,12.53,3
+316,25,Male,San Francisco,10.9,5
+317,53,Male,San Francisco,9.52,3
+318,55,Female,Boston,12.26,3
+319,57,Female,San Francisco,8.78,4
+320,37,Male,San Francisco,5.0,5
+321,52,Female,Boston,13.31,9
+322,65,Female,Seattle,14.71,5
+323,42,Female,New York,5.0,9
+324,52,Female,Denver,8.97,4
+325,42,Female,Chicago,13.86,11
+326,46,Male,Los Angeles,18.17,6
+327,35,Female,Chicago,12.06,4
+328,63,Male,Chicago,9.82,5
+329,35,Female,Austin,11.45,4
+330,19,Male,New York,16.12,4
+331,52,Female,Austin,10.06,11
+332,33,Male,New York,9.6,7
+333,58,Female,Boston,10.55,9
+334,53,Male,Boston,9.14,7
+335,50,Female,Denver,12.37,4
+336,21,Male,New York,16.87,4
+337,50,Female,San Francisco,12.97,8
+338,31,Male,Seattle,11.24,3
+339,38,Male,Denver,11.12,11
+340,65,Female,Denver,7.31,5
+341,37,Female,San Francisco,14.65,6
+342,25,Male,Seattle,11.77,7
+343,24,Female,Austin,11.46,5
+344,20,Male,Seattle,21.58,9
+345,34,Male,Austin,12.9,4
+346,50,Male,Boston,9.74,2
+347,65,Female,Chicago,10.72,5
+348,29,Male,Boston,15.45,12
+349,68,Male,Boston,12.34,6
+350,39,Female,Chicago,7.69,4
+351,39,Female,Seattle,14.76,5
+352,63,Female,Denver,10.0,6
+353,47,Female,Seattle,17.62,6
+354,55,Male,Austin,15.24,8
+355,55,Male,San Francisco,10.66,8
+356,62,Male,Austin,15.84,7
+357,68,Male,San Francisco,12.2,8
+358,25,Female,Boston,14.56,1
+359,44,Male,Chicago,13.45,10
+360,44,Male,Boston,9.46,5
+361,51,Female,New York,10.07,10
+362,38,Male,Seattle,15.09,2
+363,47,Male,San Francisco,11.0,5
+364,50,Male,Austin,10.79,9
+365,45,Male,Chicago,9.13,3
+366,64,Male,San Francisco,13.27,5
+367,50,Male,Austin,18.19,3
+368,22,Female,Seattle,8.8,5
+369,65,Female,Boston,12.07,5
+370,36,Male,Seattle,16.24,6
+371,21,Male,Los Angeles,11.76,8
+372,52,Female,New York,13.36,3
+373,66,Male,Los Angeles,8.81,9
+374,34,Male,Chicago,13.28,8
+375,61,Male,San Francisco,11.44,6
+376,45,Female,Chicago,14.96,5
+377,47,Male,Boston,15.56,7
+378,46,Female,Austin,19.77,8
+379,63,Male,Seattle,13.74,5
+380,23,Female,Los Angeles,12.98,4
+381,52,Female,Denver,12.58,8
+382,58,Male,Los Angeles,10.94,2
+383,54,Female,Boston,13.02,7
+384,41,Male,Los Angeles,11.11,8
+385,46,Female,Boston,12.51,9
+386,66,Male,Denver,15.95,7
+387,63,Male,Chicago,8.98,6
+388,48,Female,Seattle,15.42,5
+389,52,Male,San Francisco,15.95,6
+390,50,Male,Austin,11.65,6
+391,69,Female,San Francisco,5.63,8
+392,38,Male,Chicago,10.18,5
+393,49,Male,Austin,15.89,6
+394,40,Female,Los Angeles,11.93,2
+395,50,Female,Denver,9.0,3
+396,20,Male,Denver,10.49,6
+397,35,Male,New York,14.52,7
+398,42,Female,Chicago,13.64,6
+399,59,Female,Chicago,11.28,9
+400,48,Male,Seattle,10.9,5
+401,20,Female,San Francisco,10.82,6
+402,57,Male,Chicago,9.23,6
+403,63,Male,Chicago,16.85,8
+404,41,Male,Los Angeles,11.03,6
+405,67,Male,Los Angeles,15.65,8
+406,49,Male,Austin,16.56,3
+407,64,Female,Boston,14.99,5
+408,39,Female,Boston,10.71,6
+409,40,Female,New York,13.21,5
+410,19,Female,Boston,11.93,12
+411,44,Male,Seattle,9.29,10
+412,59,Male,New York,12.97,6
+413,19,Male,Austin,8.46,4
+414,43,Male,Los Angeles,15.56,7
+415,34,Female,Boston,10.61,5
+416,57,Male,San Francisco,12.6,9
+417,50,Male,Los Angeles,12.85,5
+418,26,Female,Denver,11.22,8
+419,60,Female,Seattle,13.76,4
+420,65,Female,Los Angeles,10.58,7
+421,56,Female,Seattle,14.61,11
+422,46,Male,Seattle,7.96,3
+423,59,Male,Seattle,12.38,6
+424,43,Female,Austin,17.82,6
+425,52,Male,Seattle,9.0,4
+426,67,Male,Seattle,9.97,7
+427,42,Male,Denver,13.54,8
+428,41,Female,San Francisco,12.54,9
+429,30,Male,New York,13.05,7
+430,24,Female,Chicago,13.47,6
+431,53,Male,Denver,13.9,7
+432,62,Male,New York,15.33,6
+433,37,Male,Seattle,13.23,5
+434,18,Female,San Francisco,11.28,6
+435,25,Male,Los Angeles,14.02,7
+436,63,Female,San Francisco,17.7,4
+437,33,Female,Denver,11.6,1
+438,31,Female,Seattle,9.08,6
+439,29,Male,San Francisco,15.32,10
+440,68,Male,Boston,11.64,8
+441,40,Male,San Francisco,5.48,4
+442,32,Male,Seattle,14.54,3
+443,45,Female,Austin,10.39,1
+444,51,Female,Boston,11.73,5
+445,19,Female,San Francisco,13.0,6
+446,49,Male,Chicago,12.57,5
+447,40,Female,Chicago,14.13,8
+448,39,Male,San Francisco,10.69,5
+449,68,Female,Austin,13.54,5
+450,42,Male,Los Angeles,11.22,5
+451,39,Male,Seattle,14.22,6
+452,39,Female,Chicago,13.85,6
+453,66,Female,Los Angeles,9.19,9
+454,69,Female,San Francisco,15.26,8
+455,59,Female,Denver,10.39,6
+456,23,Male,Los Angeles,14.42,3
+457,32,Female,Boston,13.1,7
+458,60,Female,New York,17.51,5
+459,54,Female,Chicago,11.33,6
+460,50,Male,San Francisco,10.95,7
+461,25,Male,Denver,11.94,3
+462,61,Female,Seattle,11.09,11
+463,61,Male,Denver,14.4,1
+464,22,Female,Austin,7.15,7
+465,56,Male,Boston,8.84,3
+466,21,Male,San Francisco,8.8,7
+467,23,Male,Seattle,14.85,9
+468,62,Male,Austin,17.13,2
+469,49,Female,Austin,11.69,6
+470,69,Female,San Francisco,11.49,5
+471,47,Female,Boston,12.21,3
+472,64,Male,Los Angeles,15.49,6
+473,52,Female,Los Angeles,9.22,4
+474,57,Female,Austin,12.72,6
+475,69,Female,Los Angeles,14.93,7
+476,33,Male,New York,13.5,7
+477,30,Male,Austin,12.57,3
+478,67,Male,Austin,15.0,6
+479,59,Female,Seattle,5.0,5
+480,47,Female,Los Angeles,14.03,8
+481,36,Female,Boston,10.04,11
+482,34,Male,Austin,6.51,5
+483,36,Male,Denver,13.53,2
+484,45,Female,Boston,16.12,7
+485,43,Male,New York,11.59,8
+486,54,Male,Seattle,14.86,5
+487,43,Male,San Francisco,16.84,9
+488,40,Male,Boston,15.94,8
+489,26,Female,Austin,16.92,6
+490,29,Male,New York,14.23,7
+491,18,Male,Chicago,12.23,7
+492,18,Male,New York,7.19,5
+493,64,Male,New York,11.26,4
+494,51,Female,Seattle,9.47,6
+495,49,Female,San Francisco,18.51,7
+496,65,Male,Chicago,11.47,4
+497,42,Male,Los Angeles,12.37,6
+498,57,Male,Los Angeles,13.65,5
+499,62,Male,Boston,12.13,7
+500,18,Male,New York,17.09,8
+501,33,Male,Denver,10.13,3
+502,56,Female,Seattle,12.58,6
+503,22,Male,Denver,9.77,10
+504,39,Female,Seattle,8.04,5
+505,46,Female,Los Angeles,10.16,5
+506,20,Male,Boston,11.89,7
+507,29,Female,Boston,10.71,6
+508,43,Female,Boston,9.92,8
+509,33,Female,Chicago,7.78,3
+510,68,Female,San Francisco,11.75,5
+511,54,Female,Chicago,7.49,9
+512,39,Female,Austin,14.28,6
+513,46,Male,Austin,12.25,11
+514,31,Female,Denver,7.63,5
+515,45,Female,San Francisco,11.07,7
+516,22,Female,Los Angeles,9.74,5
+517,64,Male,San Francisco,12.96,4
+518,66,Female,Seattle,16.02,1
+519,47,Male,Austin,6.37,10
+520,63,Female,New York,12.35,7
+521,69,Male,New York,11.52,2
+522,22,Male,Los Angeles,14.01,6
+523,29,Female,Seattle,12.64,6
+524,33,Female,Denver,9.74,7
+525,43,Male,Chicago,11.04,4
+526,43,Female,Seattle,9.61,6
+527,65,Male,New York,15.23,4
+528,38,Male,New York,12.06,5
+529,56,Male,Denver,17.7,5
+530,53,Male,Austin,11.82,8
+531,50,Male,Seattle,9.87,4
+532,47,Female,Seattle,7.46,5
+533,54,Male,New York,6.59,8
+534,40,Male,Chicago,7.25,6
+535,27,Female,Los Angeles,12.8,5
+536,22,Male,Boston,13.53,5
+537,53,Female,Los Angeles,7.26,9
+538,51,Female,Seattle,14.69,8
+539,69,Female,Los Angeles,10.55,8
+540,48,Male,New York,12.44,4
+541,27,Male,New York,16.84,9
+542,36,Male,Denver,14.69,4
+543,49,Female,Seattle,11.19,7
+544,18,Male,Denver,9.33,4
+545,22,Female,Seattle,5.54,4
+546,62,Male,Boston,9.84,10
+547,21,Female,Boston,11.37,8
+548,33,Male,Austin,9.04,6
+549,41,Male,Seattle,11.61,6
+550,33,Male,Chicago,12.23,5
+551,19,Female,Los Angeles,11.33,5
+552,66,Female,Seattle,10.05,4
+553,45,Male,San Francisco,12.51,7
+554,49,Male,Austin,13.33,3
+555,44,Female,San Francisco,8.73,7
+556,37,Female,New York,16.23,7
+557,41,Female,Boston,11.7,8
+558,29,Male,Los Angeles,12.06,11
+559,67,Female,Seattle,14.12,6
+560,52,Male,San Francisco,12.7,3
+561,50,Female,Los Angeles,14.86,8
+562,50,Male,New York,12.86,3
+563,68,Female,Boston,10.16,10
+564,60,Female,Chicago,13.08,6
+565,54,Female,Austin,8.57,7
+566,29,Female,Los Angeles,12.33,3
+567,20,Female,Los Angeles,11.9,4
+568,18,Male,Chicago,11.38,6
+569,50,Female,Los Angeles,11.61,6
+570,57,Female,New York,6.35,6
+571,27,Female,New York,10.35,6
+572,60,Male,Chicago,12.28,7
+573,61,Female,Austin,12.48,7
+574,46,Male,Seattle,8.92,3
+575,30,Female,San Francisco,15.8,3
+576,29,Female,Seattle,9.4,3
+577,48,Male,Los Angeles,14.91,7
+578,63,Female,San Francisco,13.28,6
+579,19,Male,Denver,10.06,4
+580,68,Male,Chicago,17.33,6
+581,67,Female,Chicago,8.42,9
+582,52,Male,Austin,14.76,5
+583,40,Female,San Francisco,15.0,3
+584,34,Female,New York,9.99,11
+585,43,Male,San Francisco,16.18,6
+586,25,Male,Los Angeles,11.25,6
+587,46,Male,New York,12.87,8
+588,43,Male,Boston,12.78,3
+589,27,Female,Boston,11.6,7
+590,43,Female,Denver,14.43,6
+591,51,Male,Boston,14.38,5
+592,68,Female,Chicago,6.75,5
+593,58,Female,San Francisco,15.91,8
+594,24,Female,Boston,7.01,7
+595,21,Female,Seattle,15.1,8
+596,67,Male,Austin,15.38,3
+597,62,Male,Seattle,8.73,7
+598,28,Female,Boston,10.77,8
+599,46,Male,Denver,8.68,4
+600,53,Male,Austin,11.36,4
+601,42,Male,Los Angeles,11.08,8
+602,38,Female,Seattle,14.34,4
+603,53,Female,Denver,15.93,6
+604,27,Female,San Francisco,16.19,2
+605,54,Male,San Francisco,10.31,4
+606,26,Female,Seattle,11.37,4
+607,41,Female,Boston,6.95,6
+608,52,Male,Denver,9.58,8
+609,66,Female,San Francisco,14.89,6
+610,52,Female,Los Angeles,16.85,7
+611,65,Male,New York,8.3,9
+612,53,Male,Boston,10.22,10
+613,35,Male,Denver,11.92,6
+614,66,Female,Los Angeles,12.84,8
+615,56,Female,Denver,9.57,8
+616,49,Female,Austin,13.27,8
+617,41,Male,Los Angeles,10.58,6
+618,40,Male,Boston,11.96,6
+619,49,Female,Austin,13.64,4
+620,54,Female,Boston,12.02,10
+621,29,Male,San Francisco,10.69,3
+622,66,Male,New York,11.67,4
+623,30,Male,Boston,11.73,8
+624,40,Male,Boston,10.89,7
+625,42,Female,San Francisco,11.22,4
+626,52,Male,Chicago,16.8,5
+627,58,Female,San Francisco,13.68,4
+628,47,Female,Austin,11.11,4
+629,34,Female,San Francisco,14.09,7
+630,66,Male,San Francisco,11.0,5
+631,37,Male,New York,15.52,5
+632,65,Male,San Francisco,13.11,6
+633,42,Male,Denver,11.68,6
+634,39,Female,Boston,13.34,5
+635,30,Male,Denver,7.29,3
+636,36,Male,New York,8.62,6
+637,66,Female,Seattle,8.42,5
+638,53,Male,Chicago,12.43,5
+639,29,Female,Denver,17.2,8
+640,58,Female,New York,18.69,5
+641,36,Female,Austin,13.91,9
+642,29,Female,Seattle,13.5,9
+643,26,Female,New York,6.6,3
+644,24,Female,New York,10.37,5
+645,45,Female,Chicago,9.64,7
+646,31,Female,Boston,10.14,4
+647,48,Male,Denver,11.5,4
+648,69,Male,Austin,10.58,5
+649,36,Male,Los Angeles,6.06,8
+650,64,Male,Denver,14.24,4
+651,33,Female,Los Angeles,8.78,6
+652,22,Male,New York,12.72,6
+653,52,Female,San Francisco,18.22,3
+654,29,Male,Austin,9.24,3
+655,42,Male,Seattle,5.0,6
+656,69,Male,San Francisco,11.14,7
+657,38,Female,San Francisco,15.3,6
+658,53,Male,Denver,17.88,7
+659,40,Female,Austin,8.31,5
+660,33,Female,Boston,13.49,6
+661,56,Male,New York,10.6,7
+662,62,Male,New York,11.68,4
+663,59,Male,New York,19.93,5
+664,56,Female,New York,7.49,8
+665,31,Male,Denver,12.76,6
+666,48,Female,Los Angeles,13.4,9
+667,22,Female,New York,15.26,2
+668,52,Male,Los Angeles,12.29,8
+669,40,Male,Los Angeles,12.92,5
+670,46,Female,Boston,10.83,9
+671,60,Female,New York,12.81,9
+672,28,Female,Chicago,10.97,4
+673,35,Male,Seattle,13.86,2
+674,64,Female,San Francisco,10.89,6
+675,29,Male,Los Angeles,13.13,6
+676,26,Female,Austin,11.91,7
+677,27,Female,Austin,15.38,8
+678,61,Male,Seattle,11.85,5
+679,34,Female,Austin,6.68,8
+680,55,Male,Chicago,15.79,10
+681,24,Male,Austin,9.28,5
+682,63,Female,San Francisco,10.04,3
+683,30,Male,San Francisco,10.21,5
+684,57,Male,Los Angeles,16.12,3
+685,59,Female,New York,5.59,8
+686,26,Male,Boston,21.41,9
+687,67,Male,Chicago,15.17,7
+688,44,Male,Los Angeles,12.67,7
+689,19,Female,Chicago,11.84,6
+690,22,Male,New York,12.86,9
+691,46,Female,Denver,13.56,5
+692,54,Female,Austin,13.94,5
+693,55,Male,Austin,13.67,5
+694,36,Male,Boston,12.27,6
+695,25,Male,New York,11.41,2
+696,65,Female,Los Angeles,11.55,6
+697,62,Male,Boston,11.42,6
+698,18,Male,New York,15.4,5
+699,39,Male,Seattle,13.78,7
+700,69,Male,San Francisco,5.0,6
+701,34,Male,Boston,13.97,5
+702,24,Female,Boston,12.58,3
+703,42,Female,Los Angeles,11.94,5
+704,62,Male,Chicago,10.83,5
+705,21,Male,Seattle,15.37,5
+706,53,Male,Los Angeles,14.84,4
+707,23,Male,New York,9.68,4
+708,48,Female,New York,13.22,4
+709,36,Male,New York,9.09,3
+710,61,Female,Denver,7.86,9
+711,56,Female,New York,10.12,6
+712,44,Male,Chicago,14.59,6
+713,27,Female,Seattle,14.86,8
+714,43,Female,Austin,13.54,1
+715,36,Female,San Francisco,14.18,7
+716,56,Female,Chicago,13.55,2
+717,20,Male,Chicago,10.08,1
+718,62,Male,Denver,13.3,6
+719,30,Female,Austin,14.4,7
+720,67,Male,Austin,14.26,2
+721,45,Male,San Francisco,15.57,6
+722,37,Male,San Francisco,14.12,6
+723,45,Male,Austin,13.05,7
+724,25,Male,New York,15.21,5
+725,58,Female,Chicago,11.92,5
+726,56,Male,Los Angeles,9.35,3
+727,18,Male,San Francisco,11.51,6
+728,20,Male,Denver,9.77,9
+729,30,Male,Denver,9.97,7
+730,45,Female,San Francisco,11.57,7
+731,66,Female,Austin,9.62,6
+732,42,Female,Seattle,11.08,3
+733,50,Female,Los Angeles,6.32,3
+734,55,Male,Los Angeles,12.64,5
+735,23,Female,San Francisco,12.0,8
+736,61,Male,New York,9.55,9
+737,62,Male,Seattle,13.98,4
+738,49,Male,Los Angeles,14.81,5
+739,62,Male,San Francisco,7.18,6
+740,64,Male,Denver,9.71,10
+741,38,Female,Los Angeles,9.69,8
+742,33,Female,Boston,9.18,5
+743,38,Female,Seattle,14.49,6
+744,28,Female,Seattle,11.42,4
+745,54,Male,Boston,11.21,5
+746,53,Female,Chicago,5.99,7
+747,52,Male,Denver,13.91,3
+748,36,Female,Boston,8.28,9
+749,37,Male,Austin,12.18,6
+750,35,Male,Austin,12.83,5
+751,64,Female,San Francisco,16.08,8
+752,58,Male,Seattle,8.07,7
+753,66,Male,Chicago,5.0,8
+754,31,Female,Chicago,12.55,5
+755,32,Male,Los Angeles,17.4,4
+756,48,Female,Los Angeles,15.72,9
+757,18,Female,Boston,12.63,7
+758,20,Female,Chicago,10.53,4
+759,33,Male,Boston,14.42,6
+760,40,Male,Denver,9.08,7
+761,28,Male,Boston,13.43,4
+762,29,Female,Los Angeles,13.52,7
+763,27,Male,Seattle,15.18,3
+764,49,Female,Boston,20.28,4
+765,33,Female,New York,13.18,7
+766,25,Male,Seattle,10.47,5
+767,55,Female,Chicago,11.92,6
+768,29,Male,Chicago,6.69,3
+769,41,Male,Boston,9.92,4
+770,45,Male,Seattle,10.77,6
+771,25,Male,Los Angeles,10.43,6
+772,45,Male,Los Angeles,12.46,5
+773,53,Female,Austin,9.53,6
+774,43,Female,Chicago,15.36,9
+775,25,Female,San Francisco,12.0,7
+776,67,Male,Austin,11.97,4
+777,45,Male,Los Angeles,11.02,6
+778,45,Male,Seattle,12.47,6
+779,54,Female,Denver,14.48,7
+780,58,Male,Los Angeles,9.4,4
+781,53,Female,Seattle,10.03,5
+782,44,Female,Austin,11.09,5
+783,34,Male,Chicago,7.96,5
+784,26,Male,Los Angeles,9.54,3
+785,50,Female,Boston,10.57,7
+786,37,Male,Seattle,14.62,5
+787,30,Female,Chicago,12.79,12
+788,45,Male,Denver,12.58,5
+789,65,Male,Denver,14.55,6
+790,46,Female,San Francisco,11.59,3
+791,30,Male,Seattle,13.17,4
+792,63,Female,Austin,11.69,6
+793,52,Male,San Francisco,12.8,6
+794,23,Female,San Francisco,10.25,7
+795,35,Female,New York,5.0,5
+796,68,Male,Los Angeles,11.6,13
+797,22,Female,Seattle,16.27,1
+798,64,Male,San Francisco,14.78,6
+799,42,Male,New York,14.9,4
+800,19,Male,Austin,15.71,3
+801,27,Female,Chicago,12.27,4
+802,47,Female,Boston,12.59,3
+803,67,Male,Boston,10.15,4
+804,62,Male,Seattle,11.05,6
+805,22,Female,San Francisco,13.85,6
+806,50,Male,Boston,15.61,10
+807,18,Male,Los Angeles,11.58,6
+808,35,Female,Boston,10.65,6
+809,49,Male,Boston,12.0,3
+810,64,Female,Boston,13.8,7
+811,66,Male,Denver,7.67,5
+812,28,Female,New York,5.11,7
+813,38,Male,San Francisco,10.35,3
+814,43,Male,Los Angeles,8.34,8
+815,42,Female,San Francisco,10.48,8
+816,39,Male,Denver,11.56,6
+817,44,Female,Seattle,10.64,8
+818,66,Male,Seattle,16.36,8
+819,30,Female,Seattle,12.98,6
+820,50,Female,Austin,12.9,12
+821,51,Female,Boston,13.87,5
+822,58,Female,Austin,8.58,4
+823,52,Male,New York,15.12,10
+824,18,Male,Seattle,11.77,10
+825,38,Female,Denver,14.01,7
+826,65,Female,Los Angeles,8.78,6
+827,23,Female,San Francisco,7.34,1
+828,45,Male,Boston,14.45,4
+829,34,Male,Chicago,13.13,7
+830,22,Male,Los Angeles,9.29,9
+831,48,Male,Boston,9.39,5
+832,22,Female,Austin,15.38,4
+833,55,Female,Austin,8.43,6
+834,20,Female,Los Angeles,16.93,4
+835,40,Male,Austin,9.3,6
+836,54,Male,Seattle,13.92,3
+837,54,Male,New York,11.01,3
+838,27,Female,San Francisco,13.81,6
+839,27,Female,New York,10.37,5
+840,36,Male,Boston,11.51,10
+841,34,Female,San Francisco,12.12,6
+842,38,Male,Denver,8.99,10
+843,31,Male,San Francisco,14.22,6
+844,26,Female,New York,10.46,6
+845,63,Male,Los Angeles,11.31,4
+846,18,Female,San Francisco,9.02,4
+847,68,Male,Denver,5.0,2
+848,62,Female,Denver,11.43,6
+849,30,Female,Denver,19.24,3
+850,21,Female,New York,14.35,7
+851,18,Male,San Francisco,11.94,5
+852,66,Male,Chicago,11.21,5
+853,57,Female,Los Angeles,12.07,7
+854,49,Female,Seattle,13.64,5
+855,51,Male,San Francisco,8.46,4
+856,45,Male,Denver,15.34,8
+857,48,Male,Chicago,14.15,5
+858,25,Female,Seattle,14.15,5
+859,56,Male,Seattle,13.32,4
+860,43,Male,Boston,12.06,6
+861,51,Female,San Francisco,14.02,6
+862,20,Male,New York,13.78,4
+863,67,Male,San Francisco,10.94,7
+864,29,Male,Chicago,10.28,4
+865,18,Female,Seattle,12.31,6
+866,61,Female,San Francisco,16.65,8
+867,22,Female,New York,8.28,4
+868,47,Female,Boston,7.6,3
+869,47,Female,San Francisco,12.49,7
+870,34,Female,Los Angeles,12.15,4
+871,65,Female,Boston,12.52,8
+872,64,Male,New York,12.73,9
+873,40,Male,Chicago,11.33,6
+874,32,Female,Seattle,16.47,6
+875,54,Male,San Francisco,7.2,7
+876,38,Male,New York,9.51,11
+877,31,Female,Boston,11.69,3
+878,19,Male,Los Angeles,7.07,8
+879,28,Male,New York,11.47,3
+880,68,Male,Austin,16.98,4
+881,56,Male,Denver,12.06,5
+882,55,Male,Los Angeles,12.69,7
+883,51,Female,Boston,8.22,7
+884,55,Female,Chicago,10.15,5
+885,67,Female,Seattle,10.87,10
+886,51,Male,Boston,11.05,3
+887,35,Female,Denver,15.84,2
+888,47,Male,Chicago,13.67,5
+889,32,Male,San Francisco,8.67,6
+890,44,Male,New York,12.74,7
+891,68,Male,Austin,13.49,5
+892,51,Female,Los Angeles,15.42,5
+893,69,Female,Los Angeles,16.74,7
+894,55,Male,New York,8.95,8
+895,50,Female,Austin,9.57,2
+896,41,Male,New York,8.23,10
+897,32,Female,San Francisco,11.3,5
+898,47,Female,Denver,13.4,5
+899,59,Male,Chicago,14.96,7
+900,68,Female,Boston,11.77,5
+901,34,Male,Los Angeles,11.04,9
+902,22,Female,San Francisco,12.46,14
+903,46,Male,Chicago,9.49,8
+904,21,Male,San Francisco,18.27,7
+905,27,Female,Austin,7.18,5
+906,34,Female,Los Angeles,12.55,10
+907,27,Male,Boston,18.07,6
+908,34,Female,New York,12.02,3
+909,37,Female,New York,11.43,3
+910,41,Male,Chicago,10.93,6
+911,22,Male,Boston,11.46,7
+912,51,Female,Denver,16.12,9
+913,23,Male,Seattle,5.36,8
+914,19,Male,Austin,16.6,5
+915,30,Male,Chicago,7.73,10
+916,60,Female,Seattle,11.2,4
+917,60,Female,San Francisco,10.71,7
+918,65,Male,Austin,13.77,5
+919,28,Female,San Francisco,7.21,6
+920,68,Male,Denver,13.39,7
+921,64,Female,Boston,18.07,4
+922,40,Male,Los Angeles,7.91,7
+923,33,Male,Austin,12.57,4
+924,48,Female,Seattle,10.01,9
+925,28,Male,Denver,13.28,10
+926,33,Female,Los Angeles,12.06,4
+927,25,Female,New York,10.08,5
+928,21,Male,Seattle,13.46,8
+929,57,Male,Chicago,17.41,10
+930,21,Female,New York,11.43,8
+931,42,Male,Denver,14.16,9
+932,20,Male,New York,8.12,8
+933,49,Male,Chicago,9.13,8
+934,20,Male,Austin,13.42,6
+935,44,Male,New York,16.45,2
+936,46,Female,Boston,13.07,9
+937,49,Female,Seattle,11.06,2
+938,67,Male,Los Angeles,12.0,2
+939,68,Male,New York,8.25,4
+940,36,Male,Seattle,13.81,4
+941,38,Female,San Francisco,14.65,5
+942,22,Male,Seattle,10.64,6
+943,35,Female,Los Angeles,10.59,9
+944,45,Female,Seattle,12.8,6
+945,59,Female,Chicago,10.69,4
+946,39,Male,Denver,11.8,5
+947,38,Female,Los Angeles,18.3,5
+948,23,Male,Denver,11.26,5
+949,18,Female,Austin,10.92,12
+950,22,Male,Denver,10.06,5
+951,58,Female,San Francisco,14.23,5
+952,29,Male,Chicago,11.46,4
+953,43,Female,Austin,10.05,7
+954,63,Male,Seattle,15.96,7
+955,51,Male,Los Angeles,16.26,4
+956,66,Male,San Francisco,10.2,7
+957,31,Male,Chicago,6.4,6
+958,43,Female,Austin,15.02,8
+959,62,Female,Austin,9.95,4
+960,44,Male,San Francisco,14.37,4
+961,26,Female,Boston,6.09,3
+962,43,Male,Seattle,14.68,10
+963,64,Male,San Francisco,8.37,9
+964,39,Female,Austin,14.19,2
+965,64,Male,New York,12.04,4
+966,47,Male,Chicago,9.14,5
+967,60,Female,San Francisco,10.78,5
+968,65,Male,Boston,14.06,6
+969,34,Male,Austin,12.32,3
+970,43,Male,Seattle,13.75,5
+971,53,Male,Denver,17.93,10
+972,18,Female,Austin,7.31,5
+973,25,Female,Seattle,16.85,4
+974,66,Female,San Francisco,12.31,6
+975,52,Male,Seattle,9.3,3
+976,69,Male,Los Angeles,8.01,7
+977,32,Female,Los Angeles,11.43,4
+978,64,Male,Los Angeles,14.76,7
+979,39,Male,Boston,11.62,3
+980,31,Male,Boston,16.53,6
+981,43,Male,New York,7.65,6
+982,45,Female,Boston,11.96,4
+983,40,Female,Denver,8.24,8
+984,31,Female,San Francisco,13.09,9
+985,41,Male,Austin,14.66,1
+986,19,Female,Austin,10.74,6
+987,62,Female,New York,5.0,4
+988,43,Male,Boston,12.6,9
+989,31,Male,Denver,13.31,6
+990,68,Female,Seattle,13.21,4
+991,24,Female,New York,15.71,6
+992,20,Female,Denver,8.79,3
+993,64,Female,Seattle,14.04,6
+994,40,Male,Denver,15.58,10
+995,63,Female,Seattle,6.66,8
+996,60,Female,Chicago,12.96,7
+997,64,Male,Denver,10.49,2
+998,62,Female,Austin,11.76,2
+999,35,Male,Los Angeles,13.04,9
+1000,55,Male,Boston,10.54,9

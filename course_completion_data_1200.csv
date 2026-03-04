@@ -1,0 +1,1201 @@
+CourseID,StudentID,Difficulty_Level,Module_Length (minutes),Student_Age,Student_Education_Level,Completion_Status
+103,1001,Medium,114,47,High School,Completed
+105,1002,Medium,66,34,High School,Incomplete
+103,1003,Hard,138,25,Undergraduate,Incomplete
+102,1004,Easy,107,20,Undergraduate,Completed
+104,1005,Easy,72,31,High School,Completed
+103,1006,Easy,67,19,Graduate,Incomplete
+104,1007,Hard,46,54,High School,Incomplete
+102,1008,Medium,78,49,Graduate,Completed
+102,1009,Medium,125,49,Graduate,Incomplete
+101,1010,Medium,133,50,Graduate,Incomplete
+102,1011,Medium,55,30,Undergraduate,Completed
+102,1012,Medium,69,48,Graduate,Completed
+101,1013,Medium,97,24,Undergraduate,Incomplete
+101,1014,Medium,107,36,Undergraduate,Incomplete
+102,1015,Medium,147,37,High School,Completed
+104,1016,Medium,106,51,Graduate,Completed
+105,1017,Hard,83,52,Undergraduate,Completed
+101,1018,Hard,63,37,High School,Incomplete
+101,1019,Medium,46,19,High School,Completed
+105,1020,Easy,87,38,Undergraduate,Completed
+102,1021,Medium,75,45,Undergraduate,Incomplete
+104,1022,Medium,109,38,Undergraduate,Completed
+103,1023,Hard,103,42,Undergraduate,Incomplete
+105,1024,Hard,84,25,High School,Incomplete
+103,1025,Medium,108,27,Undergraduate,Completed
+105,1026,Medium,55,42,Undergraduate,Completed
+101,1027,Medium,134,34,Graduate,Completed
+101,1028,Easy,57,42,Graduate,Completed
+102,1029,Hard,137,37,Undergraduate,Incomplete
+104,1030,Medium,107,37,Graduate,Completed
+105,1031,Medium,68,42,High School,Completed
+105,1032,Medium,94,41,Undergraduate,Incomplete
+105,1033,Medium,147,19,Graduate,Incomplete
+102,1034,Easy,57,51,Graduate,Completed
+104,1035,Easy,127,22,High School,Completed
+103,1036,Easy,74,19,High School,Incomplete
+102,1037,Medium,98,18,Graduate,Completed
+105,1038,Medium,146,32,Undergraduate,Completed
+101,1039,Hard,81,30,Graduate,Completed
+104,1040,Hard,69,40,Graduate,Incomplete
+103,1041,Medium,79,40,Graduate,Incomplete
+101,1042,Medium,90,22,Undergraduate,Completed
+104,1043,Medium,99,21,Graduate,Incomplete
+103,1044,Easy,126,20,High School,Completed
+103,1045,Easy,61,21,Undergraduate,Incomplete
+103,1046,Medium,107,43,Graduate,Completed
+103,1047,Easy,58,37,Undergraduate,Completed
+105,1048,Medium,59,25,Graduate,Completed
+104,1049,Hard,121,51,Graduate,Completed
+104,1050,Hard,48,26,Undergraduate,Completed
+105,1051,Medium,47,22,Graduate,Completed
+105,1052,Medium,89,48,Graduate,Incomplete
+104,1053,Medium,64,52,Undergraduate,Incomplete
+103,1054,Medium,54,53,Undergraduate,Completed
+101,1055,Medium,69,53,Undergraduate,Incomplete
+105,1056,Medium,48,22,Undergraduate,Completed
+104,1057,Hard,128,28,Undergraduate,Incomplete
+102,1058,Hard,131,40,Undergraduate,Completed
+104,1059,Medium,48,39,Undergraduate,Completed
+103,1060,Medium,53,50,Undergraduate,Incomplete
+102,1061,Medium,101,47,Undergraduate,Incomplete
+103,1062,Medium,149,54,Graduate,Incomplete
+105,1063,Hard,92,27,Graduate,Incomplete
+101,1064,Easy,146,54,High School,Completed
+102,1065,Medium,73,51,Undergraduate,Completed
+105,1066,Hard,102,42,Undergraduate,Incomplete
+103,1067,Medium,133,39,Undergraduate,Incomplete
+102,1068,Medium,79,24,Undergraduate,Completed
+102,1069,Easy,58,47,Graduate,Completed
+104,1070,Easy,78,27,High School,Completed
+105,1071,Medium,90,20,Graduate,Incomplete
+102,1072,Easy,56,34,Undergraduate,Completed
+101,1073,Medium,108,53,Undergraduate,Incomplete
+101,1074,Medium,92,27,Undergraduate,Incomplete
+104,1075,Medium,134,39,Undergraduate,Completed
+102,1076,Medium,123,21,High School,Completed
+104,1077,Medium,110,22,Graduate,Completed
+104,1078,Medium,51,40,Undergraduate,Completed
+104,1079,Medium,134,19,Undergraduate,Completed
+102,1080,Hard,65,31,Undergraduate,Completed
+102,1081,Medium,112,19,High School,Completed
+103,1082,Easy,104,46,High School,Incomplete
+104,1083,Easy,72,25,High School,Incomplete
+104,1084,Medium,105,33,Undergraduate,Completed
+104,1085,Medium,80,45,Graduate,Incomplete
+104,1086,Easy,134,45,Graduate,Incomplete
+101,1087,Medium,73,20,Undergraduate,Completed
+102,1088,Easy,66,52,High School,Completed
+104,1089,Medium,123,45,Undergraduate,Incomplete
+102,1090,Easy,66,43,Graduate,Completed
+105,1091,Hard,84,43,Undergraduate,Incomplete
+104,1092,Easy,146,38,Undergraduate,Completed
+102,1093,Medium,129,38,Undergraduate,Incomplete
+103,1094,Medium,75,42,Undergraduate,Incomplete
+104,1095,Medium,51,33,Graduate,Incomplete
+105,1096,Easy,111,25,Undergraduate,Incomplete
+104,1097,Easy,140,50,Undergraduate,Completed
+102,1098,Hard,112,43,Undergraduate,Completed
+101,1099,Medium,98,22,Undergraduate,Completed
+101,1100,Medium,72,41,Graduate,Incomplete
+104,1101,Medium,117,20,Undergraduate,Completed
+101,1102,Easy,114,40,Undergraduate,Completed
+102,1103,Medium,48,47,High School,Incomplete
+102,1104,Hard,148,27,High School,Completed
+101,1105,Medium,89,22,Undergraduate,Incomplete
+104,1106,Medium,74,26,Undergraduate,Incomplete
+102,1107,Hard,65,54,Graduate,Completed
+104,1108,Hard,97,53,Graduate,Completed
+105,1109,Easy,148,42,Undergraduate,Completed
+105,1110,Medium,149,44,High School,Completed
+102,1111,Hard,92,26,Graduate,Completed
+105,1112,Medium,52,45,Undergraduate,Completed
+105,1113,Medium,140,23,High School,Completed
+104,1114,Hard,58,39,Graduate,Completed
+105,1115,Easy,116,43,Graduate,Completed
+104,1116,Hard,79,25,Undergraduate,Incomplete
+101,1117,Medium,128,44,High School,Incomplete
+105,1118,Medium,46,50,Graduate,Completed
+105,1119,Easy,113,23,High School,Completed
+105,1120,Hard,104,36,Graduate,Incomplete
+105,1121,Easy,124,31,Undergraduate,Completed
+101,1122,Medium,92,30,Graduate,Completed
+101,1123,Medium,50,22,Graduate,Incomplete
+102,1124,Hard,120,23,Graduate,Incomplete
+101,1125,Medium,66,45,Undergraduate,Incomplete
+101,1126,Medium,58,40,High School,Incomplete
+105,1127,Hard,56,40,Graduate,Incomplete
+103,1128,Medium,110,50,Graduate,Completed
+103,1129,Medium,126,31,Undergraduate,Completed
+101,1130,Medium,70,50,Graduate,Completed
+102,1131,Hard,74,54,Undergraduate,Incomplete
+101,1132,Easy,59,33,Undergraduate,Completed
+103,1133,Medium,145,51,Undergraduate,Incomplete
+105,1134,Hard,54,23,High School,Completed
+105,1135,Medium,103,22,Undergraduate,Completed
+102,1136,Medium,124,46,Undergraduate,Completed
+103,1137,Medium,142,42,Graduate,Completed
+104,1138,Easy,69,43,Undergraduate,Completed
+102,1139,Medium,118,54,Undergraduate,Completed
+105,1140,Medium,93,26,Undergraduate,Completed
+104,1141,Hard,56,25,Undergraduate,Incomplete
+102,1142,Hard,130,39,Undergraduate,Completed
+102,1143,Hard,149,52,High School,Incomplete
+101,1144,Medium,71,29,Graduate,Incomplete
+102,1145,Hard,86,54,Graduate,Incomplete
+104,1146,Easy,117,41,Undergraduate,Completed
+102,1147,Medium,78,38,Graduate,Incomplete
+101,1148,Medium,46,24,High School,Completed
+102,1149,Easy,107,25,Graduate,Completed
+103,1150,Medium,94,19,Undergraduate,Completed
+103,1151,Easy,143,37,High School,Completed
+103,1152,Medium,96,39,High School,Completed
+102,1153,Medium,138,48,Undergraduate,Incomplete
+104,1154,Easy,47,41,High School,Completed
+103,1155,Medium,98,20,Undergraduate,Incomplete
+104,1156,Easy,114,28,Undergraduate,Completed
+102,1157,Medium,55,54,High School,Incomplete
+102,1158,Medium,62,34,Undergraduate,Completed
+104,1159,Hard,118,45,High School,Completed
+104,1160,Easy,137,46,High School,Completed
+103,1161,Easy,64,45,Graduate,Completed
+105,1162,Easy,51,29,Undergraduate,Incomplete
+101,1163,Easy,132,34,Undergraduate,Completed
+104,1164,Easy,103,27,Graduate,Completed
+103,1165,Hard,101,41,High School,Completed
+104,1166,Medium,69,24,Undergraduate,Incomplete
+103,1167,Medium,55,36,Graduate,Completed
+103,1168,Medium,60,18,High School,Incomplete
+104,1169,Hard,108,39,Undergraduate,Completed
+102,1170,Hard,83,34,Graduate,Incomplete
+104,1171,Easy,99,54,High School,Completed
+102,1172,Medium,45,54,Graduate,Completed
+104,1173,Hard,118,43,Graduate,Incomplete
+104,1174,Easy,87,53,Undergraduate,Completed
+104,1175,Easy,54,33,Graduate,Completed
+104,1176,Hard,55,25,Undergraduate,Completed
+101,1177,Medium,52,28,Graduate,Incomplete
+101,1178,Hard,71,51,Graduate,Incomplete
+105,1179,Medium,63,39,High School,Completed
+105,1180,Medium,76,35,High School,Completed
+101,1181,Hard,96,32,Graduate,Incomplete
+101,1182,Easy,119,35,Graduate,Completed
+105,1183,Medium,70,50,Undergraduate,Completed
+102,1184,Medium,144,20,Graduate,Incomplete
+103,1185,Medium,142,32,Undergraduate,Completed
+102,1186,Medium,63,34,High School,Incomplete
+105,1187,Easy,113,54,Undergraduate,Completed
+102,1188,Medium,124,32,Undergraduate,Completed
+104,1189,Medium,111,35,Undergraduate,Completed
+105,1190,Medium,132,45,Undergraduate,Incomplete
+103,1191,Easy,139,53,High School,Completed
+103,1192,Easy,84,37,Undergraduate,Completed
+105,1193,Medium,111,36,Graduate,Incomplete
+104,1194,Easy,97,26,High School,Completed
+101,1195,Hard,67,24,Undergraduate,Completed
+104,1196,Hard,47,45,Undergraduate,Completed
+104,1197,Easy,135,29,Undergraduate,Incomplete
+103,1198,Easy,137,35,Graduate,Completed
+102,1199,Medium,137,42,Graduate,Completed
+102,1200,Easy,116,33,Graduate,Completed
+102,1201,Easy,54,48,Graduate,Incomplete
+103,1202,Medium,65,42,Undergraduate,Completed
+103,1203,Medium,122,25,Undergraduate,Completed
+103,1204,Easy,69,52,Undergraduate,Completed
+101,1205,Easy,109,38,Graduate,Completed
+101,1206,Hard,114,30,Undergraduate,Incomplete
+102,1207,Easy,146,38,Undergraduate,Completed
+104,1208,Medium,51,39,Undergraduate,Completed
+104,1209,Medium,124,23,High School,Completed
+104,1210,Medium,94,38,Undergraduate,Completed
+102,1211,Easy,134,23,Undergraduate,Completed
+104,1212,Medium,81,43,Graduate,Incomplete
+102,1213,Easy,82,22,Undergraduate,Completed
+103,1214,Easy,101,50,High School,Completed
+105,1215,Hard,66,37,Graduate,Completed
+102,1216,Medium,52,52,Undergraduate,Completed
+101,1217,Easy,84,46,Undergraduate,Completed
+102,1218,Medium,138,21,Graduate,Completed
+105,1219,Medium,72,23,Undergraduate,Completed
+103,1220,Easy,58,19,Undergraduate,Completed
+101,1221,Hard,93,29,Graduate,Completed
+102,1222,Medium,108,30,Undergraduate,Completed
+103,1223,Medium,67,40,Graduate,Incomplete
+105,1224,Hard,114,42,Undergraduate,Completed
+105,1225,Medium,111,54,Undergraduate,Incomplete
+105,1226,Medium,109,22,High School,Completed
+104,1227,Easy,137,44,Graduate,Completed
+104,1228,Medium,61,23,Graduate,Completed
+102,1229,Medium,95,41,High School,Completed
+105,1230,Easy,90,44,Undergraduate,Completed
+101,1231,Easy,82,48,Undergraduate,Completed
+105,1232,Hard,107,39,Undergraduate,Completed
+101,1233,Easy,78,36,Graduate,Completed
+101,1234,Medium,114,20,Graduate,Completed
+101,1235,Medium,55,20,High School,Completed
+102,1236,Medium,100,31,Graduate,Completed
+101,1237,Hard,63,39,Undergraduate,Completed
+105,1238,Medium,111,23,Graduate,Completed
+104,1239,Hard,93,40,Graduate,Completed
+103,1240,Easy,95,52,Graduate,Completed
+105,1241,Medium,149,27,Graduate,Completed
+101,1242,Easy,57,36,Graduate,Completed
+102,1243,Easy,111,37,Graduate,Completed
+103,1244,Easy,145,18,Undergraduate,Completed
+103,1245,Easy,93,47,Graduate,Completed
+103,1246,Medium,141,21,Undergraduate,Incomplete
+103,1247,Medium,53,50,Graduate,Incomplete
+104,1248,Easy,124,21,Graduate,Incomplete
+103,1249,Medium,103,27,Undergraduate,Incomplete
+102,1250,Easy,86,42,Undergraduate,Completed
+101,1251,Medium,138,39,Undergraduate,Completed
+105,1252,Easy,56,44,Graduate,Incomplete
+102,1253,Medium,67,47,Undergraduate,Completed
+102,1254,Medium,80,42,Graduate,Completed
+103,1255,Hard,80,28,Undergraduate,Incomplete
+101,1256,Medium,127,27,Undergraduate,Completed
+104,1257,Medium,116,48,High School,Incomplete
+102,1258,Medium,95,37,Undergraduate,Incomplete
+104,1259,Hard,130,20,High School,Incomplete
+104,1260,Medium,143,37,Graduate,Completed
+104,1261,Medium,125,25,Undergraduate,Completed
+102,1262,Easy,121,52,Graduate,Completed
+102,1263,Medium,108,53,Graduate,Completed
+102,1264,Medium,100,25,Undergraduate,Incomplete
+104,1265,Medium,75,44,Undergraduate,Incomplete
+102,1266,Easy,115,49,Undergraduate,Completed
+102,1267,Medium,121,23,Undergraduate,Incomplete
+103,1268,Hard,51,50,High School,Incomplete
+102,1269,Medium,148,21,Undergraduate,Completed
+101,1270,Medium,102,35,Undergraduate,Completed
+101,1271,Hard,122,48,High School,Incomplete
+105,1272,Medium,133,39,High School,Completed
+103,1273,Hard,124,53,Undergraduate,Completed
+104,1274,Easy,120,25,High School,Completed
+101,1275,Medium,91,18,Graduate,Incomplete
+105,1276,Medium,95,21,Graduate,Incomplete
+103,1277,Hard,142,50,Graduate,Incomplete
+103,1278,Medium,59,27,Undergraduate,Completed
+102,1279,Medium,80,47,Graduate,Incomplete
+101,1280,Medium,112,23,High School,Completed
+101,1281,Medium,57,30,Undergraduate,Completed
+103,1282,Easy,107,49,High School,Completed
+105,1283,Hard,132,42,Graduate,Completed
+102,1284,Medium,100,19,Graduate,Completed
+102,1285,Medium,147,38,Undergraduate,Incomplete
+104,1286,Easy,45,38,Graduate,Incomplete
+103,1287,Easy,66,37,Undergraduate,Completed
+105,1288,Easy,45,22,Undergraduate,Completed
+103,1289,Easy,78,49,Undergraduate,Completed
+102,1290,Hard,122,29,Undergraduate,Incomplete
+101,1291,Medium,50,54,Graduate,Incomplete
+104,1292,Easy,141,44,Undergraduate,Incomplete
+102,1293,Easy,138,27,High School,Incomplete
+104,1294,Hard,66,44,Undergraduate,Completed
+101,1295,Easy,89,40,High School,Completed
+101,1296,Easy,53,52,High School,Completed
+102,1297,Easy,98,48,Undergraduate,Completed
+105,1298,Medium,45,41,High School,Completed
+104,1299,Easy,73,46,High School,Incomplete
+103,1300,Medium,107,52,Graduate,Incomplete
+103,1301,Medium,53,33,Undergraduate,Completed
+101,1302,Easy,131,40,Graduate,Completed
+103,1303,Medium,129,30,Undergraduate,Incomplete
+104,1304,Hard,131,43,Undergraduate,Incomplete
+103,1305,Medium,50,19,Undergraduate,Completed
+101,1306,Medium,124,25,Undergraduate,Incomplete
+103,1307,Medium,148,21,High School,Incomplete
+102,1308,Hard,84,26,Graduate,Incomplete
+101,1309,Easy,106,20,Undergraduate,Incomplete
+104,1310,Easy,59,48,Undergraduate,Completed
+102,1311,Easy,119,27,Graduate,Completed
+104,1312,Medium,57,20,High School,Completed
+101,1313,Hard,84,23,Undergraduate,Incomplete
+103,1314,Easy,75,40,High School,Completed
+104,1315,Medium,114,52,Graduate,Incomplete
+104,1316,Medium,103,23,Undergraduate,Incomplete
+105,1317,Medium,78,29,High School,Completed
+101,1318,Medium,74,48,Undergraduate,Completed
+101,1319,Easy,89,53,High School,Completed
+101,1320,Medium,93,30,Graduate,Incomplete
+104,1321,Medium,107,30,Graduate,Incomplete
+102,1322,Hard,120,43,Graduate,Completed
+101,1323,Medium,119,19,Graduate,Incomplete
+103,1324,Easy,103,39,Graduate,Incomplete
+102,1325,Easy,50,26,Undergraduate,Completed
+104,1326,Medium,103,45,Graduate,Completed
+101,1327,Easy,54,27,Undergraduate,Completed
+105,1328,Medium,110,39,High School,Completed
+101,1329,Medium,83,35,Graduate,Completed
+105,1330,Easy,77,35,Undergraduate,Incomplete
+102,1331,Hard,98,45,Undergraduate,Incomplete
+104,1332,Easy,116,46,Undergraduate,Completed
+102,1333,Easy,89,44,Undergraduate,Completed
+101,1334,Medium,78,28,Undergraduate,Completed
+101,1335,Easy,123,21,Undergraduate,Completed
+102,1336,Medium,149,54,Undergraduate,Completed
+105,1337,Hard,75,44,Undergraduate,Incomplete
+102,1338,Hard,98,20,Graduate,Incomplete
+105,1339,Easy,120,44,Graduate,Completed
+104,1340,Medium,142,40,Undergraduate,Completed
+105,1341,Medium,49,19,Undergraduate,Completed
+101,1342,Easy,92,20,Graduate,Completed
+101,1343,Medium,135,47,Graduate,Completed
+105,1344,Medium,147,30,Undergraduate,Completed
+101,1345,Medium,111,25,Undergraduate,Completed
+104,1346,Medium,125,36,Undergraduate,Completed
+102,1347,Easy,102,42,High School,Completed
+105,1348,Medium,65,25,High School,Completed
+103,1349,Easy,49,53,High School,Completed
+101,1350,Hard,104,46,Graduate,Completed
+101,1351,Medium,115,50,Undergraduate,Completed
+102,1352,Medium,50,43,Undergraduate,Completed
+102,1353,Hard,93,39,Graduate,Incomplete
+105,1354,Medium,75,22,Undergraduate,Completed
+103,1355,Easy,83,52,Undergraduate,Completed
+104,1356,Easy,126,18,High School,Incomplete
+103,1357,Easy,108,53,High School,Completed
+103,1358,Medium,69,44,High School,Completed
+103,1359,Medium,101,38,Undergraduate,Incomplete
+104,1360,Medium,128,28,Graduate,Completed
+102,1361,Hard,143,19,Undergraduate,Incomplete
+104,1362,Medium,55,19,Undergraduate,Incomplete
+102,1363,Medium,91,28,Undergraduate,Completed
+104,1364,Medium,96,26,Undergraduate,Incomplete
+103,1365,Medium,63,19,High School,Incomplete
+104,1366,Medium,95,53,Undergraduate,Completed
+102,1367,Hard,90,21,Undergraduate,Completed
+102,1368,Easy,127,32,Undergraduate,Completed
+101,1369,Medium,45,35,Graduate,Incomplete
+101,1370,Easy,65,44,Undergraduate,Completed
+103,1371,Medium,94,47,Undergraduate,Completed
+104,1372,Easy,131,25,Undergraduate,Completed
+103,1373,Medium,144,36,Undergraduate,Completed
+102,1374,Easy,126,37,Undergraduate,Completed
+104,1375,Easy,148,48,Undergraduate,Completed
+103,1376,Medium,116,46,Undergraduate,Incomplete
+103,1377,Medium,109,35,High School,Completed
+102,1378,Easy,55,38,Undergraduate,Completed
+102,1379,Medium,145,50,High School,Incomplete
+103,1380,Hard,126,27,Undergraduate,Completed
+105,1381,Medium,117,30,High School,Completed
+105,1382,Medium,142,31,Graduate,Incomplete
+103,1383,Medium,83,34,Graduate,Completed
+104,1384,Medium,78,35,Undergraduate,Completed
+105,1385,Medium,141,50,High School,Incomplete
+101,1386,Medium,55,29,Graduate,Incomplete
+103,1387,Medium,121,51,Undergraduate,Completed
+101,1388,Medium,109,26,High School,Incomplete
+103,1389,Medium,149,48,High School,Incomplete
+105,1390,Medium,126,49,Undergraduate,Incomplete
+104,1391,Hard,59,19,Undergraduate,Incomplete
+104,1392,Hard,137,24,Graduate,Completed
+101,1393,Easy,103,19,Graduate,Completed
+101,1394,Medium,149,46,Graduate,Incomplete
+103,1395,Medium,50,35,Undergraduate,Completed
+101,1396,Easy,133,42,Graduate,Completed
+101,1397,Medium,131,47,Undergraduate,Completed
+105,1398,Medium,143,43,High School,Incomplete
+104,1399,Medium,101,34,Undergraduate,Incomplete
+103,1400,Medium,138,24,Undergraduate,Incomplete
+105,1401,Easy,128,48,Graduate,Completed
+104,1402,Easy,86,28,Undergraduate,Completed
+104,1403,Easy,95,50,High School,Completed
+102,1404,Easy,117,32,High School,Completed
+102,1405,Medium,127,36,High School,Completed
+101,1406,Medium,107,51,High School,Completed
+101,1407,Easy,61,51,Undergraduate,Completed
+102,1408,Medium,57,33,Undergraduate,Completed
+105,1409,Hard,70,45,Undergraduate,Incomplete
+103,1410,Hard,103,47,Undergraduate,Incomplete
+105,1411,Easy,95,18,Undergraduate,Completed
+104,1412,Medium,79,38,Undergraduate,Incomplete
+104,1413,Medium,103,19,Graduate,Incomplete
+105,1414,Easy,129,29,Undergraduate,Incomplete
+101,1415,Easy,117,30,Undergraduate,Incomplete
+104,1416,Easy,143,31,Undergraduate,Completed
+105,1417,Medium,107,27,High School,Completed
+102,1418,Hard,79,48,Graduate,Completed
+103,1419,Easy,64,31,Graduate,Completed
+105,1420,Hard,51,19,Undergraduate,Incomplete
+103,1421,Hard,91,54,Undergraduate,Incomplete
+101,1422,Medium,112,28,Undergraduate,Completed
+105,1423,Easy,85,54,Undergraduate,Completed
+101,1424,Medium,95,49,Undergraduate,Completed
+104,1425,Medium,131,37,Undergraduate,Completed
+103,1426,Easy,118,29,Undergraduate,Incomplete
+103,1427,Easy,85,24,Graduate,Completed
+104,1428,Hard,80,23,Undergraduate,Incomplete
+105,1429,Medium,108,53,Undergraduate,Incomplete
+102,1430,Medium,119,24,Graduate,Completed
+102,1431,Easy,104,49,Graduate,Completed
+103,1432,Hard,76,50,High School,Incomplete
+105,1433,Medium,76,53,High School,Completed
+103,1434,Easy,140,45,Graduate,Completed
+103,1435,Medium,145,31,Undergraduate,Completed
+101,1436,Easy,143,21,High School,Incomplete
+102,1437,Medium,102,29,Undergraduate,Incomplete
+105,1438,Medium,99,35,Undergraduate,Incomplete
+103,1439,Hard,120,27,Undergraduate,Incomplete
+105,1440,Easy,50,29,High School,Incomplete
+105,1441,Easy,124,19,Graduate,Completed
+105,1442,Medium,63,53,Undergraduate,Incomplete
+102,1443,Medium,149,27,Graduate,Incomplete
+104,1444,Medium,83,47,Undergraduate,Completed
+102,1445,Medium,84,34,High School,Completed
+105,1446,Medium,80,39,High School,Completed
+102,1447,Medium,53,54,Graduate,Completed
+101,1448,Medium,84,29,High School,Completed
+102,1449,Easy,67,50,Undergraduate,Incomplete
+105,1450,Medium,81,49,Graduate,Incomplete
+102,1451,Medium,90,33,Graduate,Completed
+101,1452,Medium,68,40,Undergraduate,Completed
+101,1453,Medium,73,43,Undergraduate,Completed
+102,1454,Easy,100,32,Undergraduate,Completed
+105,1455,Hard,128,48,High School,Incomplete
+105,1456,Medium,88,54,Undergraduate,Completed
+103,1457,Hard,117,27,Graduate,Incomplete
+105,1458,Hard,125,38,Graduate,Incomplete
+104,1459,Medium,106,53,Graduate,Incomplete
+105,1460,Easy,138,41,Undergraduate,Completed
+104,1461,Hard,129,24,Graduate,Incomplete
+104,1462,Medium,50,41,High School,Completed
+103,1463,Hard,54,37,Graduate,Incomplete
+103,1464,Hard,57,22,Undergraduate,Incomplete
+105,1465,Medium,57,22,Undergraduate,Completed
+105,1466,Medium,105,33,High School,Incomplete
+104,1467,Medium,81,37,High School,Incomplete
+103,1468,Medium,121,41,Undergraduate,Completed
+103,1469,Medium,119,21,Undergraduate,Completed
+105,1470,Medium,56,22,High School,Completed
+101,1471,Easy,99,26,Graduate,Completed
+101,1472,Medium,88,36,Graduate,Completed
+101,1473,Easy,121,52,Undergraduate,Completed
+103,1474,Easy,126,25,Graduate,Completed
+101,1475,Medium,103,45,Graduate,Incomplete
+101,1476,Easy,115,41,Undergraduate,Completed
+105,1477,Easy,57,50,Graduate,Completed
+105,1478,Easy,147,37,Undergraduate,Completed
+102,1479,Medium,144,44,High School,Completed
+101,1480,Hard,52,38,Graduate,Incomplete
+104,1481,Medium,106,42,Undergraduate,Completed
+101,1482,Medium,54,29,Undergraduate,Completed
+101,1483,Medium,52,44,Undergraduate,Completed
+101,1484,Medium,82,27,Graduate,Incomplete
+101,1485,Medium,93,18,Undergraduate,Completed
+105,1486,Medium,53,35,Graduate,Completed
+105,1487,Medium,133,21,High School,Completed
+101,1488,Hard,77,36,Graduate,Incomplete
+102,1489,Easy,101,33,High School,Incomplete
+102,1490,Easy,107,23,High School,Completed
+101,1491,Medium,93,21,Undergraduate,Completed
+104,1492,Medium,56,19,Graduate,Completed
+105,1493,Easy,62,30,Undergraduate,Incomplete
+103,1494,Medium,130,21,High School,Completed
+104,1495,Easy,99,30,Undergraduate,Completed
+105,1496,Easy,147,33,Undergraduate,Completed
+103,1497,Easy,92,34,Undergraduate,Completed
+102,1498,Hard,146,45,Undergraduate,Incomplete
+102,1499,Hard,116,51,Graduate,Completed
+105,1500,Medium,45,39,Undergraduate,Incomplete
+105,1501,Easy,117,43,Undergraduate,Incomplete
+103,1502,Medium,48,52,Undergraduate,Incomplete
+102,1503,Hard,64,41,Graduate,Incomplete
+104,1504,Easy,149,37,Graduate,Incomplete
+102,1505,Easy,118,32,High School,Completed
+103,1506,Easy,120,29,High School,Completed
+102,1507,Easy,72,49,Undergraduate,Incomplete
+104,1508,Easy,135,43,Graduate,Completed
+102,1509,Medium,130,23,High School,Incomplete
+104,1510,Medium,78,39,Graduate,Incomplete
+101,1511,Easy,149,36,Undergraduate,Completed
+104,1512,Medium,136,30,Undergraduate,Incomplete
+104,1513,Medium,87,47,Undergraduate,Incomplete
+105,1514,Medium,56,40,Undergraduate,Completed
+102,1515,Easy,107,38,Undergraduate,Completed
+102,1516,Medium,121,44,Undergraduate,Completed
+105,1517,Easy,140,23,Undergraduate,Completed
+102,1518,Easy,138,42,Graduate,Completed
+101,1519,Medium,74,35,Undergraduate,Completed
+103,1520,Medium,66,51,Undergraduate,Completed
+102,1521,Easy,143,46,High School,Completed
+104,1522,Easy,81,40,High School,Incomplete
+101,1523,Easy,79,18,Graduate,Completed
+104,1524,Medium,88,48,Undergraduate,Completed
+104,1525,Easy,148,18,High School,Completed
+101,1526,Hard,96,24,Graduate,Incomplete
+101,1527,Easy,105,54,High School,Completed
+102,1528,Easy,127,54,Undergraduate,Completed
+103,1529,Easy,121,47,Undergraduate,Incomplete
+104,1530,Medium,125,52,Undergraduate,Incomplete
+104,1531,Hard,111,21,Undergraduate,Completed
+101,1532,Hard,64,22,Graduate,Incomplete
+103,1533,Medium,109,34,Undergraduate,Completed
+104,1534,Medium,134,41,Graduate,Incomplete
+101,1535,Medium,71,18,High School,Incomplete
+102,1536,Easy,85,27,Undergraduate,Completed
+102,1537,Medium,110,28,High School,Completed
+105,1538,Hard,131,49,Undergraduate,Incomplete
+105,1539,Medium,126,20,High School,Completed
+102,1540,Easy,107,37,Graduate,Completed
+101,1541,Hard,148,21,Undergraduate,Incomplete
+101,1542,Hard,63,31,Undergraduate,Completed
+105,1543,Medium,66,45,Undergraduate,Completed
+103,1544,Medium,105,24,Undergraduate,Incomplete
+102,1545,Medium,113,50,High School,Completed
+103,1546,Medium,67,39,Graduate,Completed
+105,1547,Medium,88,21,High School,Completed
+103,1548,Medium,139,45,Undergraduate,Completed
+101,1549,Easy,123,44,High School,Completed
+104,1550,Easy,72,34,Undergraduate,Completed
+104,1551,Hard,69,25,Undergraduate,Completed
+103,1552,Medium,138,51,Graduate,Incomplete
+104,1553,Hard,92,41,Graduate,Incomplete
+103,1554,Easy,113,40,Undergraduate,Completed
+102,1555,Medium,56,46,Undergraduate,Incomplete
+105,1556,Hard,70,38,Graduate,Completed
+103,1557,Easy,99,34,Undergraduate,Incomplete
+101,1558,Medium,84,18,Undergraduate,Completed
+105,1559,Easy,70,19,High School,Incomplete
+101,1560,Medium,144,50,Undergraduate,Completed
+104,1561,Hard,116,36,Undergraduate,Completed
+102,1562,Medium,132,37,High School,Incomplete
+104,1563,Medium,61,24,Undergraduate,Incomplete
+102,1564,Easy,101,47,Undergraduate,Completed
+103,1565,Medium,86,41,High School,Completed
+105,1566,Easy,84,54,Undergraduate,Incomplete
+101,1567,Hard,144,38,Undergraduate,Completed
+103,1568,Medium,94,51,Undergraduate,Completed
+101,1569,Easy,79,40,Graduate,Completed
+102,1570,Medium,67,37,High School,Completed
+101,1571,Easy,69,23,Undergraduate,Completed
+104,1572,Medium,56,25,Graduate,Completed
+101,1573,Hard,111,32,Graduate,Completed
+102,1574,Hard,83,25,Graduate,Incomplete
+101,1575,Medium,54,28,Undergraduate,Completed
+105,1576,Hard,141,48,Undergraduate,Completed
+102,1577,Medium,74,43,Graduate,Completed
+105,1578,Easy,72,32,High School,Completed
+103,1579,Easy,143,18,High School,Completed
+105,1580,Easy,62,31,Undergraduate,Completed
+103,1581,Easy,53,49,Undergraduate,Completed
+102,1582,Easy,57,42,Graduate,Incomplete
+101,1583,Medium,63,40,High School,Incomplete
+102,1584,Medium,122,28,Graduate,Incomplete
+104,1585,Hard,73,46,Graduate,Completed
+102,1586,Medium,140,25,High School,Completed
+102,1587,Easy,91,40,Undergraduate,Incomplete
+104,1588,Medium,133,29,Undergraduate,Completed
+104,1589,Medium,132,23,High School,Incomplete
+102,1590,Medium,149,24,Undergraduate,Completed
+104,1591,Medium,149,49,High School,Incomplete
+102,1592,Medium,143,32,Graduate,Incomplete
+102,1593,Easy,133,52,Undergraduate,Completed
+104,1594,Hard,88,33,Graduate,Completed
+103,1595,Medium,125,54,Graduate,Completed
+104,1596,Medium,112,26,Graduate,Completed
+101,1597,Medium,105,29,High School,Incomplete
+103,1598,Medium,120,54,Undergraduate,Completed
+101,1599,Medium,86,31,Graduate,Completed
+104,1600,Medium,141,41,Graduate,Completed
+104,1601,Easy,128,23,Graduate,Completed
+102,1602,Medium,140,35,Undergraduate,Completed
+101,1603,Medium,116,37,Graduate,Incomplete
+104,1604,Hard,134,46,Undergraduate,Incomplete
+104,1605,Hard,66,51,Undergraduate,Completed
+104,1606,Easy,80,29,Undergraduate,Completed
+101,1607,Medium,96,19,Undergraduate,Completed
+104,1608,Hard,130,29,Undergraduate,Incomplete
+105,1609,Medium,109,36,Undergraduate,Completed
+105,1610,Hard,65,27,Undergraduate,Incomplete
+104,1611,Easy,96,44,Undergraduate,Completed
+103,1612,Medium,86,37,Undergraduate,Completed
+101,1613,Easy,104,52,Undergraduate,Completed
+102,1614,Easy,69,35,Graduate,Completed
+103,1615,Medium,110,34,Graduate,Completed
+105,1616,Hard,78,42,Undergraduate,Incomplete
+101,1617,Easy,104,37,Undergraduate,Completed
+102,1618,Hard,148,41,Undergraduate,Incomplete
+105,1619,Easy,146,43,Graduate,Incomplete
+104,1620,Medium,72,42,Undergraduate,Incomplete
+104,1621,Medium,132,24,Graduate,Incomplete
+102,1622,Easy,91,34,High School,Completed
+101,1623,Hard,141,45,High School,Incomplete
+102,1624,Medium,111,37,Undergraduate,Completed
+102,1625,Hard,138,51,Undergraduate,Completed
+103,1626,Medium,51,28,Graduate,Incomplete
+104,1627,Easy,147,47,Graduate,Completed
+104,1628,Medium,97,20,High School,Completed
+105,1629,Medium,46,32,Undergraduate,Completed
+103,1630,Hard,93,32,Undergraduate,Incomplete
+104,1631,Medium,143,20,Undergraduate,Incomplete
+103,1632,Medium,140,28,Graduate,Completed
+101,1633,Easy,67,52,Graduate,Completed
+103,1634,Easy,132,39,Undergraduate,Completed
+104,1635,Easy,132,35,Graduate,Completed
+102,1636,Medium,62,36,Undergraduate,Completed
+101,1637,Medium,50,34,Undergraduate,Completed
+101,1638,Medium,145,18,Undergraduate,Incomplete
+104,1639,Medium,78,52,Undergraduate,Completed
+103,1640,Medium,80,42,High School,Incomplete
+102,1641,Easy,53,26,Undergraduate,Completed
+104,1642,Hard,136,31,High School,Completed
+101,1643,Hard,117,32,Undergraduate,Incomplete
+101,1644,Hard,120,36,Graduate,Completed
+101,1645,Easy,95,41,Graduate,Completed
+101,1646,Medium,117,49,High School,Incomplete
+101,1647,Medium,82,33,Undergraduate,Completed
+103,1648,Medium,105,28,Undergraduate,Incomplete
+102,1649,Medium,68,28,Undergraduate,Incomplete
+103,1650,Hard,143,40,Undergraduate,Completed
+102,1651,Easy,63,37,Undergraduate,Completed
+103,1652,Medium,75,20,High School,Incomplete
+104,1653,Easy,85,35,Graduate,Completed
+101,1654,Medium,63,41,Undergraduate,Completed
+104,1655,Easy,48,37,High School,Completed
+102,1656,Medium,91,31,Undergraduate,Completed
+102,1657,Hard,99,38,Graduate,Incomplete
+105,1658,Medium,117,38,Undergraduate,Completed
+101,1659,Hard,104,28,Graduate,Completed
+101,1660,Easy,127,52,Undergraduate,Incomplete
+102,1661,Easy,141,53,Undergraduate,Completed
+105,1662,Medium,126,26,Graduate,Completed
+101,1663,Easy,70,19,Undergraduate,Incomplete
+101,1664,Medium,106,36,High School,Completed
+104,1665,Medium,83,51,Graduate,Incomplete
+103,1666,Hard,77,26,Graduate,Incomplete
+105,1667,Easy,122,36,Graduate,Completed
+102,1668,Medium,96,34,Undergraduate,Completed
+103,1669,Medium,78,35,Undergraduate,Incomplete
+104,1670,Easy,67,54,High School,Completed
+102,1671,Medium,76,36,Undergraduate,Incomplete
+102,1672,Medium,115,54,Graduate,Completed
+104,1673,Medium,83,44,Undergraduate,Completed
+101,1674,Hard,120,39,Undergraduate,Incomplete
+101,1675,Medium,114,36,High School,Completed
+103,1676,Easy,49,25,High School,Completed
+105,1677,Medium,47,27,Undergraduate,Incomplete
+101,1678,Hard,52,43,Graduate,Incomplete
+105,1679,Hard,83,26,High School,Incomplete
+102,1680,Medium,46,22,Undergraduate,Incomplete
+104,1681,Easy,145,24,High School,Completed
+103,1682,Medium,126,54,High School,Completed
+101,1683,Medium,95,40,Undergraduate,Incomplete
+103,1684,Easy,51,45,Undergraduate,Completed
+105,1685,Medium,74,52,Graduate,Completed
+104,1686,Hard,140,49,High School,Completed
+105,1687,Easy,110,27,Undergraduate,Completed
+103,1688,Medium,45,31,Graduate,Completed
+102,1689,Easy,59,18,Undergraduate,Completed
+102,1690,Hard,130,28,Undergraduate,Incomplete
+105,1691,Easy,97,21,High School,Completed
+104,1692,Easy,147,54,Undergraduate,Completed
+105,1693,Easy,96,23,Undergraduate,Incomplete
+101,1694,Medium,92,45,High School,Completed
+104,1695,Hard,78,34,Graduate,Incomplete
+104,1696,Easy,135,38,Undergraduate,Incomplete
+105,1697,Hard,65,23,Undergraduate,Completed
+104,1698,Hard,128,38,Undergraduate,Completed
+102,1699,Easy,102,39,Graduate,Completed
+103,1700,Hard,104,27,Undergraduate,Incomplete
+102,1701,Hard,112,21,Undergraduate,Incomplete
+104,1702,Hard,103,34,Undergraduate,Completed
+103,1703,Medium,126,37,Graduate,Completed
+101,1704,Medium,78,32,Undergraduate,Incomplete
+105,1705,Easy,117,43,Graduate,Completed
+104,1706,Medium,85,54,Undergraduate,Incomplete
+105,1707,Easy,145,39,Graduate,Completed
+103,1708,Easy,148,24,Undergraduate,Incomplete
+105,1709,Easy,81,33,Undergraduate,Incomplete
+104,1710,Medium,85,40,High School,Completed
+104,1711,Medium,146,20,Graduate,Completed
+102,1712,Medium,118,22,Graduate,Completed
+105,1713,Easy,83,26,Graduate,Incomplete
+105,1714,Easy,97,32,High School,Incomplete
+102,1715,Medium,121,43,High School,Completed
+102,1716,Medium,81,31,Undergraduate,Completed
+105,1717,Medium,115,50,High School,Incomplete
+103,1718,Medium,114,43,Undergraduate,Completed
+103,1719,Medium,63,20,Graduate,Completed
+101,1720,Hard,69,37,Undergraduate,Completed
+102,1721,Easy,118,36,Graduate,Completed
+103,1722,Hard,130,22,Undergraduate,Incomplete
+104,1723,Medium,108,48,Undergraduate,Completed
+104,1724,Hard,147,37,High School,Incomplete
+102,1725,Easy,107,54,Undergraduate,Completed
+104,1726,Hard,135,38,High School,Completed
+101,1727,Easy,131,34,Undergraduate,Completed
+104,1728,Hard,62,26,Graduate,Incomplete
+101,1729,Hard,94,36,Graduate,Completed
+105,1730,Easy,90,53,Undergraduate,Incomplete
+104,1731,Hard,110,35,High School,Completed
+104,1732,Easy,76,48,Graduate,Completed
+103,1733,Medium,118,33,Graduate,Completed
+105,1734,Hard,70,34,Undergraduate,Completed
+102,1735,Hard,97,42,Graduate,Incomplete
+102,1736,Easy,140,41,Graduate,Completed
+101,1737,Easy,139,33,Graduate,Incomplete
+104,1738,Medium,118,43,Graduate,Completed
+104,1739,Medium,141,50,Undergraduate,Completed
+104,1740,Medium,80,41,Undergraduate,Completed
+103,1741,Hard,55,20,High School,Completed
+102,1742,Easy,141,41,High School,Completed
+104,1743,Easy,136,47,Undergraduate,Completed
+105,1744,Medium,58,25,Undergraduate,Incomplete
+102,1745,Medium,64,35,Undergraduate,Completed
+105,1746,Hard,84,22,Graduate,Incomplete
+105,1747,Hard,56,27,Undergraduate,Incomplete
+101,1748,Easy,77,23,Undergraduate,Completed
+101,1749,Hard,51,26,Undergraduate,Completed
+103,1750,Medium,130,23,High School,Completed
+103,1751,Easy,124,47,Undergraduate,Completed
+103,1752,Medium,61,53,Undergraduate,Completed
+101,1753,Hard,139,32,Undergraduate,Incomplete
+104,1754,Medium,106,27,Undergraduate,Incomplete
+102,1755,Medium,111,34,Undergraduate,Incomplete
+102,1756,Medium,101,24,Undergraduate,Completed
+101,1757,Medium,131,37,High School,Incomplete
+103,1758,Medium,111,38,Undergraduate,Incomplete
+103,1759,Hard,104,26,High School,Completed
+102,1760,Hard,145,27,Undergraduate,Incomplete
+104,1761,Hard,104,20,Undergraduate,Incomplete
+104,1762,Medium,53,45,Undergraduate,Incomplete
+104,1763,Easy,91,27,Undergraduate,Completed
+105,1764,Easy,134,53,Graduate,Completed
+101,1765,Hard,133,24,Graduate,Completed
+102,1766,Easy,63,45,Undergraduate,Incomplete
+105,1767,Hard,81,22,Graduate,Incomplete
+103,1768,Easy,146,38,Undergraduate,Completed
+101,1769,Easy,93,22,Undergraduate,Completed
+101,1770,Medium,51,51,Undergraduate,Incomplete
+104,1771,Hard,60,36,High School,Completed
+103,1772,Medium,101,44,Graduate,Completed
+105,1773,Easy,114,46,Graduate,Completed
+102,1774,Easy,84,43,Undergraduate,Completed
+101,1775,Medium,62,51,Undergraduate,Completed
+105,1776,Hard,71,43,Undergraduate,Incomplete
+104,1777,Easy,71,22,Graduate,Completed
+103,1778,Hard,119,45,Undergraduate,Incomplete
+101,1779,Medium,61,23,Undergraduate,Incomplete
+105,1780,Easy,49,33,Undergraduate,Incomplete
+101,1781,Medium,84,27,Graduate,Completed
+101,1782,Medium,91,28,Undergraduate,Completed
+101,1783,Medium,147,47,Graduate,Completed
+102,1784,Hard,76,45,Graduate,Completed
+104,1785,Medium,107,35,Graduate,Completed
+105,1786,Medium,139,36,High School,Completed
+103,1787,Easy,74,35,Undergraduate,Completed
+105,1788,Medium,62,52,High School,Incomplete
+104,1789,Easy,146,39,Undergraduate,Completed
+105,1790,Medium,47,51,Graduate,Completed
+104,1791,Medium,93,38,Graduate,Completed
+101,1792,Medium,116,47,Undergraduate,Completed
+105,1793,Easy,99,28,Graduate,Completed
+102,1794,Hard,74,29,Graduate,Incomplete
+102,1795,Hard,64,29,Graduate,Completed
+101,1796,Medium,60,43,Graduate,Incomplete
+103,1797,Hard,64,39,Undergraduate,Incomplete
+101,1798,Medium,66,49,Undergraduate,Completed
+104,1799,Hard,118,45,Undergraduate,Completed
+105,1800,Easy,66,43,Undergraduate,Completed
+102,1801,Hard,82,46,Graduate,Incomplete
+104,1802,Medium,81,45,High School,Incomplete
+101,1803,Medium,129,28,Undergraduate,Incomplete
+102,1804,Easy,116,41,Undergraduate,Completed
+104,1805,Medium,47,23,High School,Completed
+101,1806,Easy,136,52,Graduate,Completed
+101,1807,Hard,70,49,Graduate,Incomplete
+103,1808,Hard,87,42,Undergraduate,Incomplete
+102,1809,Easy,103,25,High School,Completed
+104,1810,Medium,113,19,Graduate,Incomplete
+103,1811,Medium,139,19,High School,Incomplete
+105,1812,Medium,128,46,Undergraduate,Incomplete
+103,1813,Medium,52,35,Undergraduate,Completed
+101,1814,Easy,130,48,High School,Completed
+105,1815,Medium,101,21,Undergraduate,Incomplete
+101,1816,Medium,84,28,High School,Incomplete
+104,1817,Medium,70,30,High School,Completed
+103,1818,Easy,96,42,Graduate,Completed
+104,1819,Medium,122,48,Graduate,Incomplete
+103,1820,Easy,57,19,Graduate,Incomplete
+104,1821,Medium,119,19,Undergraduate,Incomplete
+101,1822,Easy,71,31,Undergraduate,Completed
+105,1823,Medium,121,22,Undergraduate,Completed
+105,1824,Hard,63,28,Graduate,Incomplete
+105,1825,Easy,107,32,Undergraduate,Incomplete
+101,1826,Medium,58,48,Undergraduate,Incomplete
+104,1827,Medium,122,49,High School,Completed
+101,1828,Medium,51,29,High School,Completed
+104,1829,Medium,105,19,Undergraduate,Completed
+104,1830,Medium,107,49,Undergraduate,Completed
+101,1831,Medium,123,40,Undergraduate,Completed
+104,1832,Medium,74,38,Undergraduate,Completed
+105,1833,Medium,125,18,Graduate,Completed
+104,1834,Medium,126,49,Graduate,Incomplete
+104,1835,Hard,76,52,Undergraduate,Incomplete
+102,1836,Hard,63,50,Undergraduate,Completed
+105,1837,Hard,102,46,Undergraduate,Completed
+105,1838,Hard,134,27,High School,Incomplete
+103,1839,Hard,125,48,Undergraduate,Incomplete
+102,1840,Medium,136,52,Graduate,Completed
+105,1841,Easy,149,39,Graduate,Completed
+102,1842,Easy,129,42,Graduate,Completed
+105,1843,Hard,81,39,Undergraduate,Incomplete
+103,1844,Hard,75,38,Undergraduate,Completed
+101,1845,Medium,115,26,Graduate,Incomplete
+102,1846,Easy,72,37,Undergraduate,Completed
+102,1847,Hard,85,22,Graduate,Completed
+103,1848,Easy,84,27,Graduate,Completed
+104,1849,Medium,120,45,Graduate,Completed
+101,1850,Medium,114,30,High School,Completed
+102,1851,Easy,109,25,Undergraduate,Completed
+101,1852,Easy,89,36,Undergraduate,Completed
+104,1853,Easy,54,40,Undergraduate,Completed
+104,1854,Hard,120,33,Undergraduate,Completed
+103,1855,Medium,127,19,Undergraduate,Completed
+104,1856,Medium,112,40,Undergraduate,Incomplete
+105,1857,Easy,52,28,Undergraduate,Completed
+104,1858,Medium,51,23,Undergraduate,Incomplete
+104,1859,Hard,53,47,Graduate,Incomplete
+102,1860,Easy,124,22,Undergraduate,Completed
+103,1861,Medium,68,28,Graduate,Completed
+105,1862,Medium,97,22,Undergraduate,Incomplete
+101,1863,Hard,71,40,Undergraduate,Incomplete
+103,1864,Easy,119,49,Graduate,Completed
+105,1865,Easy,119,24,High School,Completed
+105,1866,Medium,72,30,Graduate,Completed
+102,1867,Easy,138,35,Graduate,Completed
+102,1868,Easy,132,27,Graduate,Incomplete
+105,1869,Medium,85,40,Graduate,Completed
+101,1870,Medium,134,41,High School,Completed
+101,1871,Easy,63,21,Undergraduate,Completed
+101,1872,Medium,59,39,Undergraduate,Completed
+104,1873,Medium,56,24,Undergraduate,Incomplete
+103,1874,Hard,135,25,Graduate,Completed
+104,1875,Medium,74,48,Graduate,Completed
+105,1876,Medium,53,34,Undergraduate,Completed
+101,1877,Medium,80,36,Undergraduate,Incomplete
+101,1878,Easy,75,25,High School,Completed
+105,1879,Hard,68,45,High School,Completed
+103,1880,Medium,130,52,High School,Incomplete
+105,1881,Hard,106,35,High School,Completed
+105,1882,Easy,125,44,Graduate,Completed
+101,1883,Medium,48,50,Undergraduate,Incomplete
+101,1884,Medium,143,22,Graduate,Completed
+103,1885,Hard,135,48,Undergraduate,Incomplete
+102,1886,Medium,69,41,Graduate,Completed
+101,1887,Easy,142,45,High School,Completed
+102,1888,Hard,87,23,Graduate,Incomplete
+101,1889,Medium,132,37,Graduate,Incomplete
+103,1890,Medium,86,42,High School,Incomplete
+104,1891,Medium,59,48,Undergraduate,Incomplete
+101,1892,Medium,74,39,High School,Completed
+105,1893,Medium,119,22,High School,Incomplete
+103,1894,Hard,54,34,Undergraduate,Incomplete
+102,1895,Easy,100,19,High School,Completed
+101,1896,Medium,136,24,Graduate,Completed
+104,1897,Medium,115,41,High School,Incomplete
+104,1898,Medium,47,42,Undergraduate,Completed
+104,1899,Hard,127,36,High School,Completed
+101,1900,Medium,123,23,Undergraduate,Completed
+104,1901,Medium,121,41,Undergraduate,Incomplete
+105,1902,Medium,140,34,Undergraduate,Completed
+102,1903,Medium,95,31,Graduate,Incomplete
+102,1904,Hard,99,50,Graduate,Incomplete
+105,1905,Easy,45,24,Undergraduate,Completed
+102,1906,Hard,52,37,Graduate,Completed
+104,1907,Hard,51,34,Undergraduate,Incomplete
+104,1908,Easy,147,28,Undergraduate,Completed
+105,1909,Hard,52,25,High School,Incomplete
+103,1910,Medium,90,31,Undergraduate,Incomplete
+105,1911,Easy,45,52,Undergraduate,Completed
+105,1912,Hard,110,37,Undergraduate,Completed
+101,1913,Hard,138,51,Graduate,Incomplete
+101,1914,Easy,111,34,Undergraduate,Completed
+103,1915,Hard,103,35,High School,Incomplete
+105,1916,Medium,56,51,Graduate,Completed
+101,1917,Easy,75,45,Undergraduate,Incomplete
+105,1918,Medium,144,36,Graduate,Completed
+103,1919,Easy,95,40,High School,Completed
+101,1920,Medium,113,23,Graduate,Incomplete
+101,1921,Medium,62,22,Graduate,Completed
+102,1922,Medium,131,48,Undergraduate,Incomplete
+104,1923,Medium,51,24,High School,Incomplete
+105,1924,Medium,90,25,Undergraduate,Completed
+103,1925,Easy,59,22,Undergraduate,Incomplete
+105,1926,Medium,131,51,Undergraduate,Completed
+105,1927,Medium,68,31,Undergraduate,Incomplete
+105,1928,Medium,77,47,Graduate,Incomplete
+103,1929,Medium,92,27,Undergraduate,Incomplete
+104,1930,Medium,138,49,Undergraduate,Completed
+105,1931,Easy,142,31,High School,Incomplete
+101,1932,Easy,53,27,Graduate,Completed
+102,1933,Medium,86,28,Undergraduate,Incomplete
+104,1934,Easy,75,44,Undergraduate,Incomplete
+104,1935,Medium,108,20,Undergraduate,Completed
+105,1936,Easy,107,29,High School,Completed
+103,1937,Easy,147,31,Undergraduate,Completed
+104,1938,Medium,45,30,Graduate,Completed
+102,1939,Medium,141,54,Graduate,Incomplete
+102,1940,Hard,77,22,Graduate,Completed
+103,1941,Medium,143,41,Undergraduate,Incomplete
+105,1942,Hard,147,49,High School,Incomplete
+102,1943,Medium,135,54,Graduate,Incomplete
+101,1944,Hard,53,23,High School,Incomplete
+102,1945,Easy,49,33,Undergraduate,Completed
+104,1946,Easy,98,49,Undergraduate,Completed
+105,1947,Easy,149,24,Undergraduate,Completed
+104,1948,Hard,55,25,Graduate,Incomplete
+102,1949,Easy,102,21,Graduate,Completed
+103,1950,Hard,75,49,High School,Incomplete
+104,1951,Hard,87,42,Undergraduate,Incomplete
+104,1952,Medium,77,25,High School,Incomplete
+103,1953,Medium,73,46,Undergraduate,Incomplete
+101,1954,Medium,47,29,Undergraduate,Incomplete
+102,1955,Medium,100,37,Undergraduate,Incomplete
+103,1956,Medium,97,53,Graduate,Completed
+103,1957,Hard,134,25,Undergraduate,Completed
+105,1958,Easy,109,39,Undergraduate,Completed
+104,1959,Easy,59,54,Graduate,Completed
+102,1960,Medium,48,40,Undergraduate,Completed
+103,1961,Medium,120,36,Undergraduate,Incomplete
+102,1962,Medium,130,22,Graduate,Completed
+104,1963,Easy,132,43,Undergraduate,Incomplete
+104,1964,Medium,77,53,High School,Incomplete
+102,1965,Medium,125,18,Graduate,Completed
+101,1966,Easy,67,26,Undergraduate,Completed
+101,1967,Easy,135,50,Graduate,Completed
+105,1968,Hard,137,48,Undergraduate,Incomplete
+102,1969,Medium,123,19,Undergraduate,Completed
+104,1970,Hard,149,32,High School,Incomplete
+105,1971,Medium,129,33,High School,Incomplete
+103,1972,Medium,91,32,Undergraduate,Completed
+104,1973,Medium,106,32,Undergraduate,Completed
+105,1974,Easy,106,48,Graduate,Completed
+102,1975,Medium,133,45,Undergraduate,Completed
+103,1976,Medium,125,21,Graduate,Incomplete
+102,1977,Easy,57,44,High School,Completed
+102,1978,Medium,116,34,Graduate,Incomplete
+104,1979,Medium,84,41,Undergraduate,Incomplete
+101,1980,Easy,79,19,Undergraduate,Completed
+103,1981,Easy,135,35,Undergraduate,Completed
+104,1982,Hard,70,20,Graduate,Incomplete
+101,1983,Easy,95,20,Graduate,Completed
+102,1984,Medium,48,19,High School,Completed
+103,1985,Hard,88,53,Undergraduate,Incomplete
+101,1986,Easy,73,38,Undergraduate,Completed
+104,1987,Medium,85,54,Undergraduate,Completed
+103,1988,Medium,105,24,High School,Completed
+105,1989,Easy,99,41,Undergraduate,Completed
+101,1990,Medium,46,40,Graduate,Completed
+105,1991,Easy,106,21,High School,Completed
+104,1992,Hard,93,19,Graduate,Completed
+105,1993,Medium,118,18,High School,Completed
+101,1994,Hard,109,39,Graduate,Incomplete
+104,1995,Medium,72,52,Graduate,Incomplete
+104,1996,Medium,138,30,Undergraduate,Completed
+105,1997,Hard,92,37,High School,Completed
+103,1998,Medium,60,31,Undergraduate,Completed
+103,1999,Medium,58,23,High School,Incomplete
+101,2000,Medium,95,37,Graduate,Incomplete
+101,2001,Easy,123,47,High School,Completed
+103,2002,Hard,106,35,High School,Incomplete
+103,2003,Hard,68,18,High School,Completed
+103,2004,Medium,73,27,Graduate,Incomplete
+101,2005,Medium,144,50,Graduate,Incomplete
+102,2006,Easy,142,31,Graduate,Completed
+101,2007,Medium,112,43,Undergraduate,Incomplete
+103,2008,Hard,136,28,Undergraduate,Incomplete
+102,2009,Medium,74,54,Graduate,Completed
+104,2010,Easy,129,45,Undergraduate,Completed
+101,2011,Medium,115,20,Graduate,Completed
+101,2012,Medium,104,26,Graduate,Completed
+103,2013,Hard,94,49,Graduate,Completed
+102,2014,Easy,83,34,Graduate,Completed
+105,2015,Easy,95,51,Undergraduate,Completed
+105,2016,Medium,139,48,Graduate,Completed
+102,2017,Medium,60,52,High School,Incomplete
+105,2018,Medium,137,26,High School,Incomplete
+104,2019,Medium,140,19,Graduate,Completed
+104,2020,Medium,58,27,Undergraduate,Completed
+101,2021,Medium,101,43,Undergraduate,Completed
+105,2022,Medium,122,35,High School,Completed
+103,2023,Easy,93,48,Undergraduate,Completed
+101,2024,Medium,75,33,Graduate,Completed
+102,2025,Hard,148,43,Graduate,Incomplete
+104,2026,Easy,112,29,Undergraduate,Completed
+103,2027,Medium,120,26,Undergraduate,Completed
+103,2028,Hard,88,47,Undergraduate,Incomplete
+102,2029,Medium,91,43,Undergraduate,Completed
+101,2030,Hard,89,26,Graduate,Incomplete
+101,2031,Hard,96,26,Undergraduate,Completed
+101,2032,Hard,139,52,Graduate,Completed
+102,2033,Medium,109,28,Undergraduate,Incomplete
+102,2034,Medium,74,19,High School,Completed
+105,2035,Medium,69,47,Graduate,Incomplete
+101,2036,Medium,60,54,Undergraduate,Completed
+101,2037,Easy,98,43,Undergraduate,Incomplete
+101,2038,Medium,145,29,Undergraduate,Incomplete
+104,2039,Hard,55,40,High School,Completed
+104,2040,Hard,96,50,Undergraduate,Incomplete
+101,2041,Hard,87,35,Graduate,Incomplete
+101,2042,Medium,111,42,Graduate,Incomplete
+101,2043,Easy,141,50,Undergraduate,Incomplete
+103,2044,Easy,61,47,High School,Completed
+103,2045,Medium,102,28,Graduate,Completed
+101,2046,Medium,149,23,Graduate,Completed
+102,2047,Medium,60,27,Undergraduate,Incomplete
+101,2048,Easy,143,20,High School,Completed
+105,2049,Easy,62,45,Undergraduate,Completed
+103,2050,Hard,101,52,Graduate,Incomplete
+104,2051,Medium,116,19,Undergraduate,Incomplete
+104,2052,Medium,108,34,Graduate,Completed
+102,2053,Easy,127,21,Undergraduate,Completed
+101,2054,Medium,120,52,Undergraduate,Completed
+101,2055,Medium,106,28,Undergraduate,Incomplete
+105,2056,Easy,60,52,Graduate,Incomplete
+104,2057,Easy,103,23,Undergraduate,Completed
+103,2058,Medium,76,20,High School,Completed
+103,2059,Medium,117,28,Undergraduate,Incomplete
+103,2060,Easy,102,37,Graduate,Completed
+105,2061,Easy,81,23,Undergraduate,Completed
+105,2062,Easy,63,30,High School,Completed
+101,2063,Medium,114,18,Graduate,Completed
+105,2064,Easy,68,42,Undergraduate,Completed
+103,2065,Medium,97,35,Undergraduate,Incomplete
+101,2066,Hard,49,37,Undergraduate,Incomplete
+105,2067,Easy,138,48,Graduate,Completed
+102,2068,Medium,48,46,High School,Completed
+103,2069,Medium,85,23,Graduate,Completed
+102,2070,Medium,133,20,High School,Incomplete
+104,2071,Medium,109,42,Undergraduate,Incomplete
+102,2072,Hard,58,43,Graduate,Incomplete
+103,2073,Medium,87,23,Graduate,Incomplete
+105,2074,Easy,83,34,Undergraduate,Completed
+103,2075,Easy,101,49,Graduate,Incomplete
+101,2076,Easy,125,48,Undergraduate,Incomplete
+101,2077,Easy,148,33,Undergraduate,Completed
+104,2078,Easy,76,20,High School,Completed
+104,2079,Medium,124,19,Undergraduate,Completed
+103,2080,Medium,127,27,Undergraduate,Incomplete
+102,2081,Medium,129,28,Undergraduate,Incomplete
+102,2082,Medium,73,28,Graduate,Completed
+102,2083,Easy,87,54,Undergraduate,Completed
+102,2084,Easy,45,25,Undergraduate,Completed
+105,2085,Medium,133,21,Graduate,Incomplete
+104,2086,Hard,131,51,Undergraduate,Incomplete
+102,2087,Hard,136,22,Graduate,Incomplete
+101,2088,Medium,119,36,High School,Incomplete
+101,2089,Medium,94,31,Graduate,Completed
+103,2090,Easy,70,24,Undergraduate,Completed
+103,2091,Hard,121,32,Undergraduate,Incomplete
+104,2092,Easy,88,39,Graduate,Completed
+101,2093,Easy,145,33,Undergraduate,Completed
+102,2094,Easy,117,49,Graduate,Completed
+105,2095,Hard,120,49,Graduate,Incomplete
+103,2096,Easy,96,49,High School,Completed
+105,2097,Hard,133,25,High School,Completed
+103,2098,Hard,113,54,Graduate,Completed
+105,2099,Medium,49,49,Undergraduate,Completed
+105,2100,Medium,139,47,Graduate,Completed
+103,2101,Medium,74,54,Undergraduate,Incomplete
+103,2102,Easy,137,20,Graduate,Completed
+104,2103,Medium,59,43,Undergraduate,Incomplete
+102,2104,Medium,81,45,Undergraduate,Completed
+102,2105,Easy,106,49,High School,Incomplete
+105,2106,Medium,129,22,Undergraduate,Incomplete
+104,2107,Easy,105,24,Undergraduate,Completed
+103,2108,Hard,64,31,Graduate,Incomplete
+103,2109,Medium,70,30,High School,Completed
+105,2110,Hard,78,33,Graduate,Completed
+104,2111,Easy,47,46,Graduate,Completed
+105,2112,Medium,133,33,Undergraduate,Incomplete
+102,2113,Medium,109,31,Undergraduate,Completed
+103,2114,Easy,146,44,Undergraduate,Incomplete
+104,2115,Medium,123,41,Graduate,Incomplete
+103,2116,Medium,127,43,High School,Incomplete
+105,2117,Medium,88,34,High School,Incomplete
+104,2118,Hard,76,41,Undergraduate,Incomplete
+102,2119,Medium,109,29,Graduate,Completed
+104,2120,Hard,106,28,Graduate,Incomplete
+105,2121,Medium,136,46,Undergraduate,Completed
+103,2122,Hard,97,42,Undergraduate,Completed
+105,2123,Easy,127,21,High School,Completed
+104,2124,Medium,50,25,Undergraduate,Completed
+104,2125,Medium,111,25,Graduate,Completed
+105,2126,Medium,137,46,High School,Incomplete
+102,2127,Medium,149,42,Graduate,Incomplete
+102,2128,Medium,113,27,Undergraduate,Incomplete
+101,2129,Medium,121,39,High School,Incomplete
+101,2130,Medium,88,21,High School,Completed
+103,2131,Medium,108,46,Graduate,Completed
+103,2132,Hard,120,47,Undergraduate,Incomplete
+103,2133,Medium,69,53,Undergraduate,Completed
+103,2134,Medium,114,43,Graduate,Incomplete
+101,2135,Easy,58,39,Undergraduate,Completed
+102,2136,Medium,134,23,Undergraduate,Completed
+103,2137,Easy,136,51,Undergraduate,Incomplete
+101,2138,Hard,66,31,Graduate,Completed
+102,2139,Medium,86,39,High School,Incomplete
+102,2140,Hard,54,32,Graduate,Incomplete
+102,2141,Hard,136,52,Undergraduate,Completed
+101,2142,Easy,129,20,High School,Completed
+101,2143,Medium,49,33,Undergraduate,Completed
+105,2144,Easy,48,47,Undergraduate,Completed
+105,2145,Medium,119,33,Graduate,Incomplete
+101,2146,Easy,65,34,Graduate,Completed
+103,2147,Easy,128,52,Undergraduate,Completed
+102,2148,Medium,111,19,High School,Completed
+105,2149,Medium,142,30,Graduate,Incomplete
+105,2150,Medium,138,26,Graduate,Completed
+102,2151,Easy,140,19,Graduate,Completed
+105,2152,Medium,134,27,High School,Completed
+104,2153,Easy,56,30,Undergraduate,Completed
+104,2154,Medium,58,51,Undergraduate,Completed
+105,2155,Medium,53,33,Graduate,Incomplete
+103,2156,Hard,94,39,High School,Incomplete
+104,2157,Easy,138,37,Graduate,Incomplete
+103,2158,Easy,125,48,Undergraduate,Incomplete
+101,2159,Medium,131,34,Undergraduate,Completed
+102,2160,Medium,91,31,Graduate,Completed
+105,2161,Easy,62,29,High School,Completed
+104,2162,Easy,49,51,Graduate,Completed
+103,2163,Medium,56,37,High School,Completed
+105,2164,Medium,77,28,High School,Incomplete
+101,2165,Medium,132,47,Undergraduate,Incomplete
+101,2166,Medium,146,48,Undergraduate,Completed
+104,2167,Medium,70,22,High School,Incomplete
+105,2168,Medium,98,42,Undergraduate,Completed
+105,2169,Hard,49,29,Undergraduate,Incomplete
+105,2170,Hard,47,40,Undergraduate,Incomplete
+101,2171,Easy,128,46,Undergraduate,Incomplete
+101,2172,Medium,144,39,Undergraduate,Completed
+102,2173,Medium,96,36,Undergraduate,Incomplete
+101,2174,Easy,107,25,Undergraduate,Completed
+101,2175,Hard,88,45,Undergraduate,Completed
+102,2176,Medium,138,32,High School,Completed
+105,2177,Hard,121,44,Undergraduate,Completed
+101,2178,Hard,106,51,Graduate,Incomplete
+102,2179,Medium,96,50,Undergraduate,Completed
+105,2180,Medium,71,19,High School,Incomplete
+103,2181,Medium,118,21,Undergraduate,Completed
+102,2182,Hard,107,33,Undergraduate,Incomplete
+102,2183,Easy,84,52,Undergraduate,Completed
+105,2184,Medium,104,44,High School,Incomplete
+104,2185,Hard,61,28,High School,Completed
+103,2186,Hard,148,36,Graduate,Incomplete
+101,2187,Medium,69,34,High School,Completed
+104,2188,Hard,132,36,Undergraduate,Incomplete
+105,2189,Medium,138,28,Graduate,Completed
+105,2190,Medium,48,36,Undergraduate,Incomplete
+105,2191,Easy,45,29,Undergraduate,Completed
+104,2192,Hard,73,50,Undergraduate,Incomplete
+105,2193,Medium,122,50,Graduate,Completed
+103,2194,Medium,87,34,High School,Completed
+104,2195,Medium,86,39,Undergraduate,Completed
+103,2196,Medium,103,51,Undergraduate,Completed
+103,2197,Easy,97,29,High School,Completed
+105,2198,Hard,68,49,Undergraduate,Completed
+103,2199,Medium,119,22,Undergraduate,Incomplete
+104,2200,Medium,61,32,Graduate,Completed
