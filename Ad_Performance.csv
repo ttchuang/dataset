@@ -1,0 +1,151 @@
+Date,Channel,Campaign_ID,Spend_USD,Impressions,Clicks,Conversions
+2025-09-01,Google Ads,G_Search_Brnd,98.34,5028,241,5
+2025-09-01,Google Ads,G_Shopping_S,125.92,5166,158,6
+2025-09-01,Facebook/Insta,F_Retarget_C,80.08,4158,56,0
+2025-09-01,Google Ads,G_Search_Brnd,109.12,5446,228,4
+2025-09-01,Facebook/Insta,F_Lookalike_T,125.61,5586,98,1
+2025-09-02,Google Ads,G_Search_Brnd,140.75,7698,334,6
+2025-09-02,Facebook/Insta,F_Retarget_C,160.84,9257,95,0
+2025-09-02,Google Ads,G_Shopping_S,141.0,6414,199,7
+2025-09-02,Google Ads,G_Search_Generic,122.52,6029,283,5
+2025-09-02,Facebook/Insta,F_Retarget_C,173.95,8938,255,1
+2025-09-03,Google Ads,G_Search_Generic,99.6,4999,294,10
+2025-09-03,Facebook/Insta,F_Lookalike_T,162.87,8778,137,0
+2025-09-03,Google Ads,G_Shopping_S,96.53,5741,342,12
+2025-09-03,Google Ads,G_Shopping_S,161.55,9101,467,16
+2025-09-03,Facebook/Insta,F_Retarget_C,115.85,6721,190,0
+2025-09-04,Google Ads,G_Search_Brnd,86.36,3860,193,6
+2025-09-04,Facebook/Insta,F_Retarget_C,168.72,7708,136,2
+2025-09-04,Facebook/Insta,F_Lookalike_T,136.13,5842,116,1
+2025-09-04,Google Ads,G_Search_Generic,123.93,5820,285,7
+2025-09-04,Google Ads,G_Search_Generic,93.93,3987,168,5
+2025-09-05,Google Ads,G_Shopping_S,108.98,6178,357,12
+2025-09-05,Facebook/Insta,F_Retarget_C,125.65,6669,91,1
+2025-09-05,Google Ads,G_Search_Generic,92.21,5184,204,4
+2025-09-05,Google Ads,G_Search_Generic,80.05,4174,233,4
+2025-09-05,Google Ads,G_Search_Brnd,128.48,6396,256,9
+2025-09-06,Google Ads,G_Search_Brnd,120.38,6668,394,15
+2025-09-06,Google Ads,G_Search_Generic,151.23,7685,296,6
+2025-09-06,Facebook/Insta,F_Retarget_C,121.1,5698,88,1
+2025-09-06,Google Ads,G_Search_Generic,133.09,7018,326,10
+2025-09-06,Google Ads,G_Shopping_S,104.22,4461,183,5
+2025-09-07,Facebook/Insta,F_Lookalike_T,161.64,8656,231,3
+2025-09-07,Google Ads,G_Search_Brnd,165.84,9444,475,9
+2025-09-07,Google Ads,G_Shopping_S,114.87,6328,222,7
+2025-09-07,Google Ads,G_Search_Generic,163.77,8352,336,7
+2025-09-07,Facebook/Insta,F_Retarget_C,149.58,6245,144,2
+2025-09-08,Facebook/Insta,F_Retarget_C,106.08,5570,163,2
+2025-09-08,Facebook/Insta,F_Lookalike_T,113.9,6238,152,2
+2025-09-08,Facebook/Insta,F_Retarget_C,168.78,7378,86,0
+2025-09-08,Facebook/Insta,F_Retarget_C,138.07,8079,232,4
+2025-09-08,Google Ads,G_Search_Generic,134.87,6350,233,7
+2025-09-09,Google Ads,G_Search_Brnd,97.88,5442,269,9
+2025-09-09,Facebook/Insta,F_Lookalike_T,134.25,6324,109,1
+2025-09-09,Google Ads,G_Search_Generic,177.89,7677,435,14
+2025-09-09,Facebook/Insta,F_Retarget_C,144.51,6739,183,2
+2025-09-09,Google Ads,G_Shopping_S,156.86,6290,376,11
+2025-09-10,Google Ads,G_Search_Generic,117.02,6448,377,10
+2025-09-10,Facebook/Insta,F_Lookalike_T,176.36,8046,92,1
+2025-09-10,Google Ads,G_Search_Brnd,111.69,4594,189,5
+2025-09-10,Facebook/Insta,F_Lookalike_T,137.01,6105,136,2
+2025-09-10,Google Ads,G_Shopping_S,109.53,5165,286,6
+2025-09-11,Facebook/Insta,F_Lookalike_T,109.36,4911,128,2
+2025-09-11,Facebook/Insta,F_Retarget_C,80.52,3255,84,1
+2025-09-11,Facebook/Insta,F_Retarget_C,85.08,3873,40,0
+2025-09-11,Google Ads,G_Shopping_S,83.59,3917,232,8
+2025-09-11,Facebook/Insta,F_Lookalike_T,83.73,4186,67,1
+2025-09-12,Google Ads,G_Search_Brnd,107.15,4290,187,6
+2025-09-12,Google Ads,G_Search_Generic,134.06,5630,332,11
+2025-09-12,Google Ads,G_Shopping_S,123.35,6015,194,3
+2025-09-12,Facebook/Insta,F_Lookalike_T,122.83,6844,124,1
+2025-09-12,Google Ads,G_Search_Generic,103.98,5300,272,9
+2025-09-13,Google Ads,G_Search_Brnd,153.79,7621,328,11
+2025-09-13,Google Ads,G_Search_Generic,115.6,5619,188,5
+2025-09-13,Google Ads,G_Shopping_S,84.07,4319,220,6
+2025-09-13,Google Ads,G_Search_Brnd,127.35,6405,281,9
+2025-09-13,Google Ads,G_Search_Generic,143.51,8589,324,6
+2025-09-14,Facebook/Insta,F_Retarget_C,165.65,7973,188,3
+2025-09-14,Facebook/Insta,F_Retarget_C,82.65,4201,95,1
+2025-09-14,Facebook/Insta,F_Lookalike_T,144.33,6729,140,2
+2025-09-14,Google Ads,G_Search_Brnd,145.15,6871,246,5
+2025-09-14,Google Ads,G_Search_Generic,83.9,4108,207,4
+2025-09-15,Google Ads,G_Search_Generic,148.16,6343,239,7
+2025-09-15,Facebook/Insta,F_Retarget_C,142.89,6127,66,0
+2025-09-15,Facebook/Insta,F_Retarget_C,97.74,4365,93,0
+2025-09-15,Facebook/Insta,F_Retarget_C,117.2,6831,114,0
+2025-09-15,Facebook/Insta,F_Lookalike_T,147.98,8245,206,1
+2025-09-16,Facebook/Insta,F_Retarget_C,129.66,5914,96,1
+2025-09-16,Google Ads,G_Search_Brnd,170.54,6896,280,10
+2025-09-16,Facebook/Insta,F_Retarget_C,137.34,6883,80,0
+2025-09-16,Facebook/Insta,F_Retarget_C,147.25,7057,182,1
+2025-09-16,Google Ads,G_Shopping_S,179.59,7816,338,12
+2025-09-17,Google Ads,G_Search_Generic,176.87,10154,536,17
+2025-09-17,Google Ads,G_Shopping_S,122.61,6095,196,7
+2025-09-17,Facebook/Insta,F_Lookalike_T,131.33,6698,199,2
+2025-09-17,Google Ads,G_Search_Brnd,174.72,7204,344,9
+2025-09-17,Facebook/Insta,F_Lookalike_T,157.71,7513,181,2
+2025-09-18,Google Ads,G_Search_Generic,129.26,5822,245,7
+2025-09-18,Facebook/Insta,F_Retarget_C,91.75,5054,125,0
+2025-09-18,Google Ads,G_Search_Brnd,117.49,5522,253,7
+2025-09-18,Facebook/Insta,F_Lookalike_T,176.99,8931,146,0
+2025-09-18,Facebook/Insta,F_Retarget_C,87.38,4745,113,0
+2025-09-19,Google Ads,G_Search_Brnd,149.57,7378,375,10
+2025-09-19,Facebook/Insta,F_Lookalike_T,108.1,5290,94,1
+2025-09-19,Google Ads,G_Search_Generic,98.81,4041,168,4
+2025-09-19,Google Ads,G_Search_Brnd,177.44,9043,460,14
+2025-09-19,Google Ads,G_Search_Brnd,148.47,6862,233,5
+2025-09-20,Facebook/Insta,F_Lookalike_T,152.57,7940,225,1
+2025-09-20,Facebook/Insta,F_Lookalike_T,84.52,4522,82,0
+2025-09-20,Google Ads,G_Shopping_S,95.04,4653,244,6
+2025-09-20,Facebook/Insta,F_Lookalike_T,163.83,8186,87,0
+2025-09-20,Google Ads,G_Shopping_S,166.47,8658,398,13
+2025-09-21,Facebook/Insta,F_Lookalike_T,156.9,8999,226,3
+2025-09-21,Google Ads,G_Search_Brnd,92.92,3766,144,3
+2025-09-21,Facebook/Insta,F_Retarget_C,141.81,7814,95,1
+2025-09-21,Google Ads,G_Search_Generic,163.14,6792,370,14
+2025-09-21,Google Ads,G_Shopping_S,120.35,5436,241,6
+2025-09-22,Facebook/Insta,F_Retarget_C,150.41,6450,181,0
+2025-09-22,Facebook/Insta,F_Retarget_C,138.99,6917,129,0
+2025-09-22,Google Ads,G_Search_Generic,125.09,6361,266,8
+2025-09-22,Facebook/Insta,F_Lookalike_T,159.65,6522,186,0
+2025-09-22,Google Ads,G_Search_Brnd,178.0,9220,372,8
+2025-09-23,Facebook/Insta,F_Lookalike_T,87.59,4263,81,1
+2025-09-23,Google Ads,G_Search_Brnd,169.68,10053,456,17
+2025-09-23,Facebook/Insta,F_Lookalike_T,84.09,4391,74,0
+2025-09-23,Google Ads,G_Search_Generic,92.06,3914,159,6
+2025-09-23,Google Ads,G_Search_Generic,149.04,8802,475,15
+2025-09-24,Google Ads,G_Search_Generic,95.7,3874,123,3
+2025-09-24,Facebook/Insta,F_Lookalike_T,139.73,7304,103,1
+2025-09-24,Google Ads,G_Search_Generic,156.0,8364,366,12
+2025-09-24,Google Ads,G_Shopping_S,151.33,7699,426,14
+2025-09-24,Google Ads,G_Search_Generic,124.74,6895,257,6
+2025-09-25,Google Ads,G_Search_Generic,136.4,6751,245,6
+2025-09-25,Google Ads,G_Search_Brnd,114.29,6643,334,11
+2025-09-25,Google Ads,G_Shopping_S,138.42,7029,334,11
+2025-09-25,Google Ads,G_Shopping_S,117.88,6256,356,11
+2025-09-25,Google Ads,G_Shopping_S,178.65,10594,393,8
+2025-09-26,Google Ads,G_Shopping_S,128.78,7548,265,10
+2025-09-26,Google Ads,G_Shopping_S,81.82,3500,208,4
+2025-09-26,Google Ads,G_Shopping_S,166.55,7307,432,12
+2025-09-26,Facebook/Insta,F_Retarget_C,172.94,7763,160,2
+2025-09-26,Facebook/Insta,F_Lookalike_T,98.7,5089,123,1
+2025-09-27,Facebook/Insta,F_Retarget_C,91.48,3748,95,1
+2025-09-27,Google Ads,G_Shopping_S,128.11,7150,341,9
+2025-09-27,Google Ads,G_Search_Brnd,86.34,3624,130,4
+2025-09-27,Google Ads,G_Shopping_S,148.15,8758,293,8
+2025-09-27,Facebook/Insta,F_Lookalike_T,114.89,6199,164,3
+2025-09-28,Google Ads,G_Shopping_S,173.83,9588,396,15
+2025-09-28,Facebook/Insta,F_Retarget_C,164.18,7439,186,3
+2025-09-28,Facebook/Insta,F_Lookalike_T,161.46,6535,133,1
+2025-09-28,Facebook/Insta,F_Lookalike_T,148.3,7794,146,2
+2025-09-28,Google Ads,G_Search_Generic,133.98,5933,267,6
+2025-09-29,Facebook/Insta,F_Lookalike_T,133.19,6147,172,2
+2025-09-29,Google Ads,G_Search_Generic,113.28,5733,229,5
+2025-09-29,Facebook/Insta,F_Lookalike_T,129.54,5658,157,2
+2025-09-29,Google Ads,G_Search_Brnd,150.7,6977,239,5
+2025-09-29,Facebook/Insta,F_Lookalike_T,167.68,9619,115,1
+2025-09-30,Google Ads,G_Search_Brnd,92.75,5428,244,7
+2025-09-30,Google Ads,G_Search_Brnd,152.0,6174,296,9
+2025-09-30,Facebook/Insta,F_Lookalike_T,114.57,4592,134,1
+2025-09-30,Google Ads,G_Shopping_S,126.2,7397,358,13
+2025-09-30,Google Ads,G_Search_Generic,141.15,7284,409,15
